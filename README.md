@@ -39,7 +39,7 @@ Whether analyzing genomic datasets or engineering high-frequency financial telem
     <tr>
       <td><b>Arb-Inc-All-in-Dex</b></td>
       <td>
-        Institutional multi-chain DEX aggregator and cross-chain bridge integration (Mayan Finance / Solana / EVM). Features deterministic pro-rata yield calculation engines (<code>lib/financial-math.ts</code> with automated unit testing suites), non-custodial limit order routing, and PWA mobile optimization.
+        Production multi-chain DEX aggregator and cross-chain bridge integration (Mayan Finance / Solana / EVM). Features deterministic pro-rata yield calculation engines (<code>lib/financial-math.ts</code> with automated unit testing suites), non-custodial limit order routing, and PWA mobile optimization.
       </td>
       <td>
         <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex">GitHub</a> · 
