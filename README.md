@@ -1,27 +1,26 @@
 # Luca Celebrano
 
 **MD Candidate** · Università degli Studi di Napoli Federico II  
-**Bioinformatics & Medical Genetics** · TIGEM (Telethon Institute of Genetics and Medicine)  
 **Computational Systems & Full-Stack Engineer**
 
 ---
 
 ### About Me
 
-I am a sixth-year medical student at **Università degli Studi di Napoli Federico II**, conducting my experimental thesis research in **Medical Genetics and Bioinformatics at TIGEM**. 
+I am a medical student at **Università degli Studi di Napoli Federico II** with a strong focus on computational systems, software architecture, and data engineering.
 
-Alongside clinical training, I design and build production-grade software architectures from scratch—spanning deterministic computational algorithms, distributed event-streaming daemons, high-throughput Web3 protocols, and modern web applications. 
+Alongside my academic training, I design and build production-grade software architectures—spanning deterministic computational algorithms, distributed event-streaming daemons, high-throughput Web3 protocols, and modern web applications.
 
-Whether analyzing genomic datasets or engineering high-frequency financial telemetry, my approach centers on mathematical rigor, reproducible pipelines, and zero-compromise security standards.
+My approach centers on mathematical rigor, reproducible pipelines, and zero-compromise security standards.
 
 ---
 
 ### Core Competencies
 
-- **Computational & Deterministic Modeling:** Algorithm design, deterministic state machines, statistical verification, and custom NLP deliberation pipelines.
+- **Computational & Deterministic Modeling:** Algorithm design, deterministic state machines, statistical verification, and custom rule-based intent pipelines.
 - **Full-Stack & Systems Architecture:** TypeScript, Python, Node.js, Next.js / React, Express, REST & WebSocket streams, RPC log parsing.
 - **DevOps & Cloud Infrastructure:** Docker containerization, Linux CLI automation, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Git CI/CD.
-- **Data Engineering & Telemetry:** Event decoding, real-time metrics aggregation, ECharts / Highcharts data visualization, on-chain contract auditing.
+- **Data Engineering & Telemetry:** Event decoding, real-time metrics aggregation, ECharts / Highcharts data visualization, on-chain contract telemetry.
 
 ---
 
@@ -61,7 +60,7 @@ Whether analyzing genomic datasets or engineering high-frequency financial telem
     <tr>
       <td><b>Virtue</b></td>
       <td>
-        Moral deliberation engine powered by an in-house deterministic NLP tokenizer and classification agent (2,200+ LOC rule engine). Analyzes ethical context, sentiment dynamics, and tokenomic absolution mechanics without relying on opaque third-party APIs.
+        Rule-based conversational engine and real-time financial calculator (2,200+ LOC deterministic logic). Analyzes conversational context and tokenomic calculations with deterministic accuracy without relying on third-party APIs.
       </td>
       <td>
         <a href="https://github.com/Lukecele/virtue">GitHub</a> · 
@@ -94,7 +93,7 @@ Whether analyzing genomic datasets or engineering high-frequency financial telem
 
 ### Academic & Professional Contact
 
-- **Institution:** Università degli Studi di Napoli Federico II / TIGEM
+- **Institution:** Università degli Studi di Napoli Federico II
 - **Email:** [luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)
 - **GitHub:** [https://github.com/Lukecele](https://github.com/Lukecele)
 - **Location:** Naples, Italy
