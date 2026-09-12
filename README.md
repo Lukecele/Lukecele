@@ -1,17 +1,17 @@
 # Luca Celebrano
 
 **MD Candidate** · Università degli Studi di Napoli Federico II  
-**Computational Systems & Full-Stack Engineer**
+**Web3 & Computational Systems Engineer**
 
 ---
 
 ### About Me
 
-I am a medical student at **Università degli Studi di Napoli Federico II** with a strong focus on computational systems, software architecture, and data engineering.
+I am a medical student at **Università degli Studi di Napoli Federico II** with a focus on computational systems, software architecture, and on-chain data engineering.
 
-Alongside my academic training, I design and build production-grade software architectures—spanning deterministic computational algorithms, distributed event-streaming daemons, high-throughput Web3 protocols, and modern web applications.
+Alongside my academic training, I design and build live Web3 applications, deterministic financial logic, and real-time on-chain data systems.
 
-My approach centers on mathematical rigor, reproducible pipelines, and zero-compromise security standards.
+My focus centers on tested financial and telemetry logic, reproducible data pipelines, and clean, documented open-source integrations.
 
 ---
 
@@ -38,18 +38,18 @@ My approach centers on mathematical rigor, reproducible pipelines, and zero-comp
     <tr>
       <td><b>Arb-Inc-All-in-Dex</b></td>
       <td>
-        Production multi-chain DEX aggregator and cross-chain bridge integration (Mayan Finance / Solana / EVM). Features deterministic pro-rata yield calculation engines (<code>lib/financial-math.ts</code> with automated unit testing suites), non-custodial limit order routing, and PWA mobile optimization.
+        Multi-chain DEX aggregator and cross-chain bridge integration (Mayan Finance / Solana / EVM). Features deterministic pro-rata yield calculation engines (<code>lib/financial-math.ts</code> with automated unit testing suites), non-custodial limit order routing, and PWA mobile optimization.
       </td>
       <td>
         <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex">GitHub</a> · 
-        <a href="https://arbitrage-inc.exchange">Live Production</a> · 
-        <i>Verified on DefiLlama</i>
+        <a href="https://arbitrage-inc.exchange">Live Application</a> · 
+        <i>DeFiLlama-listed protocol metrics & merged fee adapter</i>
       </td>
     </tr>
     <tr>
       <td><b>Inception Flap Scanner</b></td>
       <td>
-        Real-time on-chain contract auditor, token launch monitor, and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, automated tax / security verification, and containerized deployment with Node 22 on Hugging Face Spaces.
+        Real-time on-chain security screener, token launch monitor, and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, automated tax / security verification, and containerized deployment with Node 22 on Hugging Face Spaces.
       </td>
       <td>
         <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
@@ -64,7 +64,7 @@ My approach centers on mathematical rigor, reproducible pipelines, and zero-comp
       </td>
       <td>
         <a href="https://github.com/Lukecele/virtue">GitHub</a> · 
-        <a href="https://virtue-ecru.vercel.app">Live Production</a> · 
+        <a href="https://virtue-ecru.vercel.app">Live Demo</a> · 
         <i>Next.js & Vercel Edge</i>
       </td>
     </tr>
@@ -86,8 +86,7 @@ My approach centers on mathematical rigor, reproducible pipelines, and zero-comp
 
 ### Open Source Contributions
 
-- **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Integration adapters for protocol volume tracking and cross-chain metrics.
-- **[DefiLlama / defillama-server](https://github.com/DefiLlama/defillama-server):** TVL calculation adapters and protocol telemetry parsers.
+- **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Merged protocol fee adapter and on-chain telemetry integration ([PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275)).
 
 ---
 
