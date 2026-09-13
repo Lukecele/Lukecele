@@ -76,7 +76,8 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
       <td>
         <a href="https://github.com/Lukecele/birdeye-dex-tracker">GitHub</a> · 
-        <i>Self-Hosted / Google Cloud Run Daemon</i>
+        <a href="https://birdeye-telegram-bot-697887897331.europe-west2.run.app">Live Dashboard</a> · 
+        <i>Google Cloud Run</i>
       </td>
     </tr>
     <tr>
