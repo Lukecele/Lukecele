@@ -70,13 +70,14 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
     </tr>
     <tr>
-      <td><b>Birdeye DEX Tracker</b></td>
+      <td><b>Birdeye DEX Tracker &amp; Bot</b></td>
       <td>
-        Real-time liquidity pool swap monitor and Telegram alert bot. Connects directly to DEX APIs and RPC nodes, processing trade volumes and dispatching rich event notifications (&gt;9,500 live transactions logged) with an integrated administrative dashboard.
+        Real-time liquidity pool swap monitor and production Telegram alert bot (<a href="https://t.me/ArbincMoon_bot">@ArbincMoon_bot</a>). Connects directly to DEX APIs and RPC nodes, streaming live buy/sell events and USD volumes (&gt;9,500 transactions logged) to dedicated community trading topics, backed by a Google Cloud Run administrative dashboard.
       </td>
       <td>
         <a href="https://github.com/Lukecele/birdeye-dex-tracker">GitHub</a> · 
-        <a href="https://birdeye-telegram-bot-697887897331.europe-west2.run.app">Live Dashboard</a> · 
+        <a href="https://t.me/ArbincMoon_bot">@ArbincMoon_bot</a> · 
+        <a href="https://birdeye-telegram-bot-697887897331.europe-west2.run.app">Dashboard</a> · 
         <i>Google Cloud Run</i>
       </td>
     </tr>
