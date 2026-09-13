@@ -50,7 +50,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
     <tr>
       <td><b>Inception Flap Scanner</b></td>
       <td>
-        Real-time on-chain security screener, token launch monitor, and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, automated tax / security verification, and containerized deployment with Node 22 on Hugging Face Spaces.
+        Real-time on-chain token launch screener and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, live Flap.sh curve metrics, interactive DexScreener charts, and an automated 4-tier security auditor (tax safeguards ≤8%, ERC-1167 proxy verification, social phishing/copycat detection, dev wallet clustering). Fully containerized with Node 22 on Hugging Face Spaces.
       </td>
       <td>
         <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
