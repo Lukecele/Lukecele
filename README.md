@@ -48,6 +48,17 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
     </tr>
     <tr>
+      <td><b>Arbitrage Inception — Earn & Vaults</b></td>
+      <td>
+        Multi-protocol yield aggregator and vault manager on BNB Smart Chain. Integrates KyberSwap Aggregation API for automated token routing into Liquid Staking (Lista DAO, pSTAKE, Stader) and Lending Markets (Venus Protocol) with single-transaction execution.
+      </td>
+      <td>
+        <a href="https://github.com/Lukecele/arbitrage-inc-earn">GitHub</a> · 
+        <a href="https://arbitrage-inc-earn.vercel.app">Live Application</a> · 
+        <i>Next.js & Vercel</i>
+      </td>
+    </tr>
+    <tr>
       <td><b>Inception Flap Scanner</b></td>
       <td>
         Real-time on-chain token launch screener and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, live Flap.sh curve metrics, interactive DexScreener charts, and an automated 4-tier security auditor (tax safeguards ≤8%, ERC-1167 proxy verification, social phishing/copycat detection, dev wallet clustering). Fully containerized with Node 22 on Hugging Face Spaces.
@@ -56,17 +67,6 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
         <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
         <a href="https://lucace-inception-flap-scanner.hf.space">Live Demo</a> · 
         <i>Docker SDK</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Virtue</b></td>
-      <td>
-        Rule-based conversational engine and real-time financial calculator (2,200+ LOC deterministic logic). Analyzes conversational context and tokenomic calculations with deterministic accuracy without relying on third-party APIs.
-      </td>
-      <td>
-        <a href="https://github.com/Lukecele/virtue">GitHub</a> · 
-        <a href="https://virtue-ecru.vercel.app">Live Demo</a> · 
-        <i>Next.js & Vercel Edge</i>
       </td>
     </tr>
     <tr>
@@ -83,14 +83,14 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
     </tr>
     <tr>
-      <td><b>Arbitrage Inception — Earn & Vaults</b></td>
+      <td><b>Virtue</b></td>
       <td>
-        Multi-protocol yield aggregator and vault manager on BNB Smart Chain. Integrates KyberSwap Aggregation API for automated token routing into Liquid Staking (Lista DAO, pSTAKE, Stader) and Lending Markets (Venus Protocol) with single-transaction execution.
+        Rule-based conversational engine and real-time financial calculator (2,200+ LOC deterministic logic). Analyzes conversational context and tokenomic calculations with deterministic accuracy without relying on third-party APIs.
       </td>
       <td>
-        <a href="https://github.com/Lukecele/arbitrage-inc-earn">GitHub</a> · 
-        <a href="https://arbitrage-inc-earn.vercel.app">Live Application</a> · 
-        <i>Next.js & Vercel</i>
+        <a href="https://github.com/Lukecele/virtue">GitHub</a> · 
+        <a href="https://virtue-ecru.vercel.app">Live Demo</a> · 
+        <i>Next.js & Vercel Edge</i>
       </td>
     </tr>
   </tbody>
