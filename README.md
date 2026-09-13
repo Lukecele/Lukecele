@@ -79,6 +79,17 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
         <i>Google Cloud Run</i>
       </td>
     </tr>
+    <tr>
+      <td><b>Arbitrage Inception — Earn & Vaults</b></td>
+      <td>
+        Multi-protocol yield aggregator and vault manager on BNB Smart Chain. Integrates KyberSwap Aggregation API for automated token routing into Liquid Staking (Lista DAO, pSTAKE, Stader) and Lending Markets (Venus Protocol) with single-transaction execution.
+      </td>
+      <td>
+        <a href="https://github.com/Lukecele/arbitrage-inc-earn">GitHub</a> · 
+        <a href="https://arbitrage-inc-earn.vercel.app">Live Application</a> · 
+        <i>Next.js & Vercel</i>
+      </td>
+    </tr>
   </tbody>
 </table>
 
