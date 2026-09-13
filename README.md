@@ -17,11 +17,11 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
 
 ### Core Competencies
 
-- **Computational & Deterministic Modeling:** Algorithm design, deterministic state machines, statistical verification, and custom rule-based intent pipelines.
-- **Full-Stack & Systems Architecture:** TypeScript, Python, Node.js, Next.js / React, Express, REST & WebSocket streams, RPC log parsing.
-- **DevOps & Cloud Infrastructure:** Docker containerization, Linux CLI automation, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Git CI/CD.
-- **Web3 & DeFi Engineering:** EVM smart contract interaction (Viem, Wagmi, Ethers), multi-protocol yield aggregation, lending markets (Venus Protocol / vTokens), liquid staking integration (Lista DAO, pSTAKE, Stader), DEX aggregator routing (KyberSwap, Mayan Finance), and DeFiLlama dimension adapters.
-- **Data Engineering & Telemetry:** Event decoding, real-time metrics aggregation, ECharts / Highcharts data visualization, on-chain contract telemetry.
+- **Quantitative & Deterministic Modeling:** Algorithm design, multi-factor scoring pipelines (liquidity depth, volume acceleration, dev wallet clustering, bonding curve progression), statistical backtesting engines, and custom deterministic state machines.
+- **Full-Stack, Mobile & Systems Architecture:** TypeScript, Python (AsyncIO), Next.js 16 / React 19, React Native & Expo (cross-platform iOS & Android), Node.js, Express daemons, REST & WebSocket event streams.
+- **Multi-Chain Web3 & DeFi Engineering:** EVM (BNB Smart Chain, Ethereum), Solana, and Cosmos/Terra ecosystems. Smart contract interaction (Viem, Wagmi, Ethers, Solana Web3), DEX aggregator routing (KyberSwap, Mayan Finance cross-chain bridge), multi-protocol yield aggregation (Venus Protocol, Lista DAO, pSTAKE, Stader), and DeFiLlama dimension adapters.
+- **Networking, Security & Infrastructure:** WireGuard VPN protocol integration & cryptographic handshake management, Docker containerization, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Linux CLI automation, and GitHub Actions CI/CD.
+- **Data Engineering, Telemetry & Real-Time Analytics:** High-throughput RPC log parsing, on-chain mempool screener pipelines, triangular arbitrage path simulations, 4-tier contract security auditing, and live interactive data visualization (ECharts / Highcharts).
 
 ---
 
