@@ -98,6 +98,62 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
 
 ---
 
+### Research Baselines, Tooling & Open-Source Prototypes
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Architecture & Purpose</th>
+      <th>Status & Disclosures</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Solana Meme Intelligence (v8)</b></td>
+      <td>
+        Institutional quantitative research baseline for Solana DEX and meme coin tokenomics. Features deterministic multi-factor scoring (liquidity depth, volume acceleration, dev wallet clustering, bonding curve progression), robust async RPC/Birdeye ingestion pipeline, and statistical backtesting framework.
+      </td>
+      <td>
+        <a href="https://github.com/Lukecele/meme-intelligence-onchain">GitHub</a> · 
+        <i>Open-source research framework. Synthetic data stripped; requires user-supplied Helius/Birdeye API keys for live ingestion.</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>BSC Arbitrage Scanner</b></td>
+      <td>
+        Real-time asynchronous arbitrage scanner and cross-DEX route simulation engine on BNB Smart Chain. Consumes live token lists and queries KyberSwap Aggregator v1 APIs to identify instantaneous price discrepancies and compute optimal swap routes.
+      </td>
+      <td>
+        <a href="https://github.com/Lukecele/bsc-arbitrage-scanner">GitHub</a> · 
+        <i>Read-only simulation tool with live API telemetry. Automated on-chain execution disabled.</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>ARBVPN Client</b></td>
+      <td>
+        Cross-platform 1-tap WireGuard VPN mobile application built with React Native and TypeScript. Features cryptographic handshake state management, live latency metrics, and decoupled configuration architecture preventing hardcoded key leaks.
+      </td>
+      <td>
+        <a href="https://github.com/Lukecele/ARBVPN">GitHub</a> · 
+        <i>Decoupled client architecture. Requires user to provide WireGuard server endpoint and keys (template provided).</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>LUNC Devourer</b></td>
+      <td>
+        Interactive Web3 dApp showcase and mathematical burn fee simulator built on Terra Classic / Next.js. Implements Terra Station wallet integration, live tokenomics math, and on-chain burn modeling.
+      </td>
+      <td>
+        <a href="https://github.com/Lukecele/lunc-devourer">GitHub</a> · 
+        <i>Historical showcase & fee simulator. Underlying token launchpad (LaunchPump) ceased operations; swap execution disabled.</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### Open Source Contributions
 
 - **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Merged protocol fee adapter and on-chain telemetry integration ([PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275)).
