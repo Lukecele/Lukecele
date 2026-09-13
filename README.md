@@ -65,7 +65,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
       <td>
         <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
-        <a href="https://lucace-inception-flap-scanner.hf.space">Live Demo</a> · 
+        <a href="https://lucace-inception-flap-scanner.hf.space">Live Application</a> · 
         <i>Docker SDK</i>
       </td>
     </tr>
@@ -89,7 +89,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
       <td>
         <a href="https://github.com/Lukecele/virtue">GitHub</a> · 
-        <a href="https://virtue-ecru.vercel.app">Live Demo</a> · 
+        <a href="https://virtue-ecru.vercel.app">Live Application</a> · 
         <i>Next.js & Vercel Edge</i>
       </td>
     </tr>
