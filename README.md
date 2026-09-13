@@ -20,6 +20,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
 - **Computational & Deterministic Modeling:** Algorithm design, deterministic state machines, statistical verification, and custom rule-based intent pipelines.
 - **Full-Stack & Systems Architecture:** TypeScript, Python, Node.js, Next.js / React, Express, REST & WebSocket streams, RPC log parsing.
 - **DevOps & Cloud Infrastructure:** Docker containerization, Linux CLI automation, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Git CI/CD.
+- **Web3 & DeFi Engineering:** EVM smart contract interaction (Viem, Wagmi, Ethers), multi-protocol yield aggregation, lending markets (Venus Protocol / vTokens), liquid staking integration (Lista DAO, pSTAKE, Stader), DEX aggregator routing (KyberSwap, Mayan Finance), and DeFiLlama dimension adapters.
 - **Data Engineering & Telemetry:** Event decoding, real-time metrics aggregation, ECharts / Highcharts data visualization, on-chain contract telemetry.
 
 ---
