@@ -44,7 +44,8 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       <td>
         <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex">GitHub</a> · 
         <a href="https://arbitrage-inc.exchange">Live Application</a> · 
-        <i>DeFiLlama-listed protocol metrics & merged fee adapter</i>
+        <a href="https://defillama.com/protocol/arbitrage-inc">DefiLlama</a> · 
+        <a href="https://github.com/ahmet/awesome-web3/blob/main/README.md#L409">Awesome-Web3</a>
       </td>
     </tr>
     <tr>
@@ -66,6 +67,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       <td>
         <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
         <a href="https://lucace-inception-flap-scanner.hf.space">Live Application</a> · 
+        <a href="https://github.com/ahmet/awesome-web3/blob/main/README.md#L345">Awesome-Web3</a> · 
         <i>Docker SDK</i>
       </td>
     </tr>
@@ -154,9 +156,11 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
 
 ---
 
-### Open Source Contributions
+### Open Source Contributions & Verified Indexing
 
-- **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Merged protocol fee adapter and on-chain telemetry integration ([PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275)).
+- **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Merged protocol fee adapter and on-chain metrics integration ([PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275)) — live analytics on [DefiLlama Protocol Analytics](https://defillama.com/protocol/arbitrage-inc).
+- **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([PR #796](https://github.com/ahmet/awesome-web3/pull/796)) and *Inception Flap Scanner* ([PR #795](https://github.com/ahmet/awesome-web3/pull/795)).
+- **[BNB Chain Developer Tooling](https://github.com/bnb-chain/developer-tools-list/pull/98):** Ecosystem developer tools submission, security-audited and cleared by Hashdit Bot.
 
 ---
 
