@@ -45,7 +45,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
         <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex">GitHub</a> · 
         <a href="https://arbitrage-inc.exchange">Live Application</a> · 
         <a href="https://defillama.com/protocol/arbitrage-inc">DefiLlama</a> · 
-        <a href="https://github.com/ahmet/awesome-web3/blob/main/README.md#L409">Awesome-Web3</a>
+        <a href="https://github.com/ahmet/awesome-web3/pull/796">Awesome-Web3 (PR #796)</a>
       </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       <td>
         <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
         <a href="https://lucace-inception-flap-scanner.hf.space">Live Application</a> · 
-        <a href="https://github.com/ahmet/awesome-web3/blob/main/README.md#L345">Awesome-Web3</a> · 
+        <a href="https://github.com/ahmet/awesome-web3/pull/795">Awesome-Web3 (PR #795)</a> · 
         <i>Docker SDK</i>
       </td>
     </tr>
