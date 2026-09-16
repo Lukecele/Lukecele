@@ -173,6 +173,12 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
 
 ---
 
+### ⭐ Open-Source Support
+
+If you find any of these repositories, architecture models, or on-chain telemetry engines helpful in your work or research, please consider leaving a **Star** on the respective projects. Your feedback and support help drive continuous open-source development and ecosystem maintenance!
+
+---
+
 ### Open-Source Architecture & Non-Custodial Notice
 
 All software repositories, architectural diagrams, and algorithms showcased on this profile represent free, open-source contributions and research implementations published under permissive licenses (MIT). The author acts as an independent software engineer and computational researcher. No repository or interface constitutes investment advice, financial intermediation, or custodial brokerage services. Public decentralized protocols referenced operate autonomously on-chain with immutable, renounced ownership parameters.
