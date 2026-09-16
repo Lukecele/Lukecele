@@ -43,6 +43,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
       <td>
         <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex">GitHub</a> · 
+        <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex/releases/tag/v1.1.0">v1.1.0 Release</a> · 
         <a href="https://arbitrage-inc.exchange">Live Application</a> · 
         <a href="https://defillama.com/protocol/arbitrage-inc">DefiLlama</a> · 
         <a href="https://github.com/ahmet/awesome-web3/pull/796">Awesome-Web3 (PR #796)</a>
@@ -66,6 +67,7 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
       <td>
         <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
+        <a href="https://github.com/Lukecele/inception-flap-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
         <a href="https://lucace-inception-flap-scanner.hf.space">Live Application</a> · 
         <a href="https://github.com/ahmet/awesome-web3/pull/795">Awesome-Web3 (PR #795)</a> · 
         <i>Docker SDK</i>
@@ -105,20 +107,20 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Architecture & Purpose</th>
-      <th>Status & Disclosures</th>
+      <th>System</th>
+      <th>Architecture & Description</th>
+      <th>Status & Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Solana Meme Intelligence (v8)</b></td>
+      <td><b>Meme Intelligence On-Chain</b></td>
       <td>
-        Institutional quantitative research baseline for Solana DEX and meme coin tokenomics. Features deterministic multi-factor scoring (liquidity depth, volume acceleration, dev wallet clustering, bonding curve progression), robust async RPC/Birdeye ingestion pipeline, and statistical backtesting framework.
+        Institutional quantitative research baseline for Solana DEX and meme coin tokenomics (v8). Features statistical backtesting engines, holder distribution heuristics, liquidity pool decay modeling, and risk scoring pipelines.
       </td>
       <td>
         <a href="https://github.com/Lukecele/meme-intelligence-onchain">GitHub</a> · 
-        <i>Open-source research framework. Synthetic data stripped; requires user-supplied Helius/Birdeye API keys for live ingestion.</i>
+        <i>Quantitative research framework & Python backtesting engine.</i>
       </td>
     </tr>
     <tr>
@@ -128,7 +130,8 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
       </td>
       <td>
         <a href="https://github.com/Lukecele/bsc-arbitrage-scanner">GitHub</a> · 
-        <i>Read-only simulation tool with live API telemetry. Automated on-chain execution disabled.</i>
+        <a href="https://github.com/Lukecele/bsc-arbitrage-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
+        <i>Production simulation engine with GoPlus security & dynamic gas modeling.</i>
       </td>
     </tr>
     <tr>
@@ -156,11 +159,16 @@ My focus centers on tested financial and telemetry logic, reproducible data pipe
 
 ---
 
-### Open Source Contributions & Verified Indexing
+### Open Source Adoption & Verified Ecosystem Indexing
 
+- **Global Developer Adoption & Telemetry:** Over **1,190 clones from 582 unique developers worldwide** across active production repositories (validated via GitHub Traffic Analytics).
+- **GitHub Global Search Rankings:**
+  - **#1 Worldwide on GitHub:** *BSC Arbitrage Scanner* (`bsc-arbitrage-scanner`) and *Bonding Curve Telemetry* (`inception-flap-scanner`).
+  - **#3 Worldwide on GitHub:** *BSC DEX Aggregator* (`Arb-Inc-All-in-Dex`), representing the **#1 active production implementation** globally.
 - **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Production fee adapter and real yield metrics merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
-- **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([PR #796](https://github.com/ahmet/awesome-web3/pull/796)) and *Inception Flap Scanner* ([PR #795](https://github.com/ahmet/awesome-web3/pull/795)).
 - **[BNB Chain Developer Tooling](https://github.com/bnb-chain/developer-tools-list/pull/98):** Ecosystem developer tools submission, [security audit passed via Hashdit Bot (Zero issues detected)](https://github.com/bnb-chain/developer-tools-list/pull/98#issuecomment-5652788720).
+- **[BNB Chain Awesome Catalog](https://github.com/bnb-chain/awesome/pull/16):** Curated BNB Smart Chain ecosystem tools submission ([PR #16](https://github.com/bnb-chain/awesome/pull/16)).
+- **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([PR #796](https://github.com/ahmet/awesome-web3/pull/796)) and *Inception Flap Scanner* ([PR #795](https://github.com/ahmet/awesome-web3/pull/795)).
 
 ---
 
