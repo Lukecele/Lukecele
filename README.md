@@ -166,10 +166,12 @@ Through this architecture-first methodology, I design, maintain, and ship deploy
 
 - **Public Repository Activity:** GitHub Traffic Analytics currently reports, in the latest available weekly windows, **438 clones / 192 unique cloners** for *Arb-Inc-All-in-Dex*, **126 / 61** for *bsc-arbitrage-scanner*, and **297 / 125** for *inception-flap-scanner* (repository-level figures; windows and unique counts should not be summed across repositories).
 - **Niche Search Visibility:** These projects were observed in top results for selected GitHub searches such as “BSC DEX aggregator” on **17 September 2026**. GitHub rankings vary by query, indexing, and time, so this is not presented as a global or permanent rank.
-- **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Production fee adapter and real yield metrics merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
+- **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Upstream production fee adapters and real yield metrics merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [PR #6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
+- **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([Open Source Project, Line 407](https://github.com/ahmet/awesome-web3/blob/main/README.md#L407), [PR #796](https://github.com/ahmet/awesome-web3/pull/796)) and *Inception Flap Scanner* ([Risk Management, Line 343](https://github.com/ahmet/awesome-web3/blob/main/README.md#L343), [PR #795](https://github.com/ahmet/awesome-web3/pull/795)).
+
+#### Ecosystem Submissions (Pending Maintainer Review)
 - **[BNB Chain Developer Tooling](https://github.com/bnb-chain/developer-tools-list/pull/98):** Open ecosystem developer-tools submission; HashDit reported no serious issues in an automated scan. The PR remains open and the scan is not a manual audit.
 - **[BNB Chain Awesome Catalog](https://github.com/bnb-chain/awesome/pull/16):** Open curated BNB Smart Chain ecosystem-tools submission; HashDit reported no serious issues in an automated scan. The PR remains open and the scan is not a manual audit.
-- **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([Open Source Project, Line 407](https://github.com/ahmet/awesome-web3/blob/main/README.md#L407)) and *Inception Flap Scanner* ([Risk Management, Line 343](https://github.com/ahmet/awesome-web3/blob/main/README.md#L343)).
 
 ---
 
