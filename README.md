@@ -1,20 +1,20 @@
 # Luca Celebrano
 
-**MD Candidate** · Università degli Studi di Napoli Federico II  
-**Founder & Lead Architect @ [Arbitrage Inception](https://github.com/arbincept) · Web3 Systems & DeFi Protocol Designer**
+**MD Candidate** · Università degli Studi di Napoli Federico II (Experimental Degree Thesis in Bioinformatics @ TIGEM)  
+**Founder & Systems Builder @ [Arbitrage Inception](https://github.com/arbincept) · AI-Native Web3 & DeFi Protocol Designer**
 
 ---
 
 ### About Me
 
-I am a medical student at **Università degli Studi di Napoli Federico II** with a deep focus on computational systems, quantitative logic, and decentralized finance.
+I am a medical student and MD candidate at **Università degli Studi di Napoli Federico II**, currently conducting my experimental degree thesis in bioinformatics at **TIGEM (Telethon Institute of Genetics and Medicine)**, with a personal focus on computational systems, quantitative logic, and decentralized finance.
 
-Since 2021, I have worked across the on-chain DeFi ecosystem, analyzing automated market makers, cross-chain bridge dynamics, and tokenomics structures. I work as an **AI-augmented systems architect**, combining domain expertise, quantitative modeling, and practical systems judgment to design and coordinate modern engineering pipelines.
+Since 2021, I have worked across the on-chain Web3 ecosystem. I work as an **AI-native systems builder and protocol designer**, combining scientific discipline, advanced AI-augmented workflows, and five years of hands-on DeFi domain experience to design, validate, and deploy production software.
 
-Through this architecture-first methodology, I design, maintain, and ship deployed Web3 platforms, real-time on-chain telemetry screeners, and deterministic financial infrastructure. Selected systems have public releases, CI validation, live deployments, and public protocol analytics.
+Through this methodology, I build and deploy non-custodial DEX aggregation platforms, real-time on-chain telemetry screeners, deterministic NLP conversational engines (zero-hallucination ELIZA pattern-matching models), and cryptographic mobile networking clients. These systems feature semantic releases, automated CI testing, live mainnet deployments, and verified upstream contributions to canonical Web3 repositories including **DefiLlama** and **ahmet/awesome-web3**.
 
 > 🛠️ **The "Pain-Stack" Genesis:**  
-> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, testing LLM-assisted workflows with tactical CLI inspection, and building actively maintained DeFi systems through quantitative rigor and continuous shipping.*
+> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, testing LLM-assisted workflows with tactical CLI inspection, and building actively maintained Web3 systems through quantitative rigor and continuous shipping.*
 
 ---
 
