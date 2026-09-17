@@ -1,27 +1,30 @@
 # Luca Celebrano
 
 **MD Candidate** · Università degli Studi di Napoli Federico II  
-**Web3 & Computational Systems Engineer**
+**Web3 Systems Architect · DeFi Protocol Designer & AI-Native Builder**
 
 ---
 
 ### About Me
 
-I am a medical student at **Università degli Studi di Napoli Federico II** with a focus on computational systems, software architecture, and on-chain data engineering.
+I am a medical student at **Università degli Studi di Napoli Federico II** with a deep focus on computational systems, quantitative logic, and decentralized finance.
 
-Alongside my academic training, I design and build live Web3 applications, deterministic financial logic, and real-time on-chain data systems.
+Since 2021, I have actively navigated the on-chain DeFi ecosystem, analyzing automated market makers, cross-chain bridge dynamics, and tokenomics structures. Rather than operating as a traditional syntax programmer, I work as an **AI-augmented systems architect**: combining deep domain expertise, rigorous quantitative modeling, and market-tested intuition to direct, audit, and orchestrate modern AI-native engineering pipelines.
 
-My focus centers on tested financial and telemetry logic, reproducible data pipelines, and clean, documented open-source integrations.
+Through this architecture-first methodology, I design, verify, and ship production-grade Web3 platforms, real-time on-chain telemetry screeners, and deterministic financial infrastructure with verified global developer adoption.
+
+> 🛠️ **The "Pain-Stack" Genesis:**  
+> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, auditing early LLM edge-cases with tactical CLI inspection, and building battle-tested DeFi protocols through sheer tenacity, quantitative rigor, and continuous production shipping.*
 
 ---
 
 ### Core Competencies
 
+- **DeFi Protocol Design & Multi-Chain Architecture:** EVM (BNB Smart Chain, Ethereum), Solana, and cross-chain ecosystems. Architectural design of non-custodial DEX aggregation (integrating KyberSwap API & Mayan Finance Swift cross-chain bridge), composable yield vaults (interfacing with Venus Protocol, Lista DAO, pSTAKE, Stader), accumulator tax tokenomics, and verified DeFiLlama dimension adapters.
+- **End-to-End System Design & AI-Augmented Software Delivery:** Full product lifecycle orchestration across modern web frontends (Next.js 16 / React 19), cross-platform mobile clients (React Native & Expo with WireGuard VPN integration), asynchronous backend daemons (Python AsyncIO, Node.js, Express), and WebSocket / REST event streaming.
 - **Quantitative & Deterministic Modeling:** Algorithm design, multi-factor scoring pipelines (liquidity depth, volume acceleration, dev wallet clustering, bonding curve progression), statistical backtesting engines, and custom deterministic state machines.
-- **Full-Stack, Mobile & Systems Architecture:** TypeScript, Python (AsyncIO), Next.js 16 / React 19, React Native & Expo (cross-platform iOS & Android), Node.js, Express daemons, REST & WebSocket event streams.
-- **Multi-Chain Web3 & DeFi Engineering:** EVM (BNB Smart Chain, Ethereum), Solana, and Cosmos/Terra ecosystems. Smart contract interaction (Viem, Wagmi, Ethers, Solana Web3), DEX aggregator routing (KyberSwap, Mayan Finance cross-chain bridge), multi-protocol yield aggregation (Venus Protocol, Lista DAO, pSTAKE, Stader), and DeFiLlama dimension adapters.
-- **Networking, Security & Infrastructure:** WireGuard VPN protocol integration & cryptographic handshake management, Docker containerization, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Linux CLI automation, and GitHub Actions CI/CD.
-- **Data Engineering, Telemetry & Real-Time Analytics:** High-throughput RPC log parsing, on-chain mempool screener pipelines, triangular arbitrage path simulations, 4-tier contract security auditing, and live interactive data visualization (ECharts / Highcharts).
+- **Data Engineering, Telemetry & On-Chain Security:** High-throughput RPC log decoding, on-chain mempool screener pipelines, triangular arbitrage path simulations, 4-tier smart contract security auditing (proxy verification, anti-honeypot filters, dust spam mitigation), and interactive telemetry visualizers.
+- **Cloud Infrastructure, Containerization & CI/CD:** Docker containerization, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Linux CLI automation, and GitHub Actions automated testing pipelines.
 
 ---
 
@@ -189,4 +192,4 @@ If you find any of these repositories, architecture models, or on-chain telemetr
 
 ### Open-Source Architecture & Non-Custodial Notice
 
-All software repositories, architectural diagrams, and algorithms showcased on this profile represent free, open-source contributions and research implementations published under permissive licenses (MIT). The author acts as an independent software engineer and computational researcher. No repository or interface constitutes investment advice, financial intermediation, or custodial brokerage services. Public decentralized protocols referenced operate autonomously on-chain with immutable, renounced ownership parameters.
+All software repositories, architectural diagrams, and algorithms showcased on this profile represent free, open-source contributions and research implementations published under permissive licenses (MIT). The author acts as an independent systems architect, product designer, and computational researcher. No repository or interface constitutes investment advice, financial intermediation, or custodial brokerage services. Public decentralized protocols referenced operate autonomously on-chain with immutable, renounced ownership parameters.
