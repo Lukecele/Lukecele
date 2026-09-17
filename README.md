@@ -9,12 +9,12 @@
 
 I am a medical student at **Università degli Studi di Napoli Federico II** with a deep focus on computational systems, quantitative logic, and decentralized finance.
 
-Since 2021, I have actively navigated the on-chain DeFi ecosystem, analyzing automated market makers, cross-chain bridge dynamics, and tokenomics structures. Rather than operating as a traditional syntax programmer, I work as an **AI-augmented systems architect**: combining deep domain expertise, rigorous quantitative modeling, and market-tested intuition to direct, audit, and orchestrate modern AI-native engineering pipelines.
+Since 2021, I have worked across the on-chain DeFi ecosystem, analyzing automated market makers, cross-chain bridge dynamics, and tokenomics structures. I work as an **AI-augmented systems architect**, combining domain expertise, quantitative modeling, and practical systems judgment to design and coordinate modern engineering pipelines.
 
-Through this architecture-first methodology, I design, verify, and ship deployed Web3 platforms, real-time on-chain telemetry screeners, and deterministic financial infrastructure. Selected systems have public releases, CI validation, live deployments, and public protocol analytics.
+Through this architecture-first methodology, I design, maintain, and ship deployed Web3 platforms, real-time on-chain telemetry screeners, and deterministic financial infrastructure. Selected systems have public releases, CI validation, live deployments, and public protocol analytics.
 
 > 🛠️ **The "Pain-Stack" Genesis:**  
-> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, auditing early LLM edge-cases with tactical CLI inspection, and building actively maintained DeFi systems through quantitative rigor and continuous production shipping.*
+> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, testing LLM-assisted workflows with tactical CLI inspection, and building actively maintained DeFi systems through quantitative rigor and continuous shipping.*
 
 ---
 
@@ -66,7 +66,7 @@ Through this architecture-first methodology, I design, verify, and ship deployed
     <tr>
       <td><b>Inception Flap Scanner</b></td>
       <td>
-        Real-time on-chain token launch screener and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, live Flap.sh curve metrics, interactive DexScreener charts, and an automated 4-tier security auditor (bot-driven dust spam &amp; tax filter &le;8%, ERC-1167 minimal proxy verification detecting custom architectural innovations vs standard clones, social phishing/copycat detection, and dev wallet clustering). Fully containerized with Node 22 on Hugging Face Spaces.
+        Real-time on-chain token launch screener and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, live Flap.sh curve metrics, interactive DexScreener charts, and an automated four-stage security screening pipeline (bot-driven dust spam &amp; tax filter &le;8%, ERC-1167 minimal proxy verification detecting custom architectural innovations vs standard clones, social phishing/copycat detection, and dev wallet clustering). Fully containerized with Node 22 on Hugging Face Spaces.
       </td>
       <td>
         <a href="https://github.com/arbincept/inception-flap-scanner">GitHub</a> · 
@@ -119,7 +119,7 @@ Through this architecture-first methodology, I design, verify, and ship deployed
     <tr>
       <td><b>Meme Intelligence On-Chain</b></td>
       <td>
-        Institutional quantitative research baseline for Solana DEX and meme coin tokenomics (v8). Features statistical backtesting engines, holder distribution heuristics, liquidity pool decay modeling, and risk scoring pipelines.
+        Quantitative research baseline for Solana DEX and meme coin tokenomics (v8). Features statistical backtesting engines, holder distribution heuristics, liquidity pool decay modeling, and risk scoring pipelines.
       </td>
       <td>
         <a href="https://github.com/Lukecele/meme-intelligence-onchain">GitHub</a> · 
@@ -134,7 +134,7 @@ Through this architecture-first methodology, I design, verify, and ship deployed
       <td>
         <a href="https://github.com/arbincept/bsc-arbitrage-scanner">GitHub</a> · 
         <a href="https://github.com/arbincept/bsc-arbitrage-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
-        <i>Production simulation engine with GoPlus security & dynamic gas modeling.</i>
+        <i>Released simulation engine with GoPlus security & dynamic gas modeling.</i>
       </td>
     </tr>
     <tr>
