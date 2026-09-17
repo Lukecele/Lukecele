@@ -169,7 +169,7 @@ Through this architecture-first methodology, I design, verify, and ship producti
   - **#1 Worldwide on GitHub:** *BSC DEX Aggregator* (`Arb-Inc-All-in-Dex`), *BSC Arbitrage Scanner* (`bsc-arbitrage-scanner`), and *Bonding Curve Telemetry* (`inception-flap-scanner`).
 - **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Production fee adapter and real yield metrics merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
 - **[BNB Chain Developer Tooling](https://github.com/bnb-chain/developer-tools-list/pull/98):** Ecosystem developer tools submission, [security audit passed via Hashdit Bot (Zero issues detected)](https://github.com/bnb-chain/developer-tools-list/pull/98#issuecomment-5652788720).
-- **[BNB Chain Awesome Catalog](https://github.com/bnb-chain/awesome/pull/16):** Curated BNB Smart Chain ecosystem tools submission ([PR #16](https://github.com/bnb-chain/awesome/pull/16)).
+- **[BNB Chain Awesome Catalog](https://github.com/bnb-chain/awesome/pull/16):** Curated BNB Smart Chain ecosystem tools submission ([PR #16](https://github.com/bnb-chain/awesome/pull/16), [security review cleared via Hashdit Bot](https://github.com/bnb-chain/awesome/pull/16#issuecomment-5686496121)).
 - **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([Open Source Project, Line 407](https://github.com/ahmet/awesome-web3/blob/main/README.md#L407)) and *Inception Flap Scanner* ([Risk Management, Line 343](https://github.com/ahmet/awesome-web3/blob/main/README.md#L343)).
 
 ---
