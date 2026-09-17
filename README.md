@@ -1,7 +1,7 @@
 # Luca Celebrano
 
 **MD Candidate** · Università degli Studi di Napoli Federico II  
-**Web3 Systems Architect · DeFi Protocol Designer & AI-Native Builder**
+**Founder & Lead Architect @ [Arbitrage Inception](https://github.com/arbincept) · Web3 Systems & DeFi Protocol Designer**
 
 ---
 
@@ -45,8 +45,8 @@ Through this architecture-first methodology, I design, verify, and ship producti
         Multi-chain DEX aggregator and cross-chain bridge integration (Mayan Finance / Solana / EVM). Features deterministic pro-rata yield calculation engines (<code>lib/financial-math.ts</code> with automated unit testing suites), non-custodial limit order routing, and PWA mobile optimization.
       </td>
       <td>
-        <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex">GitHub</a> · 
-        <a href="https://github.com/Lukecele/Arb-Inc-All-in-Dex/releases/tag/v1.1.0">v1.1.0 Release</a> · 
+        <a href="https://github.com/arbincept/Arb-Inc-All-in-Dex">GitHub</a> · 
+        <a href="https://github.com/arbincept/Arb-Inc-All-in-Dex/releases/tag/v1.1.0">v1.1.0 Release</a> · 
         <a href="https://arbitrage-inc.exchange">Live Application</a> · 
         <a href="https://defillama.com/protocol/arbitrage-inc">DefiLlama</a> · 
         <a href="https://github.com/ahmet/awesome-web3#dex-aggregators">Awesome-Web3 (Listed)</a>
@@ -58,7 +58,7 @@ Through this architecture-first methodology, I design, verify, and ship producti
         Multi-protocol yield aggregator and vault manager on BNB Smart Chain. Integrates KyberSwap Aggregation API for automated token routing into Liquid Staking (Lista DAO, pSTAKE, Stader) and Lending Markets (Venus Protocol) with single-transaction execution.
       </td>
       <td>
-        <a href="https://github.com/Lukecele/arbitrage-inc-earn">GitHub</a> · 
+        <a href="https://github.com/arbincept/arbitrage-inc-earn">GitHub</a> · 
         <a href="https://arbitrage-inc-earn.vercel.app">Live Application</a> · 
         <i>Next.js & Vercel</i>
       </td>
@@ -69,8 +69,8 @@ Through this architecture-first methodology, I design, verify, and ship producti
         Real-time on-chain token launch screener and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, live Flap.sh curve metrics, interactive DexScreener charts, and an automated 4-tier security auditor (bot-driven dust spam &amp; tax filter &le;8%, ERC-1167 minimal proxy verification detecting custom architectural innovations vs standard clones, social phishing/copycat detection, and dev wallet clustering). Fully containerized with Node 22 on Hugging Face Spaces.
       </td>
       <td>
-        <a href="https://github.com/Lukecele/inception-flap-scanner">GitHub</a> · 
-        <a href="https://github.com/Lukecele/inception-flap-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
+        <a href="https://github.com/arbincept/inception-flap-scanner">GitHub</a> · 
+        <a href="https://github.com/arbincept/inception-flap-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
         <a href="https://lucace-inception-flap-scanner.hf.space">Live Application</a> · 
         <a href="https://github.com/ahmet/awesome-web3/pull/795">Awesome-Web3 (PR #795)</a> · 
         <i>Docker SDK</i>
@@ -132,8 +132,8 @@ Through this architecture-first methodology, I design, verify, and ship producti
         Real-time asynchronous arbitrage scanner and cross-DEX route simulation engine on BNB Smart Chain. Consumes live token lists and queries KyberSwap Aggregator v1 APIs to identify instantaneous price discrepancies and compute optimal swap routes.
       </td>
       <td>
-        <a href="https://github.com/Lukecele/bsc-arbitrage-scanner">GitHub</a> · 
-        <a href="https://github.com/Lukecele/bsc-arbitrage-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
+        <a href="https://github.com/arbincept/bsc-arbitrage-scanner">GitHub</a> · 
+        <a href="https://github.com/arbincept/bsc-arbitrage-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
         <i>Production simulation engine with GoPlus security & dynamic gas modeling.</i>
       </td>
     </tr>
