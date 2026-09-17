@@ -11,19 +11,19 @@ I am a medical student at **Università degli Studi di Napoli Federico II** with
 
 Since 2021, I have actively navigated the on-chain DeFi ecosystem, analyzing automated market makers, cross-chain bridge dynamics, and tokenomics structures. Rather than operating as a traditional syntax programmer, I work as an **AI-augmented systems architect**: combining deep domain expertise, rigorous quantitative modeling, and market-tested intuition to direct, audit, and orchestrate modern AI-native engineering pipelines.
 
-Through this architecture-first methodology, I design, verify, and ship production-grade Web3 platforms, real-time on-chain telemetry screeners, and deterministic financial infrastructure with verified global developer adoption.
+Through this architecture-first methodology, I design, verify, and ship deployed Web3 platforms, real-time on-chain telemetry screeners, and deterministic financial infrastructure. Selected systems have public releases, CI validation, live deployments, and public protocol analytics.
 
 > 🛠️ **The "Pain-Stack" Genesis:**  
-> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, auditing early LLM edge-cases with tactical CLI inspection, and building battle-tested DeFi protocols through sheer tenacity, quantitative rigor, and continuous production shipping.*
+> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, auditing early LLM edge-cases with tactical CLI inspection, and building actively maintained DeFi systems through quantitative rigor and continuous production shipping.*
 
 ---
 
 ### Core Competencies
 
-- **DeFi Protocol Design & Multi-Chain Architecture:** EVM (BNB Smart Chain, Ethereum), Solana, and cross-chain ecosystems. Architectural design of non-custodial DEX aggregation (integrating KyberSwap API & Mayan Finance Swift cross-chain bridge), composable yield vaults (interfacing with Venus Protocol, Lista DAO, pSTAKE, Stader), accumulator tax tokenomics, and verified DeFiLlama dimension adapters.
+- **DeFi Protocol Design & Multi-Chain Architecture:** EVM (BNB Smart Chain, Ethereum), Solana, and cross-chain ecosystems. Architectural design of non-custodial DEX aggregation (integrating KyberSwap API & Mayan Finance Swift cross-chain bridge), composable yield vaults (interfacing with Venus Protocol, Lista DAO, pSTAKE, Stader), accumulator tax tokenomics, and public DeFiLlama dimension adapters.
 - **End-to-End System Design & AI-Augmented Software Delivery:** Full product lifecycle orchestration across modern web frontends (Next.js 16 / React 19), cross-platform mobile clients (React Native & Expo with WireGuard VPN integration), asynchronous backend daemons (Python AsyncIO, Node.js, Express), and WebSocket / REST event streaming.
 - **Quantitative & Deterministic Modeling:** Algorithm design, multi-factor scoring pipelines (liquidity depth, volume acceleration, dev wallet clustering, bonding curve progression), statistical backtesting engines, and custom deterministic state machines.
-- **Data Engineering, Telemetry & On-Chain Security:** High-throughput RPC log decoding, on-chain mempool screener pipelines, triangular arbitrage path simulations, 4-tier smart contract security auditing (proxy verification, anti-honeypot filters, dust spam mitigation), and interactive telemetry visualizers.
+- **Data Engineering, Telemetry & On-Chain Security:** High-throughput RPC log decoding, on-chain mempool screener pipelines, triangular arbitrage path simulations, automated security screening (proxy verification, anti-honeypot filters, dust spam mitigation), and interactive telemetry visualizers.
 - **Cloud Infrastructure, Containerization & CI/CD:** Docker containerization, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Linux CLI automation, and GitHub Actions automated testing pipelines.
 
 ---
@@ -164,12 +164,11 @@ Through this architecture-first methodology, I design, verify, and ship producti
 
 ### Open Source Adoption & Verified Ecosystem Indexing
 
-- **Global Developer Adoption & Telemetry:** Over **1,190 clones from 582 unique developers worldwide** across active production repositories (validated via GitHub Traffic Analytics).
-- **GitHub Global Search Rankings:**
-  - **#1 Worldwide on GitHub:** *BSC DEX Aggregator* (`Arb-Inc-All-in-Dex`), *BSC Arbitrage Scanner* (`bsc-arbitrage-scanner`), and *Bonding Curve Telemetry* (`inception-flap-scanner`).
+- **Public Repository Activity:** GitHub Traffic Analytics currently reports, in the latest available weekly windows, **438 clones / 192 unique cloners** for *Arb-Inc-All-in-Dex*, **126 / 61** for *bsc-arbitrage-scanner*, and **297 / 125** for *inception-flap-scanner* (repository-level figures; windows and unique counts should not be summed across repositories).
+- **Niche Search Visibility:** These projects were observed in top results for selected GitHub searches such as “BSC DEX aggregator” on **17 September 2026**. GitHub rankings vary by query, indexing, and time, so this is not presented as a global or permanent rank.
 - **[DefiLlama / dimension-adapters](https://github.com/DefiLlama/dimension-adapters):** Production fee adapter and real yield metrics merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
-- **[BNB Chain Developer Tooling](https://github.com/bnb-chain/developer-tools-list/pull/98):** Ecosystem developer tools submission, [security audit passed via Hashdit Bot (Zero issues detected)](https://github.com/bnb-chain/developer-tools-list/pull/98#issuecomment-5652788720).
-- **[BNB Chain Awesome Catalog](https://github.com/bnb-chain/awesome/pull/16):** Curated BNB Smart Chain ecosystem tools submission ([PR #16](https://github.com/bnb-chain/awesome/pull/16), [security review cleared via Hashdit Bot](https://github.com/bnb-chain/awesome/pull/16#issuecomment-5686496121)).
+- **[BNB Chain Developer Tooling](https://github.com/bnb-chain/developer-tools-list/pull/98):** Open ecosystem developer-tools submission; HashDit reported no serious issues in an automated scan. The PR remains open and the scan is not a manual audit.
+- **[BNB Chain Awesome Catalog](https://github.com/bnb-chain/awesome/pull/16):** Open curated BNB Smart Chain ecosystem-tools submission; HashDit reported no serious issues in an automated scan. The PR remains open and the scan is not a manual audit.
 - **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([Open Source Project, Line 407](https://github.com/ahmet/awesome-web3/blob/main/README.md#L407)) and *Inception Flap Scanner* ([Risk Management, Line 343](https://github.com/ahmet/awesome-web3/blob/main/README.md#L343)).
 
 ---
@@ -191,4 +190,4 @@ If you find any of these repositories, architecture models, or on-chain telemetr
 
 ### Open-Source Architecture & Non-Custodial Notice
 
-All software repositories, architectural diagrams, and algorithms showcased on this profile represent free, open-source contributions and research implementations published under permissive licenses (MIT). The author acts as an independent systems architect, product designer, and computational researcher. No repository or interface constitutes investment advice, financial intermediation, or custodial brokerage services. Public decentralized protocols referenced operate autonomously on-chain with immutable, renounced ownership parameters.
+All software repositories, architectural diagrams, and algorithms showcased on this profile represent open-source contributions and research implementations published under the license stated by each repository. The author acts as an independent systems architect, product designer, and computational researcher. No repository or interface constitutes investment advice, financial intermediation, or custodial brokerage services. Protocol properties and ownership controls should be verified in the relevant source code and deployment documentation.
