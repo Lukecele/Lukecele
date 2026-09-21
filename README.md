@@ -100,6 +100,17 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
         <i>Next.js & Vercel Edge</i>
       </td>
     </tr>
+    <tr>
+      <td><b>RWA Stock Arbitrage Suite</b></td>
+      <td>
+        Dual arbitrage engine for BNB Chain tokenized stocks (RWA). Identifies market-hours basis divergence (NYSE/NASDAQ close vs 24/7 on-chain price) and cross-protocol spread opportunities between Ondo Finance and bStocks wrappers. Includes MCP server and Binance Wallet Skill adapter for autonomous AI agent execution.
+      </td>
+      <td>
+        <a href="https://github.com/arbincept/rwa-stock-arbitrage">GitHub</a> ·
+        <a href="https://rwa-stock-arbitrage.vercel.app">Live Application</a> ·
+        <i>React 19 · TypeScript · Vite · MCP · BNB Chain</i>
+      </td>
+    </tr>
   </tbody>
 </table>
 
