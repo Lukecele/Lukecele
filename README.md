@@ -11,7 +11,7 @@ I am a medical student and MD candidate at **Università degli Studi di Napoli F
 
 Since 2021, I have worked across the on-chain Web3 ecosystem. I work as an **AI-native systems builder and protocol designer**, combining scientific discipline, advanced AI-augmented workflows, and five years of hands-on DeFi domain experience to design, validate, and deploy production software.
 
-Through this methodology, I build and deploy non-custodial DEX aggregation platforms, real-time on-chain telemetry screeners, deterministic NLP conversational engines (zero-hallucination ELIZA pattern-matching models), and cryptographic mobile networking clients. These systems feature semantic releases, automated CI testing, live mainnet deployments, and verified upstream contributions to canonical Web3 repositories including **DefiLlama**, **ahmet/awesome-web3**, and **ethereum-lists/chains**.
+Through this methodology, I build and deploy non-custodial DEX aggregation platforms, real-time on-chain telemetry screeners, deterministic NLP conversational engines (zero-hallucination ELIZA pattern-matching models), and cryptographic mobile networking clients. These systems feature semantic releases, automated CI testing, live mainnet deployments, and verified upstream contributions to canonical Web3 repositories including **DefiLlama**, **ahmet/awesome-web3**, **ethereum-lists/chains** and **wevm/viem/**
 
 > 🛠️ **The "Pain-Stack" Genesis:**  
 > *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, testing LLM-assisted workflows with tactical CLI inspection, and building actively maintained Web3 systems through quantitative rigor and continuous shipping.*
