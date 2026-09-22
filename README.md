@@ -77,7 +77,7 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
       </td>
     </tr>
     <tr>
-      <td><b>Birdeye DEX Tracker &amp; Bot</b></td>
+      <td><b>Telegram buy and sell tracker bot &amp; Bot</b></td>
       <td>
         Real-time liquidity pool swap monitor and production Telegram alert bot (<a href="https://t.me/ArbincMoon_bot">@ArbincMoon_bot</a>). Connects directly to DEX APIs and RPC nodes, streaming live buy/sell events and USD volumes (&gt;9,500 transactions logged) directly into the dedicated <a href="https://t.me/arbitrageinception/80770"><i>All Buys and Sells</i> topic</a> of the DEX community, backed by a live Google Cloud Run administrative dashboard.
       </td>
