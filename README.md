@@ -11,7 +11,7 @@ I am a medical student and MD candidate at **Università degli Studi di Napoli F
 
 Since 2021, I have worked across the on-chain Web3 ecosystem. I work as an **AI-native systems builder and protocol designer**, combining scientific discipline, advanced AI-augmented workflows, and five years of hands-on DeFi domain experience to design, validate, and deploy production software.
 
-Through this methodology, I build and deploy non-custodial DEX aggregation platforms, real-time on-chain telemetry screeners, deterministic NLP conversational engines (zero-hallucination ELIZA pattern-matching models), and cryptographic mobile networking clients. These systems feature semantic releases, automated CI testing, live mainnet deployments, and verified upstream contributions to canonical Web3 repositories including **DefiLlama**, **ahmet/awesome-web3**, **ethereum-lists/chains** and **wevm/viem**
+Through this methodology, I build and deploy non-custodial DEX aggregation platforms, real-time on-chain telemetry screeners, deterministic NLP conversational engines (zero-hallucination ELIZA pattern-matching models), and cryptographic mobile networking clients. These systems feature semantic releases, automated CI testing, live mainnet deployments, and verified upstream contributions to canonical Web3 repositories including **DefiLlama**, **ahmet/awesome-web3**, **ethereum-lists/chains** and **wevm/viem**.
 
 > 🛠️ **The "Pain-Stack" Genesis:**  
 > *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, testing LLM-assisted workflows with tactical CLI inspection, and building actively maintained Web3 systems through quantitative rigor and continuous shipping.*
@@ -46,7 +46,7 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
       </td>
       <td>
         <a href="https://github.com/arbincept/Arb-Inc-All-in-Dex">GitHub</a> · 
-        <a href="https://github.com/arbincept/Arb-Inc-All-in-Dex/releases/tag/v1.1.0">v1.1.0 Release</a> · 
+        <a href="https://github.com/arbincept/Arb-Inc-All-in-Dex/releases/tag/v1.1.1">v1.1.1 Release</a> · 
         <a href="https://arbitrage-inc.exchange">Live Application</a> · 
         <a href="https://defillama.com/protocol/arbitrage-inc">DefiLlama</a> · 
         <a href="https://github.com/ahmet/awesome-web3/blob/main/README.md#L407">Awesome-Web3 (Line 407)</a>
@@ -82,7 +82,7 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
         Real-time liquidity pool swap monitor and production Telegram alert bot (<a href="https://t.me/ArbincMoon_bot">@ArbincMoon_bot</a>). Connects directly to DEX APIs and RPC nodes, streaming live buy/sell events and USD volumes (&gt;9,500 transactions logged) directly into the dedicated <a href="https://t.me/arbitrageinception/80770"><i>All Buys and Sells</i> topic</a> of the DEX community, backed by a live Google Cloud Run administrative dashboard.
       </td>
       <td>
-        <a href="https://github.com/Lukecele/birdeye-dex-tracker">GitHub</a> · 
+        <a href="https://github.com/Lukecele/Telegram-bsc-buy-sell-bot">GitHub</a> · 
         <a href="https://t.me/arbitrageinception/80770">Live Topic (80770)</a> · 
         <a href="https://t.me/ArbincMoon_bot">@ArbincMoon_bot</a> · 
         <a href="https://birdeye-telegram-bot-697887897331.europe-west2.run.app">Dashboard</a> · 
@@ -140,12 +140,12 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
     <tr>
       <td><b>BSC Arbitrage Scanner</b></td>
       <td>
-        Real-time asynchronous arbitrage scanner and cross-DEX route simulation engine on BNB Smart Chain. Consumes live token lists and queries KyberSwap Aggregator v1 APIs to identify instantaneous price discrepancies and compute optimal swap routes.
+        Python-based read-only route simulation engine on BNB Smart Chain. Consumes live token lists, queries KyberSwap Aggregator v1 APIs, checks GoPlus security and DexScreener liquidity, and models gas, slippage, and token-tax friction before reporting theoretical opportunities.
       </td>
       <td>
         <a href="https://github.com/arbincept/bsc-arbitrage-scanner">GitHub</a> · 
         <a href="https://github.com/arbincept/bsc-arbitrage-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
-        <i>Released simulation engine with GoPlus security & dynamic gas modeling.</i>
+        <i>Python 3.12 · requests · KyberSwap API</i>
       </td>
     </tr>
     <tr>
