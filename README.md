@@ -1,7 +1,7 @@
 # Luca Celebrano
 
 **MD Candidate** · Università degli Studi di Napoli Federico II (Experimental Degree Thesis in Bioinformatics at TIGEM)  
-**Founder & Systems Builder @ [Arbitrage Inception](https://github.com/arbincept) · AI-Native Web3 & DeFi Protocol Designer**
+**Founder & Systems Builder @ [Arbitrage Inception](https://github.com/arbincept) · AI-Native Web3 & DeFi Protocols Developer**
 
 ---
 
