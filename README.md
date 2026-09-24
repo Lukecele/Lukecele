@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am a medical student and MD candidate at **Università degli Studi di Napoli Federico II**, currently conducting my experimental degree thesis in bioinformatics at **TIGEM (Telethon Institute of Genetics and Medicine)**, with a personal focus on computational systems, quantitative logic, and decentralized finance.
+I am a medical student at **Università degli Studi di Napoli Federico II**, currently conducting my experimental degree thesis in bioinformatics at **TIGEM (Telethon Institute of Genetics and Medicine)**, with a personal focus on computational systems, quantitative logic, and decentralized finance.
 
 Since 2021, I have worked across the on-chain Web3 ecosystem. I work as an **AI-native systems builder and protocol designer**, combining scientific discipline, advanced AI-augmented workflows, and five years of hands-on DeFi domain experience to design, validate, and deploy production software.
 
