@@ -175,7 +175,7 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
 
 ### Open Source Adoption & Verified Ecosystem Indexing
 
-- **Public Repository Activity:** GitHub Traffic Analytics currently reports **1,026 clones / 375 unique cloners** for *Arb-Inc-All-in-Dex*, **211 / 96** for *bsc-arbitrage-scanner*, and **394 / 167** for *inception-flap-scanner* (repository-level figures; windows and unique counts should not be summed across repositories).
+- **Public Repository Activity:** GitHub Traffic Analytics currently reports **1,026 clones / 375 unique cloners** for *Arb-Inc-All-in-Dex*, **211 / 96** for *bsc-arbitrage-scanner*, and **413 / 179** for *inception-flap-scanner* (repository-level figures; windows and unique counts should not be summed across repositories).
 - **Niche Search Visibility:** These projects were observed in top results for selected GitHub searches such as “BSC DEX aggregator” on **17 September 2026**. GitHub rankings vary by query, indexing, and time, so this is not presented as a global or permanent rank.
 - **Wevm/viem[https://github.com/wevm/viem/pull/5108]** bug fix in core Web3 library
 - **[ethereum-lists/chains](https://github.com/ethereum-lists/chains):** Contribution merged — dRPC endpoints added to the Sonic chain registry ([PR #8730](https://github.com/ethereum-lists/chains/pull/8730)), propagated to MetaMask, Chainlist, and EVM tooling globally.
