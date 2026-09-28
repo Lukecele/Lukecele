@@ -1,7 +1,7 @@
 # Luca Celebrano
 
 **MD Candidate** · Università degli Studi di Napoli Federico II (Experimental Degree Thesis in Bioinformatics at TIGEM)  
-**Founder & Systems Builder @ [Arbitrage Inception](https://github.com/arbincept) · AI-Native Web3 & DeFi Protocols Developer**
+**Founder & Systems Builder @ [Arbitrage Inception](https://github.com/arbincept) · Web3 Developer & AI-Assisted Builder**
 
 ---
 
@@ -9,7 +9,7 @@
 
 I am a medical student at **Università degli Studi di Napoli Federico II**, currently conducting my experimental degree thesis in bioinformatics at **TIGEM (Telethon Institute of Genetics and Medicine)**, with a personal focus on computational systems, quantitative logic, and decentralized finance.
 
-Since 2021, I have worked across the on-chain Web3 ecosystem. I work as an **AI-native systems builder and protocols Developer and mantainer**, combining scientific discipline, advanced AI-augmented workflows, and five years of hands-on DeFi domain experience to design, validate, and deploy production software.
+Since 2021, I have worked across the on-chain Web3 ecosystem. I work as an ** Web3 Developer & AI-Assisted Builderand protocols Developer and mantainer**, combining scientific discipline, advanced AI-augmented workflows, and five years of hands-on DeFi domain experience to design, validate, and deploy production software.
 
 Through this methodology, I build and deploy non-custodial DEX aggregation platforms, real-time on-chain telemetry screeners, deterministic NLP conversational engines (zero-hallucination ELIZA pattern-matching models), and cryptographic mobile networking clients. These systems feature semantic releases, automated CI testing, live mainnet deployments, and verified upstream contributions to canonical Web3 repositories including **DefiLlama**, **ahmet/awesome-web3**, **ethereum-lists/chains** and **wevm/viem**.
 
