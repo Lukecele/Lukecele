@@ -79,12 +79,12 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
     <tr>
       <td><b>Telegram buy and sell tracker bot</b></td>
       <td>
-        Real-time liquidity pool swap monitor and production Telegram alert bot (<a href="https://t.me/ArbincMoon_bot">@ArbincMoon_bot</a>). Connects directly to DEX APIs and RPC nodes, streaming live buy/sell events and USD volumes (&gt;9,500 transactions logged) directly into the dedicated <a href="https://t.me/arbitrageinception/80770"><i>All Buys and Sells</i> topic</a> of the DEX community, backed by a live Google Cloud Run administrative dashboard.
+        Real-time liquidity pool swap monitor and production Telegram alert bot (<a href="https://t.me/ArbincMoon_bot">@ArbIncMoon_bot</a>). Connects directly to DEX APIs and RPC nodes, streaming live buy/sell events and USD volumes (&gt;9,500 transactions logged) directly into the dedicated <a href="https://t.me/arbitrageinception/80770"><i>All Buys and Sells</i> topic</a> of the DEX community, backed by a live Google Cloud Run administrative dashboard.
       </td>
       <td>
         <a href="https://github.com/Lukecele/Telegram-bsc-buy-sell-bot">GitHub</a> · 
         <a href="https://t.me/arbitrageinception/80770">Live Topic (80770)</a> · 
-        <a href="https://t.me/ArbincMoon_bot">@ArbincMoon_bot</a> · 
+        <a href="https://t.me/ArbincMoon_bot">@ArbIncMoon_bot</a> · 
         <a href="https://birdeye-telegram-bot-697887897331.europe-west2.run.app">Dashboard</a> · 
         <i>Google Cloud Run</i>
       </td>
@@ -177,10 +177,10 @@ Through this methodology, I build and deploy non-custodial DEX aggregation platf
 
 - **Public Repository Activity:** GitHub Traffic Analytics currently reports **1,026 clones / 375 unique cloners** for *Arb-Inc-All-in-Dex*, **211 / 96** for *bsc-arbitrage-scanner*, and **413 / 179** for *inception-flap-scanner* (repository-level figures; windows and unique counts should not be summed across repositories).
 - **Niche Search Visibility:** These projects were observed in top results for selected GitHub searches such as “BSC DEX aggregator” on **17 September 2026**. GitHub rankings vary by query, indexing, and time, so this is not presented as a global or permanent rank.
-- **Wevm/viem[https://github.com/wevm/viem/pull/5108]** bug fix in core Web3 library
+- **Angular DevTools:** Contribution merged in Angular’s DevTools stack — signal watch controls now appear only when the host application exposes the supported API ([PR #70986](https://github.com/angular/angular/pull/70986)).
+- **[wevm/viem](https://github.com/wevm/viem):** Contributions merged in a core Ethereum library — official Plasma USDC/EURC token addresses ([PR #5108](https://github.com/wevm/viem/pull/5108)) and Kortana chain `9002` support ([PR #5136](https://github.com/wevm/viem/pull/5136)).
 - **[ethereum-lists/chains](https://github.com/ethereum-lists/chains):** Contribution merged — dRPC endpoints added to the Sonic chain registry ([PR #8730](https://github.com/ethereum-lists/chains/pull/8730)), propagated to MetaMask, Chainlist, and EVM tooling globally.
-- **DefiLlama(https://github.com/DefiLlama/dimension-adapters) and (https://github.com/DefiLlama/chainlist):** Upstream production fee adapters and real yield metrics merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [PR #6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
- https://github.com/DefiLlama/chainlist/pull/3159 -bug fix bsc rpc dead endopoints
+- **DefiLlama ([dimension-adapters](https://github.com/DefiLlama/dimension-adapters) and [chainlist](https://github.com/DefiLlama/chainlist)):** Upstream production fee adapters, real yield metrics, RPC maintenance, and endpoint security fixes merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [PR #6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275), [PR #3159](https://github.com/DefiLlama/chainlist/pull/3159), [PR #3182](https://github.com/DefiLlama/chainlist/pull/3182)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
 - **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([Open Source Project, Line 407](https://github.com/ahmet/awesome-web3/blob/main/README.md#L407), [PR #796](https://github.com/ahmet/awesome-web3/pull/796)) and *Inception Flap Scanner* ([Risk Management, Line 343](https://github.com/ahmet/awesome-web3/blob/main/README.md#L343), [PR #795](https://github.com/ahmet/awesome-web3/pull/795)).
 
 
