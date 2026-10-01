@@ -1,220 +1,118 @@
+<div align="center">
+
 # Luca Celebrano
 
-**MD Candidate** · Università degli Studi di Napoli Federico II (Experimental Degree Thesis in Bioinformatics at TIGEM)  
-**Founder & Systems Builder @ [Arbitrage Inception](https://github.com/arbincept) · Web3 Developer & AI-Assisted Builder**
+**Medicine · Bioinformatics · On-chain systems**
+
+MD candidate at **Università degli Studi di Napoli Federico II**
+
+Experimental thesis in bioinformatics at **TIGEM**
+
+Founder of **[Arbitrage Inception](https://github.com/arbincept)** · Building in Web3 since 2021
+
+[Navigate projects](#selected-projects) · [Open source](#open-source-contributions) · [Get in touch](mailto:luca.celebrano1@gmail.com)
+
+</div>
 
 ---
 
-### About Me
+## About
 
-I am a medical student at **Università degli Studi di Napoli Federico II**, currently conducting my experimental degree thesis in bioinformatics at **TIGEM (Telethon Institute of Genetics and Medicine)**. Alongside my medical training, I design and build computational systems with a focus on quantitative logic, decentralized finance, and reliable software delivery.
+I'm a medical student and software builder based in **Naples, Italy**. My work spans bioinformatics research, decentralized finance, and the systems that turn on-chain data into useful tools.
 
-Since 2021, I have worked across the on-chain Web3 ecosystem as a **Web3 developer, protocol builder, and open-source maintainer**. I combine scientific discipline, AI-augmented engineering workflows, and hands-on DeFi experience to design, validate, and deploy production software.
+Through **Arbitrage Inception**, I build DEX aggregation tools, yield interfaces, and real-time telemetry. I also explore deterministic conversational engines, quantitative models, and mobile networking — using AI-assisted development alongside testing and hands-on inspection.
 
-I build non-custodial DEX aggregation platforms, real-time on-chain telemetry screeners, deterministic NLP conversational engines, and cryptographic mobile networking clients. My upstream open-source work includes merged production contributions to **DefiLlama**, **wevm/viem**, **ethereum-lists/chains**, and the **Angular DevTools stack in the official `angular/angular` repository**.
+## Selected projects
 
-> 🛠️ **The "Pain-Stack" Genesis:**  
-> *Beyond standard paradigms, my journey was forged in the early AI trenches — mastering terminal discipline, testing LLM-assisted workflows with tactical CLI inspection, and building actively maintained Web3 systems through quantitative rigor and continuous shipping.*
+### [Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex)
 
----
+A non-custodial DEX aggregator with cross-chain bridging across EVM networks and Solana. Includes limit order routing, yield calculations, and a mobile-ready PWA.
 
-### Core Competencies
+**DEX aggregation · EVM / Solana · Mayan Finance**
 
-- **DeFi Protocol Developer & Multi-Chain Architecture:** EVM (BNB Smart Chain, Ethereum), Solana, and cross-chain ecosystems. Architectural design of non-custodial DEX aggregation (integrating KyberSwap API & Mayan Finance Swift cross-chain bridge), composable yield vaults (interfacing with Venus Protocol, Lista DAO, pSTAKE, Stader), tokenized equity (RWA) arbitrage engines (market-hours basis & cross-protocol spread), accumulator tax tokenomics, and public DeFiLlama dimension adapters.
-- **End-to-End System Building & AI-Augmented Software Delivery:** Full product lifecycle orchestration across modern web frontends (Next.js App Router v15/v16, React 19 & Vite), cross-platform mobile clients (React Native & Expo with WireGuard VPN integration), asynchronous backend daemons (Python AsyncIO, Node.js, Express), Model Context Protocol (MCP) server implementation for AI agent integration, and WebSocket / REST event streaming.
-- **Quantitative & Deterministic Modeling:** Algorithm design, multi-factor scoring pipelines (liquidity depth, volume acceleration, dev wallet clustering, bonding curve progression), statistical backtesting engines, and custom deterministic state machines.
-- **Data Engineering, Telemetry & On-Chain Security:** High-throughput RPC log decoding, on-chain mempool screener pipelines, triangular arbitrage path simulations, automated security screening (proxy verification, anti-honeypot filters, dust spam mitigation), and interactive telemetry visualizers.
-- **Cloud Infrastructure, Containerization & CI/CD:** Docker containerization, Google Cloud Run, Vercel Edge, Hugging Face Spaces, Linux CLI automation, and GitHub Actions automated testing pipelines.
+[Explore app](https://arbitrage-inc.exchange) · [Source](https://github.com/arbincept/Arb-Inc-All-in-Dex) · [DefiLlama](https://defillama.com/protocol/arbitrage-inc)
 
----
+### [Arbitrage Inception — Earn & Vaults](https://github.com/arbincept/arbitrage-inc-earn)
 
-### Flagship Production Systems
+A yield interface on BNB Smart Chain that brings liquid staking and lending markets together, with token routing through KyberSwap.
 
-<table>
-  <thead>
-    <tr>
-      <th>System</th>
-      <th>Architecture & Description</th>
-      <th>Status & Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Arb-Inc-All-in-Dex</b></td>
-      <td>
-        Multi-chain DEX aggregator and cross-chain bridge integration (Mayan Finance / Solana / EVM). Features deterministic pro-rata yield calculation engines (<code>lib/financial-math.ts</code> with automated unit testing suites), non-custodial limit order routing, and PWA mobile optimization.
-      </td>
-      <td>
-        <a href="https://github.com/arbincept/Arb-Inc-All-in-Dex">GitHub</a> · 
-        <a href="https://github.com/arbincept/Arb-Inc-All-in-Dex/releases/tag/v1.1.1">v1.1.1 Release</a> · 
-        <a href="https://arbitrage-inc.exchange">Live Application</a> · 
-        <a href="https://defillama.com/protocol/arbitrage-inc">DefiLlama</a> · 
-        <a href="https://github.com/ahmet/awesome-web3/blob/main/README.md#L407">Awesome-Web3 (Line 407)</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Arbitrage Inception — Earn & Vaults</b></td>
-      <td>
-        Multi-protocol yield aggregator and vault manager on BNB Smart Chain. Integrates KyberSwap Aggregation API for automated token routing into Liquid Staking (Lista DAO, pSTAKE, Stader) and Lending Markets (Venus Protocol) with single-transaction execution.
-      </td>
-      <td>
-        <a href="https://github.com/arbincept/arbitrage-inc-earn">GitHub</a> · 
-        <a href="https://arbitrage-inc-earn.vercel.app">Live Application</a> · 
-        <i>Next.js & Vercel</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Inception Flap Scanner</b></td>
-      <td>
-        Real-time on-chain token launch screener and bonding curve telemetry tracker on BNB Smart Chain. Features RPC log decoding, live Flap.sh curve metrics, interactive DexScreener charts, and an automated four-stage security screening pipeline (bot-driven dust spam &amp; tax filter &le;8%, ERC-1167 minimal proxy verification detecting custom architectural innovations vs standard clones, social phishing/copycat detection, and dev wallet clustering). Fully containerized with Node 22 on Hugging Face Spaces.
-      </td>
-      <td>
-        <a href="https://github.com/arbincept/inception-flap-scanner">GitHub</a> · 
-        <a href="https://github.com/arbincept/inception-flap-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
-        <a href="https://lucace-inception-flap-scanner.hf.space">Live Application</a> · 
-        <a href="https://github.com/ahmet/awesome-web3/blob/main/README.md#L343">Awesome-Web3 (Line 343)</a> · 
-        <i>Docker SDK</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Telegram buy and sell tracker bot</b></td>
-      <td>
-        Real-time liquidity pool swap monitor and production Telegram alert bot (<a href="https://t.me/ArbincMoon_bot">@ArbIncMoon_bot</a>). Connects directly to DEX APIs and RPC nodes, streaming live buy/sell events and USD volumes (&gt;9,500 transactions logged) directly into the dedicated <a href="https://t.me/arbitrageinception/80770"><i>All Buys and Sells</i> topic</a> of the DEX community, backed by a live Google Cloud Run administrative dashboard.
-      </td>
-      <td>
-        <a href="https://github.com/Lukecele/Telegram-bsc-buy-sell-bot">GitHub</a> · 
-        <a href="https://t.me/arbitrageinception/80770">Live Topic (80770)</a> · 
-        <a href="https://t.me/ArbincMoon_bot">@ArbIncMoon_bot</a> · 
-        <a href="https://birdeye-telegram-bot-697887897331.europe-west2.run.app">Dashboard</a> · 
-        <i>Google Cloud Run</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Virtue</b></td>
-      <td>
-        Rule-based conversational engine and real-time financial calculator (2,200+ LOC deterministic logic). Analyzes conversational context and tokenomic calculations with deterministic accuracy without relying on third-party APIs.
-      </td>
-      <td>
-        <a href="https://github.com/Lukecele/virtue">GitHub</a> · 
-        <a href="https://virtue-ecru.vercel.app">Live Application</a> · 
-        <i>Next.js & Vercel Edge</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>RWA Stock Arbitrage Suite</b></td>
-      <td>
-        Dual arbitrage engine for BNB Chain tokenized stocks (RWA). Identifies market-hours basis divergence (NYSE/NASDAQ close vs 24/7 on-chain price) and cross-protocol spread opportunities between Ondo Finance and bStocks wrappers. Includes MCP server and Binance Wallet Skill adapter for autonomous AI agent execution.
-      </td>
-      <td>
-        <a href="https://github.com/arbincept/rwa-stock-arbitrage">GitHub</a> ·
-        <a href="https://rwa-stock-arbitrage.vercel.app">Live Application</a> ·
-        <i>React 19 · TypeScript · Vite · MCP · BNB Chain</i>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**Next.js · Venus · Lista DAO · pSTAKE · Stader**
+
+[Explore app](https://arbitrage-inc-earn.vercel.app) · [Source](https://github.com/arbincept/arbitrage-inc-earn)
+
+### [Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)
+
+A real-time token launch screener for BNB Smart Chain. Tracks bonding curves, decodes RPC logs, and combines charts with automated token and wallet screening.
+
+**Node.js · On-chain telemetry · Docker**
+
+[Explore app](https://lucace-inception-flap-scanner.hf.space) · [Source](https://github.com/arbincept/inception-flap-scanner)
+
+### [RWA Stock Arbitrage Suite](https://github.com/arbincept/rwa-stock-arbitrage)
+
+A research tool for tokenized stock pricing on BNB Chain. Explores market-hours price divergence and spreads between Ondo Finance and bStocks wrappers, with an MCP server for agent integration.
+
+**React · TypeScript · Vite · MCP**
+
+[Explore app](https://rwa-stock-arbitrage.vercel.app) · [Source](https://github.com/arbincept/rwa-stock-arbitrage)
+
+<details>
+<summary><strong>More builds, research & prototypes</strong></summary>
+
+### Applications
+
+- **[Telegram Buy & Sell Tracker](https://github.com/Lukecele/Telegram-bsc-buy-sell-bot)** — Liquidity pool monitoring and Telegram alerts from DEX APIs and RPC nodes. [Telegram bot](https://t.me/ArbincMoon_bot) · [Community feed](https://t.me/arbitrageinception/80770).
+- **[Virtue](https://github.com/Lukecele/virtue)** — A rule-based conversational engine and financial calculator using deterministic logic without third-party APIs. [Explore app](https://virtue-ecru.vercel.app).
+
+### Research & tooling
+
+- **[Meme Intelligence On-Chain](https://github.com/Lukecele/meme-intelligence-onchain)** — A Solana research baseline with Python backtesting, holder distribution heuristics, liquidity modeling, and risk scoring.
+- **[BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)** — A read-only Python route simulator that models gas, slippage, and token taxes before reporting theoretical opportunities.
+- **[ARBVPN](https://github.com/Lukecele/ARBVPN)** — A React Native and TypeScript WireGuard client with connection state and latency tracking. Requires a user-provided WireGuard server and keys.
+- **[LUNC Devourer](https://github.com/Lukecele/lunc-devourer)** — A Terra Classic dApp showcase and burn fee simulator. Historical project: its underlying launchpad ceased operations, and swap execution is disabled.
+
+</details>
+
+## Open source contributions
+
+Selected contributions, with links to the upstream pull requests:
+
+| Project | Contribution |
+| :--- | :--- |
+| **Angular** | Gate DevTools signal watch controls on host API support — [#70986](https://github.com/angular/angular/pull/70986) |
+| **viem** | Plasma USDC/EURC token addresses and Kortana chain support — [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136) |
+| **Ethereum Lists** | Sonic RPC endpoint additions — [#8730](https://github.com/ethereum-lists/chains/pull/8730) |
+| **DefiLlama** | Fee adapters and yield metrics — [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275) |
+| **Chainlist** | RPC maintenance and endpoint security fixes — [#3159](https://github.com/DefiLlama/chainlist/pull/3159), [#3182](https://github.com/DefiLlama/chainlist/pull/3182) |
+
+<details>
+<summary><strong>Ecosystem directory submissions</strong></summary>
+
+- **Awesome-Web3:** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
+- **BNB Chain:** [Developer tooling submission](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog submission](https://github.com/bnb-chain/awesome/pull/16). See each pull request for its current review status.
+
+</details>
+
+## Tools & focus
+
+| Area | What I work with |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python |
+| **Web & mobile** | React, Next.js, Vite, React Native, Expo |
+| **Systems & data** | Node.js, Express, AsyncIO, REST, WebSockets, MCP |
+| **On-chain** | EVM, BNB Smart Chain, Solana, DEX routing, RPC telemetry |
+| **Delivery** | Docker, GitHub Actions, Vercel, Google Cloud Run, Hugging Face Spaces |
+
+## Get in touch
+
+For conversations about bioinformatics, on-chain tooling, or open-source collaboration:
+
+**[luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)** · [GitHub](https://github.com/Lukecele) · [Arbitrage Inception](https://github.com/arbincept)
+
+Naples, Italy
+
+If a project is useful to you, a star, issue, or contribution is always welcome.
 
 ---
 
-### Research Baselines, Tooling & Open-Source Prototypes
-
-<table>
-  <thead>
-    <tr>
-      <th>System</th>
-      <th>Architecture & Description</th>
-      <th>Status & Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Meme Intelligence On-Chain</b></td>
-      <td>
-        Quantitative research baseline for Solana DEX and meme coin tokenomics (v8). Features statistical backtesting engines, holder distribution heuristics, liquidity pool decay modeling, and risk scoring pipelines.
-      </td>
-      <td>
-        <a href="https://github.com/Lukecele/meme-intelligence-onchain">GitHub</a> · 
-        <i>Quantitative research framework & Python backtesting engine.</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>BSC Arbitrage Scanner</b></td>
-      <td>
-        Python-based read-only route simulation engine on BNB Smart Chain. Consumes live token lists, queries KyberSwap Aggregator v1 APIs, checks GoPlus security and DexScreener liquidity, and models gas, slippage, and token-tax friction before reporting theoretical opportunities.
-      </td>
-      <td>
-        <a href="https://github.com/arbincept/bsc-arbitrage-scanner">GitHub</a> · 
-        <a href="https://github.com/arbincept/bsc-arbitrage-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> · 
-        <i>Python 3.12 · requests · KyberSwap API</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>ARBVPN Client</b></td>
-      <td>
-        Cross-platform 1-tap WireGuard VPN mobile application built with React Native and TypeScript. Features cryptographic handshake state management, live latency metrics, and decoupled configuration architecture preventing hardcoded key leaks.
-      </td>
-      <td>
-        <a href="https://github.com/Lukecele/ARBVPN">GitHub</a> · 
-        <i>Decoupled client architecture. Requires user to provide WireGuard server endpoint and keys (template provided).</i>
-      </td>
-    </tr>
-    <tr>
-      <td><b>LUNC Devourer</b></td>
-      <td>
-        Interactive Web3 dApp showcase and mathematical burn fee simulator built on Terra Classic / Next.js. Implements Terra Station wallet integration, live tokenomics math, and on-chain burn modeling.
-      </td>
-      <td>
-        <a href="https://github.com/Lukecele/lunc-devourer">GitHub</a> · 
-        <i>Historical showcase & fee simulator. Underlying token launchpad (LaunchPump) ceased operations; swap execution disabled.</i>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### Open Source Adoption & Verified Ecosystem Indexing
-
-- **Public Repository Activity:** GitHub Traffic Analytics currently reports **1,026 clones / 375 unique cloners** for *Arb-Inc-All-in-Dex*, **211 / 96** for *bsc-arbitrage-scanner*, and **413 / 179** for *inception-flap-scanner* (repository-level figures; windows and unique counts should not be summed across repositories).
-- **Niche Search Visibility:** These projects were observed in top results for selected GitHub searches such as “BSC DEX aggregator” on **17 September 2026**. GitHub rankings vary by query, indexing, and time, so this is not presented as a global or permanent rank.
-- **Angular DevTools:** Contribution merged in the official `angular/angular` repository — signal watch controls now appear only when the host application exposes the supported API ([PR #70986](https://github.com/angular/angular/pull/70986)).
-- **[wevm/viem](https://github.com/wevm/viem):** Contributions merged in a core Ethereum library — official Plasma USDC/EURC token addresses ([PR #5108](https://github.com/wevm/viem/pull/5108)) and Kortana chain `9002` support ([PR #5136](https://github.com/wevm/viem/pull/5136)).
-- **[ethereum-lists/chains](https://github.com/ethereum-lists/chains):** Contribution merged — dRPC endpoints added to the Sonic chain registry ([PR #8730](https://github.com/ethereum-lists/chains/pull/8730)), propagated to MetaMask, Chainlist, and EVM tooling globally.
-- **DefiLlama ([dimension-adapters](https://github.com/DefiLlama/dimension-adapters) and [chainlist](https://github.com/DefiLlama/chainlist)):** Upstream production fee adapters, real yield metrics, RPC maintenance, and endpoint security fixes merged by DefiLlama maintainers ([PR #9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [PR #6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [PR #6275](https://github.com/DefiLlama/dimension-adapters/pull/6275), [PR #3159](https://github.com/DefiLlama/chainlist/pull/3159), [PR #3182](https://github.com/DefiLlama/chainlist/pull/3182)) — live analytics on [DefiLlama Protocol Analytics (ID 7591)](https://defillama.com/protocol/arbitrage-inc).
-- **[Awesome-Web3 Directory](https://github.com/ahmet/awesome-web3):** Curated directory inclusion for *Arb-Inc All-in-Dex* ([Open Source Project, Line 407](https://github.com/ahmet/awesome-web3/blob/main/README.md#L407), [PR #796](https://github.com/ahmet/awesome-web3/pull/796)) and *Inception Flap Scanner* ([Risk Management, Line 343](https://github.com/ahmet/awesome-web3/blob/main/README.md#L343), [PR #795](https://github.com/ahmet/awesome-web3/pull/795)).
-
-
-#### Ecosystem Submissions (Pending Maintainer Review)
-- **[BNB Chain Developer Tooling](https://github.com/bnb-chain/developer-tools-list/pull/98):** Open ecosystem developer-tools submission; HashDit reported no serious issues in an automated scan. The PR remains open and the scan is not a manual audit.
-- **[BNB Chain Awesome Catalog](https://github.com/bnb-chain/awesome/pull/16):** Open curated BNB Smart Chain ecosystem-tools submission; HashDit reported no serious issues in an automated scan. The PR remains open and the scan is not a manual audit.
-
----
-
-### GitHub Stats
-
-![Lukecele's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Lukecele&show_icons=true&theme=dark)
-
-![Lukecele's GitHub contribution streak](https://streak-stats.demolab.com/?user=Lukecele&theme=dark)
-
-![Lukecele's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukecele&layout=compact&theme=dark)
-
----
-
-### Academic & Professional Contact
-
-- **Institution:** Università degli Studi di Napoli Federico II
-- **Email:** [luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)
-- **GitHub:** [https://github.com/Lukecele](https://github.com/Lukecele)
-- **Location:** Naples, Italy
-
----
-
-### ⭐ Open-Source Support
-
-If you find any of these repositories, architecture models, or on-chain telemetry engines helpful in your work or research, please consider leaving a **Star** on the respective projects. Your feedback and support help drive continuous open-source development and ecosystem maintenance!
-
----
-
-### Open-Source Architecture & Non-Custodial Notice
-
-All software repositories, architectural diagrams, and algorithms showcased on this profile represent open-source contributions and research implementations published under the license stated by each repository. The author acts as an independent systems architect, product designer, and computational researcher. No repository or interface constitutes investment advice, financial intermediation, or custodial brokerage services. Protocol properties and ownership controls should be verified in the relevant source code and deployment documentation.
+<sub>Projects are published under their respective repository licenses. DeFi tools and research are not investment advice or custodial services. Verify protocol properties and ownership controls in the relevant source code and deployment documentation.</sub>
