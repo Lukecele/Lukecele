@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="assets/profile-banner.svg" alt="Science. Code. Systems. — Medicine, bioinformatics and on-chain engineering" width="1200" />
+
 # Luca Celebrano
 
-**Medicine · Bioinformatics · On-chain systems**
+<samp>MEDICAL STUDENT &amp; SOFTWARE BUILDER</samp>
 
 MD candidate at **Università degli Studi di Napoli Federico II**
 
@@ -10,7 +12,7 @@ Experimental thesis in bioinformatics at **TIGEM**
 
 Founder of **[Arbitrage Inception](https://github.com/arbincept)** · Building in Web3 since 2021
 
-[Navigate projects](#selected-projects) · [Open source](#open-source-contributions) · [Get in touch](mailto:luca.celebrano1@gmail.com)
+**[Projects](#selected-projects)** &nbsp; / &nbsp; **[Open source](#open-source-contributions)** &nbsp; / &nbsp; **[Toolkit](#tools--focus)** &nbsp; / &nbsp; **[Contact](#get-in-touch)**
 
 </div>
 
@@ -24,35 +26,43 @@ Through **Arbitrage Inception**, I build DEX aggregation tools, yield interfaces
 
 ## Selected projects
 
+<sub>01 / EXCHANGE</sub>
+
 ### [Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex)
 
 A non-custodial DEX aggregator with cross-chain bridging across EVM networks and Solana. Includes limit order routing, yield calculations, and a mobile-ready PWA.
 
-**DEX aggregation · EVM / Solana · Mayan Finance**
+`DEX aggregation` &nbsp; `EVM / Solana` &nbsp; `Mayan Finance`
 
 [Explore app](https://arbitrage-inc.exchange) · [Source](https://github.com/arbincept/Arb-Inc-All-in-Dex) · [DefiLlama](https://defillama.com/protocol/arbitrage-inc)
+
+<sub>02 / YIELD</sub>
 
 ### [Arbitrage Inception — Earn & Vaults](https://github.com/arbincept/arbitrage-inc-earn)
 
 A yield interface on BNB Smart Chain that brings liquid staking and lending markets together, with token routing through KyberSwap.
 
-**Next.js · Venus · Lista DAO · pSTAKE · Stader**
+`Next.js` &nbsp; `Venus` &nbsp; `Lista DAO` &nbsp; `pSTAKE` &nbsp; `Stader`
 
 [Explore app](https://arbitrage-inc-earn.vercel.app) · [Source](https://github.com/arbincept/arbitrage-inc-earn)
+
+<sub>03 / TELEMETRY</sub>
 
 ### [Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)
 
 A real-time token launch screener for BNB Smart Chain. Tracks bonding curves, decodes RPC logs, and combines charts with automated token and wallet screening.
 
-**Node.js · On-chain telemetry · Docker**
+`Node.js` &nbsp; `On-chain telemetry` &nbsp; `Docker`
 
 [Explore app](https://lucace-inception-flap-scanner.hf.space) · [Source](https://github.com/arbincept/inception-flap-scanner)
+
+<sub>04 / RESEARCH</sub>
 
 ### [RWA Stock Arbitrage Suite](https://github.com/arbincept/rwa-stock-arbitrage)
 
 A research tool for tokenized stock pricing on BNB Chain. Explores market-hours price divergence and spreads between Ondo Finance and bStocks wrappers, with an MCP server for agent integration.
 
-**React · TypeScript · Vite · MCP**
+`React` &nbsp; `TypeScript` &nbsp; `Vite` &nbsp; `MCP`
 
 [Explore app](https://rwa-stock-arbitrage.vercel.app) · [Source](https://github.com/arbincept/rwa-stock-arbitrage)
 
@@ -95,13 +105,25 @@ Selected contributions, with links to the upstream pull requests:
 
 ## Tools & focus
 
-| Area | What I work with |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python |
-| **Web & mobile** | React, Next.js, Vite, React Native, Expo |
-| **Systems & data** | Node.js, Express, AsyncIO, REST, WebSockets, MCP |
-| **On-chain** | EVM, BNB Smart Chain, Solana, DEX routing, RPC telemetry |
-| **Delivery** | Docker, GitHub Actions, Vercel, Google Cloud Run, Hugging Face Spaces |
+**Languages**
+
+`TypeScript` `JavaScript` `Python`
+
+**Web & mobile**
+
+`React` `Next.js` `Vite` `React Native` `Expo`
+
+**Systems & data**
+
+`Node.js` `Express` `AsyncIO` `REST` `WebSockets` `MCP`
+
+**On-chain**
+
+`EVM` `BNB Smart Chain` `Solana` · DEX routing & RPC telemetry
+
+**Delivery**
+
+`Docker` `GitHub Actions` `Vercel` `Google Cloud Run` `Hugging Face Spaces`
 
 ## Get in touch
 
