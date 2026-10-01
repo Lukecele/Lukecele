@@ -190,6 +190,16 @@ I build non-custodial DEX aggregation platforms, real-time on-chain telemetry sc
 
 ---
 
+### GitHub Stats
+
+![Lukecele's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Lukecele&show_icons=true&theme=dark)
+
+![Lukecele's GitHub contribution streak](https://streak-stats.demolab.com/?user=Lukecele&theme=dark)
+
+![Lukecele's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukecele&layout=compact&theme=dark)
+
+---
+
 ### Academic & Professional Contact
 
 - **Institution:** Università degli Studi di Napoli Federico II
