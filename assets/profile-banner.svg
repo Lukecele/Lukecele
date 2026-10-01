@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Science. Code. Systems.</title>
+  <desc id="desc">A midnight blue banner with mint and lavender typography and a geometric network of connected nodes.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d1526"/>
+      <stop offset="1" stop-color="#171b38"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#72e8cf"/>
+      <stop offset="1" stop-color="#b5a4ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8d9bc2" opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <path d="M56 58h48" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="56" y="106" fill="#aab7d4" font-size="17" letter-spacing="4">CURIOSITY → PRACTICE</text>
+    <text x="52" y="179" fill="#f1f5ff" font-size="60" font-weight="700" letter-spacing="-2">Science. Code. Systems.</text>
+    <text x="56" y="230" fill="#91e7d6" font-size="23">Medicine · Bioinformatics · On-chain engineering</text>
+  </g>
+  <g fill="none" stroke-width="1.5">
+    <circle cx="990" cy="160" r="112" stroke="#b5a4ff" opacity=".18"/>
+    <circle cx="990" cy="160" r="78" stroke="#72e8cf" opacity=".25"/>
+    <path d="M900 99 1008 56 1090 137 1065 234 956 258 900 99 1090 137 956 258 1008 56 1065 234 900 99" stroke="url(#accent)" opacity=".45"/>
+    <path d="m900 99 90 61 100-23m-82-81-18 104 75 74m-109 24 34-98" stroke="#b5a4ff" opacity=".6"/>
+  </g>
+  <g fill="#101a2d" stroke="#72e8cf" stroke-width="2">
+    <circle cx="900" cy="99" r="7"/>
+    <circle cx="1008" cy="56" r="7"/>
+    <circle cx="1090" cy="137" r="7"/>
+    <circle cx="1065" cy="234" r="7"/>
+    <circle cx="956" cy="258" r="7"/>
+  </g>
+  <circle cx="990" cy="160" r="19" fill="#b5a4ff" opacity=".12"/>
+  <circle cx="990" cy="160" r="7" fill="#c5b8ff"/>
+  <path d="M56 285h1088" stroke="url(#accent)" opacity=".24"/>
+</svg>
