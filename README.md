@@ -4,25 +4,13 @@
 
 # Luca Celebrano
 
-<samp>MEDICAL STUDENT &amp; SOFTWARE BUILDER</samp>
+Medical student at **Università degli Studi di Napoli Federico II** · Bioinformatics thesis at **TIGEM** · Naples, Italy
 
-MD candidate at **Università degli Studi di Napoli Federico II**
+**@Lukecele · Founder and solo builder of [Arbitrage Inception](https://github.com/arbincept)** — Building in Web3 since 2021.
 
-Experimental thesis in bioinformatics at **TIGEM**
-
-Founder of **[Arbitrage Inception](https://github.com/arbincept)** · Building in Web3 since 2021
-
-**[Projects](#selected-projects)** &nbsp; / &nbsp; **[Open source](#open-source-contributions)** &nbsp; / &nbsp; **[Toolkit](#tools--focus)** &nbsp; / &nbsp; **[Contact](#get-in-touch)**
+[Explore my projects](#selected-projects) · [Follow Lukecele](https://github.com/Lukecele) · [Upstream contributions](#open-source-contributions) · [Get in touch](#get-in-touch)
 
 </div>
-
----
-
-## About
-
-I'm a medical student and software builder based in **Naples, Italy**. My work spans bioinformatics research, decentralized finance, and the systems that turn on-chain data into useful tools.
-
-Through **Arbitrage Inception**, I build DEX aggregation tools, yield interfaces, and real-time telemetry. I also explore deterministic conversational engines, quantitative models, and mobile networking — using AI-assisted development alongside testing and hands-on inspection.
 
 ## Selected projects
 
@@ -30,7 +18,7 @@ Through **Arbitrage Inception**, I build DEX aggregation tools, yield interfaces
 
 ### [Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex)
 
-A non-custodial DEX aggregator with cross-chain bridging across EVM networks and Solana. Includes limit order routing, yield calculations, and a mobile-ready PWA.
+A wallet-connected DEX aggregator with cross-chain bridging across EVM networks and Solana. Includes a limit-order interface and a gateway to the separate Earn application.
 
 `DEX aggregation` &nbsp; `EVM / Solana` &nbsp; `Mayan Finance`
 
@@ -60,7 +48,7 @@ A real-time token launch screener for BNB Smart Chain. Tracks bonding curves, de
 
 ### [RWA Stock Arbitrage Suite](https://github.com/arbincept/rwa-stock-arbitrage)
 
-A research tool for tokenized stock pricing on BNB Chain. Explores market-hours price divergence and spreads between Ondo Finance and bStocks wrappers, with an MCP server for agent integration.
+A research tool for tokenized stock pricing on BNB Chain. Explores market-hours price divergence and spreads between Ondo Finance and bStocks wrappers, with an experimental MCP adapter whose client compatibility is still being validated.
 
 `React` &nbsp; `TypeScript` &nbsp; `Vite` &nbsp; `MCP`
 
@@ -72,7 +60,7 @@ A research tool for tokenized stock pricing on BNB Chain. Explores market-hours 
 ### Applications
 
 - **[Telegram Buy & Sell Tracker](https://github.com/Lukecele/Telegram-bsc-buy-sell-bot)** — Liquidity pool monitoring and Telegram alerts from DEX APIs and RPC nodes. [Telegram bot](https://t.me/ArbincMoon_bot) · [Community feed](https://t.me/arbitrageinception/80770).
-- **[Virtue](https://github.com/Lukecele/virtue)** — A rule-based conversational engine and financial calculator using deterministic logic without third-party APIs. [Explore app](https://virtue-ecru.vercel.app).
+- **[Virtue](https://github.com/Lukecele/virtue)** — A rule-based conversational engine and financial calculator. Core dialogue uses deterministic logic; live prices and URL lookups depend on external services, including Binance and CoinGecko. [Explore app](https://virtue-ecru.vercel.app).
 
 ### Research & tooling
 
@@ -83,9 +71,15 @@ A research tool for tokenized stock pricing on BNB Chain. Explores market-hours 
 
 </details>
 
+## About
+
+My work spans medicine, bioinformatics research, and open-source software. Through **Arbitrage Inception**, I build DEX aggregation tools, yield interfaces, and on-chain telemetry. I also explore deterministic conversational engines, quantitative models, and mobile networking, using AI-assisted development alongside testing and hands-on inspection.
+
+If a project is useful to you, visit its repository to star it, open an issue, or contribute. Follow **[Lukecele](https://github.com/Lukecele)** for new work.
+
 ## Open source contributions
 
-Selected contributions, with links to the upstream pull requests:
+Merged upstream contributions, verified on **October 1, 2026**. Each link points to the original pull request:
 
 | Project | Contribution |
 | :--- | :--- |
@@ -98,8 +92,8 @@ Selected contributions, with links to the upstream pull requests:
 <details>
 <summary><strong>Ecosystem directory submissions</strong></summary>
 
-- **Awesome-Web3:** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
-- **BNB Chain:** [Developer tooling submission](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog submission](https://github.com/bnb-chain/awesome/pull/16). See each pull request for its current review status.
+- **Awesome-Web3 — merged:** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
+- **BNB Chain — open submissions as of October 1, 2026:** [Developer tooling submission](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog submission](https://github.com/bnb-chain/awesome/pull/16). See each pull request for its current review status.
 
 </details>
 
@@ -133,7 +127,6 @@ For conversations about bioinformatics, on-chain tooling, or open-source collabo
 
 Naples, Italy
 
-If a project is useful to you, a star, issue, or contribution is always welcome.
 
 ---
 
