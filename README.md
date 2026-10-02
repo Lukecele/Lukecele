@@ -83,6 +83,7 @@ Merged upstream contributions, verified on **October 1, 2026**. Each link points
 
 | Project | Contribution |
 | :--- | :--- |
+| **nf-core/modules** | ABRA2 BAI output pattern and snapshot fix — [#13039](https://github.com/nf-core/modules/pull/13039) |
 | **Angular** | Gate DevTools signal watch controls on host API support — [#70986](https://github.com/angular/angular/pull/70986) |
 | **viem** | Plasma USDC/EURC token addresses and Kortana chain support — [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136) |
 | **Ethereum Lists** | Sonic RPC endpoint additions — [#8730](https://github.com/ethereum-lists/chains/pull/8730) |
