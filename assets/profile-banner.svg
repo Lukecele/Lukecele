@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Science. Code. Systems.</title>
+  <desc id="desc">A midnight blue banner with mint and lavender typography and a geometric network of connected nodes. Adapts to light and dark color schemes.</desc>
+  <defs>
+    <linearGradient id="background-dark" x2="1" y2="1">
+      <stop stop-color="#0d1526"/>
+      <stop offset="1" stop-color="#171b38"/>
+    </linearGradient>
+    <linearGradient id="background-light" x2="1" y2="1">
+      <stop stop-color="#e8eef8"/>
+      <stop offset="1" stop-color="#d0dcf0"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#72e8cf"/>
+      <stop offset="1" stop-color="#b5a4ff"/>
+    </linearGradient>
+    <pattern id="grid-dark" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8d9bc2" opacity=".14"/>
+    </pattern>
+    <pattern id="grid-light" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#5a6f9c" opacity=".10"/>
+    </pattern>
+  </defs>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: url(#background-dark); }
+      .grid { fill: url(#grid-dark); }
+      .text-muted { fill: #aab7d4; }
+      .text-primary { fill: #f1f5ff; }
+      .text-accent { fill: #91e7d6; }
+      .node-ring-1 { stroke: #b5a4ff; opacity: .18; }
+      .node-ring-2 { stroke: #72e8cf; opacity: .25; }
+      .node-mesh { stroke: url(#accent); opacity: .45; }
+      .node-accent { stroke: #b5a4ff; opacity: .6; }
+      .node-dot { fill: #101a2d; stroke: #72e8cf; }
+      .node-center-outer { fill: #b5a4ff; opacity: .12; }
+      .node-center-inner { fill: #c5b8ff; }
+      .divider { stroke: url(#accent); opacity: .24; }
+      .accent-bar { stroke: url(#accent); }
+    }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: url(#background-light); }
+      .grid { fill: url(#grid-light); }
+      .text-muted { fill: #4a5a7a; }
+      .text-primary { fill: #1a2338; }
+      .text-accent { fill: #007a6a; }
+      .node-ring-1 { stroke: #b5a4ff; opacity: .25; }
+      .node-ring-2 { stroke: #72e8cf; opacity: .35; }
+      .node-mesh { stroke: url(#accent); opacity: .55; }
+      .node-accent { stroke: #6a4fff; opacity: .7; }
+      .node-dot { fill: #ffffff; stroke: #007a6a; }
+      .node-center-outer { fill: #b5a4ff; opacity: .18; }
+      .node-center-inner { fill: #7a5fff; }
+      .divider { stroke: url(#accent); opacity: .3; }
+      .accent-bar { stroke: url(#accent); }
+    }
+    /* Fallback per client senza supporto media query */
+    .bg { fill: url(#background-dark); }
+    .grid { fill: url(#grid-dark); }
+    .text-muted { fill: #aab7d4; }
+    .text-primary { fill: #f1f5ff; }
+    .text-accent { fill: #91e7d6; }
+    .node-ring-1 { stroke: #b5a4ff; opacity: .18; }
+    .node-ring-2 { stroke: #72e8cf; opacity: .25; }
+    .node-mesh { stroke: url(#accent); opacity: .45; }
+    .node-accent { stroke: #b5a4ff; opacity: .6; }
+    .node-dot { fill: #101a2d; stroke: #72e8cf; }
+    .node-center-outer { fill: #b5a4ff; opacity: .12; }
+    .node-center-inner { fill: #c5b8ff; }
+    .divider { stroke: url(#accent); opacity: .24; }
+    .accent-bar { stroke: url(#accent); }
+  </style>
+  <rect width="1200" height="320" rx="20" class="bg"/>
+  <rect width="1200" height="320" rx="20" class="grid"/>
+  <path d="M56 58h48" class="accent-bar" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="56" y="106" class="text-muted" font-size="17" letter-spacing="4">CURIOSITY → PRACTICE</text>
+    <text x="52" y="179" class="text-primary" font-size="60" font-weight="700" letter-spacing="-2">Science. Code. Systems.</text>
+    <text x="56" y="230" class="text-accent" font-size="23">Medicine · Bioinformatics · On-chain engineering</text>
+  </g>
+  <g fill="none" stroke-width="1.5">
+    <circle cx="990" cy="160" r="112" class="node-ring-1"/>
+    <circle cx="990" cy="160" r="78" class="node-ring-2"/>
+    <path d="M900 99 1008 56 1090 137 1065 234 956 258 900 99 1090 137 956 258 1008 56 1065 234 900 99" class="node-mesh"/>
+    <path d="m900 99 90 61 100-23m-82-81-18 104 75 74m-109 24 34-98" class="node-accent"/>
+  </g>
+  <g class="node-dot" stroke-width="2">
+    <circle cx="900" cy="99" r="7"/>
+    <circle cx="1008" cy="56" r="7"/>
+    <circle cx="1090" cy="137" r="7"/>
+    <circle cx="1065" cy="234" r="7"/>
+    <circle cx="956" cy="258" r="7"/>
+  </g>
+  <circle cx="990" cy="160" r="19" class="node-center-outer"/>
+  <circle cx="990" cy="160" r="7" class="node-center-inner"/>
+  <path d="M56 285h1088" class="divider"/>
+</svg>
