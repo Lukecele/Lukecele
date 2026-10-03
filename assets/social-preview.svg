@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Luca Celebrano · Science, code &amp; open-source systems</title>
+  <desc id="desc">Personal social card for Lukecele, founder of Arbitrage Inception. Midnight blue, mint and lavender, with connected nodes adapted from the profile banner.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d1526"/>
+      <stop offset="1" stop-color="#171b38"/>
+    </linearGradient>
+    <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="72" x2="1208">
+      <stop stop-color="#72e8cf"/>
+      <stop offset="1" stop-color="#b5a4ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8d9bc2" opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="url(#background)"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+  <path d="M72 76h80" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="68" y="198" fill="#f1f5ff" font-size="78" font-weight="700" letter-spacing="-2">Luca Celebrano</text>
+    <text x="72" y="300" fill="#91e7d6" font-size="48">Science, code &amp;</text>
+    <text x="72" y="360" fill="#91e7d6" font-size="48">open-source systems</text>
+    <text x="72" y="432" fill="#aab7d4" font-size="28">Medicine · Bioinformatics · On-chain engineering</text>
+    <text x="72" y="557" fill="#c5b8ff" font-size="36" font-weight="700">@Lukecele</text>
+    <text x="1208" y="557" fill="#f1f5ff" font-size="28" text-anchor="end">Founder of Arbitrage Inception</text>
+  </g>
+  <g transform="translate(-227 112) scale(1.24)">
+    <g fill="none" stroke-width="1.5">
+      <circle cx="990" cy="160" r="112" stroke="#b5a4ff" opacity=".18"/>
+      <circle cx="990" cy="160" r="78" stroke="#72e8cf" opacity=".25"/>
+      <path d="M900 99 1008 56 1090 137 1065 234 956 258 900 99 1090 137 956 258 1008 56 1065 234 900 99" stroke="url(#accent)" opacity=".45"/>
+      <path d="m900 99 90 61 100-23m-82-81-18 104 75 74m-109 24 34-98" stroke="#b5a4ff" opacity=".6"/>
+    </g>
+    <g fill="#101a2d" stroke="#72e8cf" stroke-width="2">
+      <circle cx="900" cy="99" r="7"/>
+      <circle cx="1008" cy="56" r="7"/>
+      <circle cx="1090" cy="137" r="7"/>
+      <circle cx="1065" cy="234" r="7"/>
+      <circle cx="956" cy="258" r="7"/>
+    </g>
+    <circle cx="990" cy="160" r="19" fill="#b5a4ff" opacity=".12"/>
+    <circle cx="990" cy="160" r="7" fill="#c5b8ff"/>
+  </g>
+  <path d="M72 490h1136" stroke="url(#accent)" opacity=".3"/>
+</svg>
