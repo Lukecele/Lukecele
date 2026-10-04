@@ -4,7 +4,7 @@
 
 # Luca Celebrano
 
-Medical student at **Università degli Studi di Napoli Federico II** · Bioinformatics thesis at **TIGEM** · Naples, Italy
+Medical student at **Università degli Studi di Napoli Federico II** · Bioinformatics degree thesis at **TIGEM** · Naples, Italy
 
 **@Lukecele · Founder and solo builder of [Arbitrage Inception](https://github.com/arbincept)** — Building in Web3 since 2021.
 
