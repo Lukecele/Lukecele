@@ -42,7 +42,7 @@ A real-time token launch screener for BNB Smart Chain. Tracks bonding curves, de
 
 `Node.js` &nbsp; `On-chain telemetry` &nbsp; `Docker`
 
-[Explore app](https://lucace-inception-flap-scanner.hf.space) · [Source](https://github.com/arbincept/inception-flap-scanner)
+[Explore app](https://inception-flap-scanner.onrender.com) · [Source](https://github.com/arbincept/inception-flap-scanner)
 
 <sub>04 / RESEARCH</sub>
 
