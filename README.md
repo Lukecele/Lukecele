@@ -79,15 +79,15 @@ If a project is useful to you, visit its repository to star it, open an issue, o
 
 ## Open source contributions
 
-Merged upstream contributions, verified on **October 1, 2026**. Each link points to the original pull request:
+Merged upstream contributions, verified on **October 10, 2026**. Each link points to the original pull request:
 
 | Project | Contribution |
 | :--- | :--- |
-| **nf-core/modules** | ABRA2 BAI output pattern and snapshot fix — [#13039](https://github.com/nf-core/modules/pull/13039) |
+| **nf-core/modules** | GATK4 PostprocessGermlineCNVCalls output extension fix & ABRA2 BAI snapshot fix — [#13080](https://github.com/nf-core/modules/pull/13080), [#13039](https://github.com/nf-core/modules/pull/13039) |
 | **Angular** | Gate DevTools signal watch controls on host API support — [#70986](https://github.com/angular/angular/pull/70986) |
 | **viem** | Plasma USDC/EURC token addresses and Kortana chain support — [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136) |
 | **Ethereum Lists** | Sonic RPC endpoint additions — [#8730](https://github.com/ethereum-lists/chains/pull/8730) |
-| **DefiLlama** | Fee adapters and yield metrics — [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275) |
+| **DefiLlama** | Fee adapters, BSC tax accounting & yield metrics — [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275) |
 | **Chainlist** | RPC maintenance and endpoint security fixes — [#3159](https://github.com/DefiLlama/chainlist/pull/3159), [#3182](https://github.com/DefiLlama/chainlist/pull/3182) |
 
 <details>
