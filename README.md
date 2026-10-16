@@ -6,11 +6,19 @@
 
 Medical student at **Università degli Studi di Napoli Federico II** · Bioinformatics degree thesis at **TIGEM** · Naples, Italy
 
-**@Lukecele · Founder and solo builder of [Arbitrage Inception](https://github.com/arbincept)** — Building in Web3 since 2021.
+**@Lukecele · Founder & Maintainer of [Arbitrage Inception](https://github.com/arbincept)** — Building in Web3 since 2021.
 
-[Explore my projects](#selected-projects) · [Follow Lukecele](https://github.com/Lukecele) · [Upstream contributions](#open-source-contributions) · [Get in touch](#get-in-touch)
+[About](#about) · [Selected projects](#selected-projects) · [Arbitrage Inception](#arbitrage-inception) · [Open-source contributions](#open-source-contributions) · [Get in touch](#get-in-touch)
 
 </div>
+
+## About
+
+I am a medical student at **Università degli Studi di Napoli Federico II**, currently working on my experimental degree thesis in bioinformatics at **TIGEM** (Telethon Institute of Genetics and Medicine).
+
+Alongside my university studies, I enjoy building practical open-source tools: from multimodal study platforms like **[MedTerminal](https://github.com/Lukecele/cardio-thoracic-medterminal)** (developed to prepare for the integrated cardiovascular and respiratory exam) to mobile networking utilities ([ARBVPN](https://github.com/Lukecele/ARBVPN)) and interactive web applications. I am also the founder of **[Arbitrage Inception](https://github.com/arbincept)**, an open-source suite for on-chain DEX routing and telemetry.
+
+If a project is useful to you, visit its repository to star it, open an issue, or contribute. Follow **[Lukecele](https://github.com/Lukecele)** for new work.
 
 ## Selected projects
 
@@ -20,7 +28,7 @@ Medical student at **Università degli Studi di Napoli Federico II** · Bioinfor
 
 An interactive multimodal study platform developed for medical students at Università degli Studi di Napoli Federico II preparing for the integrated cardiovascular and respiratory disease exam. Features 3D WebGL cardiac and thoracic anatomy (Three.js), simulated ECG telemetry, remastered cardiac/pulmonary auscultation sound libraries, active recall review, and clinical diagnostic calculators.
 
-`React 19` &nbsp; `TypeScript` &nbsp; `Three.js` &nbsp; `Tailwind v4` &nbsp; `Medical Education`
+`React 19` · `TypeScript` · `Three.js` · `Tailwind v4` · `Medical Education`
 
 [Explore platform](https://cardio-thoracic-medterminal.vercel.app) · [Source](https://github.com/Lukecele/cardio-thoracic-medterminal)
 
@@ -30,7 +38,7 @@ An interactive multimodal study platform developed for medical students at Unive
 
 A cross-platform 1-tap WireGuard VPN mobile application built with React Native, Expo, and TypeScript. Provides real-time connection state management, low-latency handshake tracking, and secure tunnel configuration.
 
-`React Native` &nbsp; `TypeScript` &nbsp; `WireGuard` &nbsp; `Expo` &nbsp; `Mobile Networking`
+`React Native` · `TypeScript` · `WireGuard` · `Expo` · `Mobile Networking`
 
 [Source & setup](https://github.com/Lukecele/ARBVPN)
 
@@ -40,7 +48,7 @@ A cross-platform 1-tap WireGuard VPN mobile application built with React Native,
 
 A rule-based conversational NLP engine and financial calculation interface built with Next.js 16, React 19, and Tailwind CSS. Explores deterministic dialogue flow, structured response parsing, and real-time numerical evaluation.
 
-`Next.js 16` &nbsp; `React 19` &nbsp; `TypeScript` &nbsp; `Deterministic NLP` &nbsp; `Tailwind`
+`Next.js 16` · `React 19` · `TypeScript` · `Deterministic NLP` · `Tailwind`
 
 [Explore app](https://virtue-ecru.vercel.app) · [Source](https://github.com/Lukecele/virtue)
 
@@ -50,22 +58,24 @@ A rule-based conversational NLP engine and financial calculation interface built
 
 A high-performance progressive web application featuring responsive animations, Web Audio synthesis, Italian cult voice archives, a 450G Gravity Chamber training simulation, and Scouter HUD telemetry.
 
-`Vanilla JS` &nbsp; `CSS3 Animations` &nbsp; `Web Audio API` &nbsp; `PWA Ready`
+`Vanilla JS` · `CSS3 Animations` · `Web Audio API` · `PWA Ready`
 
 [Live platform](https://vegeta-site.vercel.app) · [Source](https://github.com/Lukecele/vegeta-site)
 
 <details>
-<summary><strong>More builds & open-source showcases</strong></summary>
-
-### Creative Web & Multimedia PWAs
+<summary><strong>More creative web & multimedia showcases</strong></summary>
 
 - **[Sylvester Stallone & Rocky Balboa](https://github.com/Lukecele/stallone-site)** — Cinematic motivational web portal and PWA featuring iconic speeches, original soundtrack cues, and philosophical mindset archives. [Live PWA](https://stallone-site.vercel.app).
 - **[Silvio Berlusconi: Sempre con il Sole in Tasca](https://github.com/Lukecele/berlusconi-site)** — Historical and multimedia PWA portal with speech transcripts, video archives, and interactive timeline. [Live PWA](https://berlusconi-site.vercel.app).
 - **[LUNC Devourer (Historical Archive)](https://github.com/Lukecele/lunc-devourer)** — 2022 Terra Classic dApp showcase and mathematical burn fee simulator (archived public research).
 
-### Decentralized Protocols (Founder @arbincept)
+</details>
 
-I am the founder and sole architect of **[Arbitrage Inception](https://github.com/arbincept)**, an open-source decentralized trading and on-chain telemetry suite. Key organization projects:
+## Arbitrage Inception
+
+I am the founder and lead maintainer of **[Arbitrage Inception](https://github.com/arbincept)** (`@arbincept`), an independent open-source organization focused on decentralized trading, cross-DEX aggregation, on-chain telemetry, and quantitative modeling.
+
+**Key organization projects:**
 - **[Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex)** — Multi-chain DEX aggregator, cross-chain bridge, and limit-order engine indexed on DefiLlama.
 - **[Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)** — Real-time token launch screener and bonding curve auditor on BNB Chain (>400 clones).
 - **[Arbitrage Inc Earn](https://github.com/arbincept/arbitrage-inc-earn)** — Lending and liquid staking vaults connecting Venus Protocol and Lista DAO.
@@ -73,15 +83,7 @@ I am the founder and sole architect of **[Arbitrage Inception](https://github.co
 - **[Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain)** — Quantitative research baseline for Solana DEX and tokenomics modeling.
 - **[BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)** & **[RWA Suite](https://github.com/arbincept/rwa-stock-arbitrage)** — Spread and route simulation engines.
 
-</details>
-
-## About
-
-I am a medical student at **Università degli Studi di Napoli Federico II**, currently working on my experimental degree thesis in bioinformatics at **TIGEM** (Telethon Institute of Genetics and Medicine).
-
-Alongside my university studies, I enjoy building practical open-source tools: from multimodal study platforms like **[MedTerminal](https://github.com/Lukecele/cardio-thoracic-medterminal)** (developed to prepare for the integrated cardiovascular and respiratory exam) to mobile networking utilities ([ARBVPN](https://github.com/Lukecele/ARBVPN)) and interactive web applications. I am also the founder of **[Arbitrage Inception](https://github.com/arbincept)**, where I explore on-chain DEX routing and telemetry.
-
-If a project is useful to you, visit its repository to star it, open an issue, or contribute. Follow **[Lukecele](https://github.com/Lukecele)** for new work.
+[Explore the organization on GitHub →](https://github.com/arbincept)
 
 ## Open source contributions
 
@@ -133,7 +135,7 @@ Merged upstream contributions to open-source developer ecosystems and biomedical
 
 ## Get in touch
 
-For conversations about bioinformatics, on-chain tooling, or open-source collaboration:
+For conversations about bioinformatics, software architecture, or open-source collaboration:
 
 **[luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)** · [GitHub](https://github.com/Lukecele) · [Arbitrage Inception](https://github.com/arbincept)
 
@@ -141,4 +143,4 @@ Naples, Italy
 
 ---
 
-<sub>Projects are published under their respective repository licenses. DeFi tools and research are not investment advice or custodial services. Verify protocol properties and ownership controls in the relevant source code and deployment documentation.</sub>
+<sub>Projects are published under their respective repository licenses. Open-source educational and research tools are provided for technical demonstration and study purposes. Verify protocol properties and documentation in the relevant repositories.</sub>
