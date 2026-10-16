@@ -30,7 +30,7 @@ An interactive multimodal study platform developed for medical students at Unive
 
 `React 19` · `TypeScript` · `Three.js` · `Tailwind v4` · `Medical Education`
 
-[Explore platform](https://cardio-thoracic-medterminal.vercel.app) · [Source](https://github.com/Lukecele/cardio-thoracic-medterminal)
+[Explore platform ↗](https://cardio-thoracic-medterminal.vercel.app) · [GitHub source →](https://github.com/Lukecele/cardio-thoracic-medterminal)
 
 <sub>02 / MOBILE & NETWORKING</sub>
 
@@ -40,7 +40,7 @@ A cross-platform 1-tap WireGuard VPN mobile application built with React Native,
 
 `React Native` · `TypeScript` · `WireGuard` · `Expo` · `Mobile Networking`
 
-[Source & setup](https://github.com/Lukecele/ARBVPN)
+[GitHub source & setup →](https://github.com/Lukecele/ARBVPN)
 
 <sub>03 / CONVERSATIONAL NLP & UI</sub>
 
@@ -50,7 +50,7 @@ A rule-based conversational NLP engine and financial calculation interface built
 
 `Next.js 16` · `React 19` · `TypeScript` · `Deterministic NLP` · `Tailwind`
 
-[Explore app](https://virtue-ecru.vercel.app) · [Source](https://github.com/Lukecele/virtue)
+[Explore app ↗](https://virtue-ecru.vercel.app) · [GitHub source →](https://github.com/Lukecele/virtue)
 
 <sub>04 / INTERACTIVE WEB & PWA ARCHITECTURE</sub>
 
@@ -60,13 +60,13 @@ A high-performance progressive web application featuring responsive animations, 
 
 `Vanilla JS` · `CSS3 Animations` · `Web Audio API` · `PWA Ready`
 
-[Live platform](https://vegeta-site.vercel.app) · [Source](https://github.com/Lukecele/vegeta-site)
+[Live platform ↗](https://vegeta-site.vercel.app) · [GitHub source →](https://github.com/Lukecele/vegeta-site)
 
 <details>
 <summary><strong>More creative web & multimedia showcases</strong></summary>
 
-- **[Sylvester Stallone & Rocky Balboa](https://github.com/Lukecele/stallone-site)** — Cinematic motivational web portal and PWA featuring iconic speeches, original soundtrack cues, and philosophical mindset archives. [Live PWA](https://stallone-site.vercel.app).
-- **[Silvio Berlusconi: Sempre con il Sole in Tasca](https://github.com/Lukecele/berlusconi-site)** — Historical and multimedia PWA portal with speech transcripts, video archives, and interactive timeline. [Live PWA](https://berlusconi-site.vercel.app).
+- **[Sylvester Stallone & Rocky Balboa](https://github.com/Lukecele/stallone-site)** — Cinematic motivational web portal and PWA featuring iconic speeches, original soundtrack cues, and philosophical mindset archives. [Live PWA ↗](https://stallone-site.vercel.app).
+- **[Silvio Berlusconi: Sempre con il Sole in Tasca](https://github.com/Lukecele/berlusconi-site)** — Historical and multimedia PWA portal with speech transcripts, video archives, and interactive timeline. [Live PWA ↗](https://berlusconi-site.vercel.app).
 - **[LUNC Devourer (Historical Archive)](https://github.com/Lukecele/lunc-devourer)** — 2022 Terra Classic dApp showcase and mathematical burn fee simulator (archived public research).
 
 </details>
@@ -80,7 +80,7 @@ I am the founder and lead maintainer of **[Arbitrage Inception](https://github.c
 - **[Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)** — Real-time token launch screener and bonding curve auditor on BNB Chain (>400 clones).
 - **[Arbitrage Inc Earn](https://github.com/arbincept/arbitrage-inc-earn)** — Lending and liquid staking vaults connecting Venus Protocol and Lista DAO.
 - **[Telegram Buy & Sell Tracker](https://github.com/arbincept/Telegram-bsc-buy-sell-bot)** — Real-time DEX liquidity pool monitoring and automated Telegram alert bot.
-- **[Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain)** — Quantitative research baseline for Solana DEX and tokenomics modeling.
+- **[Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain)** — Experimental research baseline for Solana DEX liquidity and tokenomics modeling.
 - **[BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)** & **[RWA Suite](https://github.com/arbincept/rwa-stock-arbitrage)** — Spread and route simulation engines.
 
 [Explore the organization on GitHub →](https://github.com/arbincept)
@@ -101,10 +101,17 @@ Merged upstream contributions to open-source developer ecosystems and biomedical
 <details>
 <summary><strong>Submissions & pull requests currently in review</strong></summary>
 
-- **Tailwind CSS (in review):** [PR #20524](https://github.com/tailwindlabs/tailwindcss/pull/20524) — Respect git global ignore files (`core.excludesFile`) in source scanner.
-- **Hono (in review):** [PR #5409](https://github.com/honojs/hono/pull/5409) — Fix JSDoc parameter types and annotations in middleware and helpers.
-- **BNB Chain ecosystem (open submissions):** [Developer tooling PR #98](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog PR #16](https://github.com/bnb-chain/awesome/pull/16).
-- **Awesome-Web3 (merged directory listing):** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
+- **Core runtime & developer tooling (in review):**
+  - [Tailwind CSS #20524](https://github.com/tailwindlabs/tailwindcss/pull/20524) — Respect git global ignore files (`core.excludesFile`) in Oxide source scanner.
+  - [Hono #5409](https://github.com/honojs/hono/pull/5409) — Fix JSDoc parameter types and annotations in middleware and helpers.
+- **Ecosystem & catalog submissions (in review):**
+  - [BNB Chain Developer Tooling #98](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome BNB Chain #16](https://github.com/bnb-chain/awesome/pull/16)
+  - [Awesome Solana OSS #79](https://github.com/StockpileLabs/awesome-solana-oss/pull/79) (Meme Intelligence Data tooling)
+  - [On-Chain Investigations Tools List #46](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/pull/46) (Inception Flap Scanner)
+  - [Awesome Ethereum #96](https://github.com/bekatom/awesome-ethereum/pull/96) (Arb-Inc All-in-Dex)
+  - [Awesome Crypto Trading Bots #146](https://github.com/botcrypto-io/awesome-crypto-trading-bots/pull/146) (BSC Arbitrage Scanner)
+- **Directory listings (merged):**
+  - [Awesome-Web3 #796](https://github.com/ahmet/awesome-web3/pull/796) (Arb-Inc All-in-Dex) · [#795](https://github.com/ahmet/awesome-web3/pull/795) (Inception Flap Scanner)
 
 </details>
 
@@ -128,7 +135,7 @@ Merged upstream contributions to open-source developer ecosystems and biomedical
 
 **On-chain architecture**
 
-`EVM` `BNB Smart Chain` `Solana` · DEX routing & RPC telemetry
+`EVM` `BNB Smart Chain` `Solana` `DEX Routing` `RPC Telemetry`
 
 **DevOps & delivery**
 
