@@ -77,32 +77,37 @@ I am the founder and sole architect of **[Arbitrage Inception](https://github.co
 
 ## About
 
-My work spans medicine, bioinformatics research, and open-source software. Through **Arbitrage Inception**, I build DEX aggregation tools, yield interfaces, and on-chain telemetry. I also explore deterministic conversational engines, quantitative models, and mobile networking, using AI-assisted development alongside testing and hands-on inspection.
+My work bridges clinical medicine, computational genomics, and modern software systems. At **Università degli Studi di Napoli Federico II** and **TIGEM**, I conduct research in bioinformatics pipelines and design multimodal medical workstations like **MedTerminal**. As the founder and architect of **[Arbitrage Inception](https://github.com/arbincept)**, I build decentralized protocols and telemetry tools, while developing open-source mobile networking clients (WireGuard) and reactive web applications.
 
 If a project is useful to you, visit its repository to star it, open an issue, or contribute. Follow **[Lukecele](https://github.com/Lukecele)** for new work.
 
 ## Open source contributions
 
-Merged upstream contributions, verified on **October 10, 2026**. Each link points to the original pull request:
+Upstream contributions to core developer ecosystems and biomedical consortia. Verified on **October 16, 2026**:
 
 | Project | Contribution |
 | :--- | :--- |
-| **nf-core/modules** | GATK4 PostprocessGermlineCNVCalls output extension fix & ABRA2 BAI snapshot fix — [#13080](https://github.com/nf-core/modules/pull/13080), [#13039](https://github.com/nf-core/modules/pull/13039) |
-| **Angular** | Gate DevTools signal watch controls on host API support — [#70986](https://github.com/angular/angular/pull/70986) |
-| **viem** | Plasma USDC/EURC token addresses and Kortana chain support — [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136) |
-| **Ethereum Lists** | Sonic RPC endpoint additions — [#8730](https://github.com/ethereum-lists/chains/pull/8730) |
-| **DefiLlama** | Fee adapters, BSC tax accounting & yield metrics — [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275) |
-| **Chainlist** | RPC maintenance and endpoint security fixes — [#3159](https://github.com/DefiLlama/chainlist/pull/3159), [#3182](https://github.com/DefiLlama/chainlist/pull/3182) |
+| **nf-core/modules** | GATK4 PostprocessGermlineCNVCalls output extension fix & ABRA2 BAI snapshot fix — [#13080](https://github.com/nf-core/modules/pull/13080), [#13039](https://github.com/nf-core/modules/pull/13039) *(Merged)* |
+| **Angular** | Gate DevTools signal watch controls on host API support — [#70986](https://github.com/angular/angular/pull/70986) *(Merged)* |
+| **viem** | Plasma USDC/EURC token addresses and Kortana chain support — [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136) *(Merged)* |
+| **Tailwind CSS** | Respect git global ignore files in source scanner — [#20524](https://github.com/tailwindlabs/tailwindcss/pull/20524) *(In Review)* |
+| **Ethereum Lists** | Sonic RPC endpoint additions — [#8730](https://github.com/ethereum-lists/chains/pull/8730) *(Merged)* |
+| **DefiLlama** | Fee adapters, BSC tax accounting & yield metrics — [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275) *(Merged)* |
+| **Chainlist** | RPC maintenance and endpoint security fixes — [#3159](https://github.com/DefiLlama/chainlist/pull/3159), [#3182](https://github.com/DefiLlama/chainlist/pull/3182) *(Merged)* |
 
 <details>
 <summary><strong>Ecosystem directory submissions</strong></summary>
 
 - **Awesome-Web3 — merged:** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
-- **BNB Chain — open submissions as of October 1, 2026:** [Developer tooling submission](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog submission](https://github.com/bnb-chain/awesome/pull/16). See each pull request for its current review status.
+- **BNB Chain — open submissions:** [Developer tooling submission](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog submission](https://github.com/bnb-chain/awesome/pull/16). See each pull request for its current review status.
 
 </details>
 
 ## Tools & focus
+
+**Biomedical & scientific tech**
+
+`Bioinformatics (Nextflow / nf-core)` `Three.js (3D WebGL Anatomy)` `Physiological Telemetry & Audio Synthesis`
 
 **Languages**
 
@@ -110,19 +115,19 @@ Merged upstream contributions, verified on **October 10, 2026**. Each link point
 
 **Web & mobile**
 
-`React` `Next.js` `Vite` `React Native` `Expo`
+`React 19` `Next.js 16` `Vite` `React Native` `Expo` `Tailwind CSS v4`
 
 **Systems & data**
 
 `Node.js` `Express` `AsyncIO` `REST` `WebSockets` `MCP`
 
-**On-chain**
+**On-chain architecture**
 
 `EVM` `BNB Smart Chain` `Solana` · DEX routing & RPC telemetry
 
-**Delivery**
+**DevOps & delivery**
 
-`Docker` `GitHub Actions` `Vercel` `Google Cloud Run` `Hugging Face Spaces`
+`Docker` `GitHub Actions` `Vercel` `Google Cloud Run`
 
 ## Get in touch
 
