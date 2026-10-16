@@ -24,27 +24,7 @@ A multimodal educational clinical platform built for medical students at Univers
 
 [Explore platform](https://cardio-thoracic-medterminal.vercel.app) · [Source](https://github.com/Lukecele/cardio-thoracic-medterminal)
 
-<sub>02 / DECENTRALIZED PROTOCOLS</sub>
-
-### [Arbitrage Inception Ecosystem](https://github.com/arbincept)
-
-An open-source on-chain protocol suite founded and architected by Lukecele. Features **[Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex)** (multi-chain DEX aggregator & bridge indexed on DefiLlama), **[Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)** (real-time bonding curve auditor with 400+ fortnightly clones), and **[Arbitrage Inc Earn](https://github.com/arbincept/arbitrage-inc-earn)** (Venus & Lista DAO vaults).
-
-`Next.js` &nbsp; `EVM / Solana` &nbsp; `DeFi Routing` &nbsp; `DefiLlama` &nbsp; `On-chain Telemetry`
-
-[Explore ecosystem](https://github.com/arbincept) · [DEX Aggregator](https://arbitrage-inc.exchange) · [DefiLlama Metrics](https://defillama.com/protocol/arbitrage-inc)
-
-<sub>03 / QUANTITATIVE RESEARCH</sub>
-
-### [Meme Intelligence On-Chain](https://github.com/Lukecele/meme-intelligence-onchain)
-
-An institutional quantitative research baseline for Solana DEX and meme coin tokenomics (v8). Features Python backtesting engines, holder distribution heuristics, liquidity curve modeling, and real-time risk scoring.
-
-`Python` &nbsp; `Solana DEX` &nbsp; `Tokenomics` &nbsp; `Quantitative Modeling`
-
-[Source & research](https://github.com/Lukecele/meme-intelligence-onchain)
-
-<sub>04 / MOBILE & NETWORKING</sub>
+<sub>02 / MOBILE & NETWORKING</sub>
 
 ### [ARBVPN](https://github.com/Lukecele/ARBVPN)
 
@@ -54,22 +34,44 @@ A cross-platform 1-tap WireGuard VPN mobile application built with React Native,
 
 [Source & setup](https://github.com/Lukecele/ARBVPN)
 
+<sub>03 / CONVERSATIONAL NLP & UI</sub>
+
+### [Virtue](https://github.com/Lukecele/virtue)
+
+A rule-based conversational NLP engine and financial calculation interface built with Next.js 16, React 19, and Tailwind CSS. Explores deterministic dialogue flow, structured response parsing, and real-time numerical evaluation.
+
+`Next.js 16` &nbsp; `React 19` &nbsp; `TypeScript` &nbsp; `Deterministic NLP` &nbsp; `Tailwind`
+
+[Explore app](https://virtue-ecru.vercel.app) · [Source](https://github.com/Lukecele/virtue)
+
+<sub>04 / INTERACTIVE WEB & PWA ARCHITECTURE</sub>
+
+### [Vegeta: Il Principe dei Saiyan (PWA)](https://github.com/Lukecele/vegeta-site)
+
+A high-performance progressive web application featuring responsive animations, Web Audio synthesis, Italian cult voice archives, a 450G Gravity Chamber training simulation, and Scouter HUD telemetry.
+
+`Vanilla JS` &nbsp; `CSS3 Animations` &nbsp; `Web Audio API` &nbsp; `PWA Ready`
+
+[Live platform](https://vegeta-site.vercel.app) · [Source](https://github.com/Lukecele/vegeta-site)
+
 <details>
-<summary><strong>More builds, research & web applications</strong></summary>
+<summary><strong>More builds & open-source showcases</strong></summary>
 
-### Web3 & Trading Automation (Arbitrage Inception)
+### Creative Web & Multimedia PWAs
 
-- **[Telegram Buy & Sell Tracker](https://github.com/arbincept/Telegram-bsc-buy-sell-bot)** — Real-time DEX liquidity pool monitoring and Telegram alert bot with React dashboard. [Telegram bot](https://t.me/ArbincMoon_bot) · [Community feed](https://t.me/arbitrageinception/80770).
-- **[BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)** — An asynchronous route simulator and arbitrage engine on BNB Chain that models gas, slippage, and token taxes.
-- **[RWA Stock Arbitrage Suite](https://github.com/arbincept/rwa-stock-arbitrage)** — Real-time market-hours price divergence and spread engine for tokenized equity wrappers on BNB Chain.
-- **[Virtue](https://github.com/Lukecele/virtue)** — A rule-based conversational NLP engine and crypto financial calculator built with Next.js 16 and React 19.
-
-### Interactive Web & PWA Portals
-
-- **[Vegeta: Il Principe dei Saiyan (PWA)](https://github.com/Lukecele/vegeta-site)** — An installable progressive web application dedicated to Vegeta. Features high-res Italian cult scenes, motivational quote archives, 450G Gravity Chamber audio simulation, and Scouter HUD. [Live PWA](https://vegeta-site.vercel.app).
 - **[Sylvester Stallone & Rocky Balboa](https://github.com/Lukecele/stallone-site)** — Cinematic motivational web portal and PWA featuring iconic speeches, original soundtrack cues, and philosophical mindset archives. [Live PWA](https://stallone-site.vercel.app).
 - **[Silvio Berlusconi: Sempre con il Sole in Tasca](https://github.com/Lukecele/berlusconi-site)** — Historical and multimedia PWA portal with speech transcripts, video archives, and interactive timeline. [Live PWA](https://berlusconi-site.vercel.app).
-- **[LUNC Devourer](https://github.com/Lukecele/lunc-devourer)** — Interactive Web3 dApp showcase and mathematical burn fee simulator on Terra Classic.
+- **[LUNC Devourer (Historical Archive)](https://github.com/Lukecele/lunc-devourer)** — 2022 Terra Classic dApp showcase and mathematical burn fee simulator (archived public research).
+
+### Decentralized Protocols (Founder @arbincept)
+
+I am the founder and sole architect of **[Arbitrage Inception](https://github.com/arbincept)**, an open-source decentralized trading and on-chain telemetry suite. Key organization projects:
+- **[Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex)** — Multi-chain DEX aggregator, cross-chain bridge, and limit-order engine indexed on DefiLlama.
+- **[Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)** — Real-time token launch screener and bonding curve auditor on BNB Chain (>400 clones).
+- **[Arbitrage Inc Earn](https://github.com/arbincept/arbitrage-inc-earn)** — Lending and liquid staking vaults connecting Venus Protocol and Lista DAO.
+- **[Telegram Buy & Sell Tracker](https://github.com/arbincept/Telegram-bsc-buy-sell-bot)** — Real-time DEX liquidity pool monitoring and automated Telegram alert bot.
+- **[Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain)** — Quantitative research baseline for Solana DEX and tokenomics modeling.
+- **[BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)** & **[RWA Suite](https://github.com/arbincept/rwa-stock-arbitrage)** — Spread and route simulation engines.
 
 </details>
 
