@@ -102,6 +102,7 @@ Merged upstream contributions to open-source developer ecosystems and biomedical
 <summary><strong>Submissions & pull requests currently in review</strong></summary>
 
 - **Tailwind CSS (in review):** [PR #20524](https://github.com/tailwindlabs/tailwindcss/pull/20524) — Respect git global ignore files (`core.excludesFile`) in source scanner.
+- **Hono (in review):** [PR #5409](https://github.com/honojs/hono/pull/5409) — Fix JSDoc parameter types and annotations in middleware and helpers.
 - **BNB Chain ecosystem (open submissions):** [Developer tooling PR #98](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog PR #16](https://github.com/bnb-chain/awesome/pull/16).
 - **Awesome-Web3 (merged directory listing):** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
 
