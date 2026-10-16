@@ -14,11 +14,11 @@ Medical student at **Università degli Studi di Napoli Federico II** · Bioinfor
 
 ## Selected projects
 
-<sub>01 / MEDTECH & CLINICAL SYSTEMS</sub>
+<sub>01 / MEDICAL EDUCATION & 3D ANATOMY</sub>
 
 ### [MedTerminal Cardio-Toracico (v2.0)](https://github.com/Lukecele/cardio-thoracic-medterminal)
 
-A multimodal educational clinical platform built for medical students at Università degli Studi di Napoli Federico II. Features interactive 3D WebGL cardiac and thoracic anatomy (Three.js), simulated ECG monitors, remastered auscultation sound libraries, diagnostic calculators, and an integrated oral exam simulator.
+An interactive multimodal study platform developed for medical students at Università degli Studi di Napoli Federico II preparing for the integrated cardiovascular and respiratory disease exam. Features 3D WebGL cardiac and thoracic anatomy (Three.js), simulated ECG telemetry, remastered cardiac/pulmonary auscultation sound libraries, active recall review, and clinical diagnostic calculators.
 
 `React 19` &nbsp; `TypeScript` &nbsp; `Three.js` &nbsp; `Tailwind v4` &nbsp; `Medical Education`
 
@@ -77,29 +77,31 @@ I am the founder and sole architect of **[Arbitrage Inception](https://github.co
 
 ## About
 
-My work bridges clinical medicine, computational genomics, and modern software systems. At **Università degli Studi di Napoli Federico II** and **TIGEM**, I conduct research in bioinformatics pipelines and design multimodal medical workstations like **MedTerminal**. As the founder and architect of **[Arbitrage Inception](https://github.com/arbincept)**, I build decentralized protocols and telemetry tools, while developing open-source mobile networking clients (WireGuard) and reactive web applications.
+I am a medical student at **Università degli Studi di Napoli Federico II**, currently working on my experimental degree thesis in bioinformatics at **TIGEM** (Telethon Institute of Genetics and Medicine).
+
+Alongside my university studies, I enjoy building practical open-source tools: from multimodal study platforms like **[MedTerminal](https://github.com/Lukecele/cardio-thoracic-medterminal)** (developed to prepare for the integrated cardiovascular and respiratory exam) to mobile networking utilities ([ARBVPN](https://github.com/Lukecele/ARBVPN)) and interactive web applications. I am also the founder of **[Arbitrage Inception](https://github.com/arbincept)**, where I explore on-chain DEX routing and telemetry.
 
 If a project is useful to you, visit its repository to star it, open an issue, or contribute. Follow **[Lukecele](https://github.com/Lukecele)** for new work.
 
 ## Open source contributions
 
-Upstream contributions to core developer ecosystems and biomedical consortia. Verified on **October 16, 2026**:
+Merged upstream contributions to open-source developer ecosystems and biomedical consortia. Verified on **October 16, 2026**:
 
 | Project | Contribution |
 | :--- | :--- |
-| **nf-core/modules** | GATK4 PostprocessGermlineCNVCalls output extension fix & ABRA2 BAI snapshot fix — [#13080](https://github.com/nf-core/modules/pull/13080), [#13039](https://github.com/nf-core/modules/pull/13039) *(Merged)* |
-| **Angular** | Gate DevTools signal watch controls on host API support — [#70986](https://github.com/angular/angular/pull/70986) *(Merged)* |
-| **viem** | Plasma USDC/EURC token addresses and Kortana chain support — [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136) *(Merged)* |
-| **Tailwind CSS** | Respect git global ignore files in source scanner — [#20524](https://github.com/tailwindlabs/tailwindcss/pull/20524) *(In Review)* |
-| **Ethereum Lists** | Sonic RPC endpoint additions — [#8730](https://github.com/ethereum-lists/chains/pull/8730) *(Merged)* |
-| **DefiLlama** | Fee adapters, BSC tax accounting & yield metrics — [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275) *(Merged)* |
-| **Chainlist** | RPC maintenance and endpoint security fixes — [#3159](https://github.com/DefiLlama/chainlist/pull/3159), [#3182](https://github.com/DefiLlama/chainlist/pull/3182) *(Merged)* |
+| **nf-core/modules** | GATK4 PostprocessGermlineCNVCalls output extension fix & ABRA2 BAI snapshot fix — [#13080](https://github.com/nf-core/modules/pull/13080), [#13039](https://github.com/nf-core/modules/pull/13039) |
+| **Angular** | Gate DevTools signal watch controls on host API support — [#70986](https://github.com/angular/angular/pull/70986) |
+| **viem** | Plasma USDC/EURC token addresses and Kortana chain support — [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136) |
+| **Ethereum Lists** | Sonic RPC endpoint additions — [#8730](https://github.com/ethereum-lists/chains/pull/8730) |
+| **DefiLlama** | Fee adapters, BSC tax accounting & yield metrics — [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275) |
+| **Chainlist** | RPC maintenance and endpoint security fixes — [#3159](https://github.com/DefiLlama/chainlist/pull/3159), [#3182](https://github.com/DefiLlama/chainlist/pull/3182) |
 
 <details>
-<summary><strong>Ecosystem directory submissions</strong></summary>
+<summary><strong>Submissions & pull requests currently in review</strong></summary>
 
-- **Awesome-Web3 — merged:** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
-- **BNB Chain — open submissions:** [Developer tooling submission](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog submission](https://github.com/bnb-chain/awesome/pull/16). See each pull request for its current review status.
+- **Tailwind CSS (in review):** [PR #20524](https://github.com/tailwindlabs/tailwindcss/pull/20524) — Respect git global ignore files (`core.excludesFile`) in source scanner.
+- **BNB Chain ecosystem (open submissions):** [Developer tooling PR #98](https://github.com/bnb-chain/developer-tools-list/pull/98) · [Awesome catalog PR #16](https://github.com/bnb-chain/awesome/pull/16).
+- **Awesome-Web3 (merged directory listing):** [Arb-Inc All-in-Dex submission](https://github.com/ahmet/awesome-web3/pull/796) · [Inception Flap Scanner submission](https://github.com/ahmet/awesome-web3/pull/795).
 
 </details>
 
