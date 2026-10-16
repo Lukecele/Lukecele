@@ -40,7 +40,7 @@ Pins verified from the public profile on October 1, 2026:
 2. [Earn & Vaults](https://github.com/arbincept/arbitrage-inc-earn)
 3. [Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)
 4. [Virtue](https://github.com/Lukecele/virtue)
-5. [Telegram Buy & Sell Tracker](https://github.com/Lukecele/Telegram-bsc-buy-sell-bot)
+5. [Telegram Buy & Sell Tracker](https://github.com/arbincept/Telegram-bsc-buy-sell-bot)
 6. [BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)
 
 All six repositories are public and not archived. They cover exchange, yield, telemetry, conversational tooling and automation. Their current state supports keeping this selection.
