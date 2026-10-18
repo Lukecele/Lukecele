@@ -18,6 +18,9 @@ I am a medical student at **Università degli Studi di Napoli Federico II**, cur
 
 Alongside my university studies, I enjoy building practical open-source tools: from multimodal study platforms like **[MedTerminal](https://github.com/Lukecele/cardio-thoracic-medterminal)** (developed to prepare for the integrated cardiovascular and respiratory exam) to mobile networking utilities ([ARBVPN](https://github.com/Lukecele/ARBVPN)) and interactive web applications. I am also the founder of **[Arbitrage Inception](https://github.com/arbincept)**, an open-source suite for on-chain DEX routing and telemetry.
 
+> [!TIP]
+> **Find any of these tools or libraries helpful?** If you use, clone, or study any of these repositories, please consider leaving a ⭐ **Star** on the respective projects to support independent open-source research and development!
+
 If a project is useful to you, visit its repository to star it, open an issue, or contribute. Follow **[Lukecele](https://github.com/Lukecele)** for new work.
 
 ## Selected projects
@@ -65,6 +68,7 @@ A high-performance progressive web application featuring responsive animations, 
 <details>
 <summary><strong>More creative web & multimedia showcases</strong></summary>
 
+- **[Sanctuary (Il Mio Rifugio Musicale)](https://github.com/Lukecele/music-site)** — Personal interactive music sanctuary and responsive PWA featuring 52 cult audio tracks and relaxation sleep timer. [Live PWA ↗](https://music-site-ten-green.vercel.app).
 - **[Sylvester Stallone & Rocky Balboa](https://github.com/Lukecele/stallone-site)** — Cinematic motivational web portal and PWA featuring iconic speeches, original soundtrack cues, and philosophical mindset archives. [Live PWA ↗](https://stallone-site.vercel.app).
 - **[Silvio Berlusconi: Sempre con il Sole in Tasca](https://github.com/Lukecele/berlusconi-site)** — Historical and multimedia PWA portal with speech transcripts, video archives, and interactive timeline. [Live PWA ↗](https://berlusconi-site.vercel.app).
 - **[LUNC Devourer (Historical Archive)](https://github.com/Lukecele/lunc-devourer)** — 2022 Terra Classic dApp showcase and mathematical burn fee simulator (archived public research).
