@@ -4,13 +4,30 @@
 
 # Luca Celebrano
 
-Medical student at **Università degli Studi di Napoli Federico II** · Bioinformatics degree thesis at **TIGEM** · Naples, Italy
+Medical student at **Università degli Studi di Napoli Federico II** · Experimental degree thesis in bioinformatics at **TIGEM** · Naples, Italy
 
-**@Lukecele · Founder & Maintainer of [Arbitrage Inception](https://github.com/arbincept)** — Building in Web3 since 2021.
+**Computational Oncology · Spatial Biology & Biophysics · AI in Digital Pathology**  
+Founder & Maintainer of [Arbitrage Inception](https://github.com/arbincept)
 
-[About](#about) · [Selected projects](#selected-projects) · [Arbitrage Inception](#arbitrage-inception) · [Open-source contributions](#open-source-contributions) · [Get in touch](#get-in-touch)
+[Featured Research](#-featured-scientific-research-spatial-oncology--biophysics) · [About](#about) · [Selected projects](#selected-projects) · [Arbitrage Inception](#arbitrage-inception) · [Open-source contributions](#open-source-contributions) · [Get in touch](#get-in-touch)
 
 </div>
+
+## 🔬 Featured Scientific Research: Spatial Oncology & Biophysics
+
+A 4-part independent open-source research initiative on **non-genetic targeted therapy resistance, subcellular spatial transcriptomics, and low-cost digital pathology AI** for EGFR-mutated non-small cell lung cancer (NSCLC). Developed in affiliation with **Department of Clinical Medicine and Surgery, Università degli Studi di Napoli Federico II** & experimental degree thesis in bioinformatics at **TIGEM** (Telethon Institute of Genetics and Medicine).
+
+| Study | Focus & Novelty | Cohort / Method | DOI (Zenodo) | Status |
+| :--- | :--- | :--- | :---: | :---: |
+| **[Study 4: InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4)** | **Zero-cost (< 5 €) diagnostic AI:** Attention-MIL neural network predicting microvascular decoupling and osimertinib PFS directly from routine diagnostic H&E slides. | $N = 570$ TCGA-LUAD cases • Colab T4 streaming | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23621924.svg)](https://doi.org/10.5281/zenodo.23621924) | [![CI](https://github.com/Lukecele/spatial-he-vision-study4/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-he-vision-study4/actions/workflows/ci.yml) |
+| **[Study 3: Massive Validation](https://github.com/Lukecele/spatial-massive-validation-study3)** | **Multi-cohort clinical survival validation:** Proves that microvascular decoupling truncates median PFS from **78.6 to 24.0 months** ($p < 10^{-15}$, $HR = 19.45$). | $N = 854$ patients (TCGA + GSE31210) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23620887.svg)](https://doi.org/10.5281/zenodo.23620887) | [![CI](https://github.com/Lukecele/spatial-massive-validation-study3/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-massive-validation-study3/actions/workflows/ci.yml) |
+| **[Study 2: Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)** | **Subcellular biophysical transport discovery:** Uncovers microvascular decoupling in dense homotypic tumor sheets exceeding the $\lambda \approx 624\,\mu\text{m}$ diffusion barrier. | 10x Visium HD ($211,104$ bins at $2\,\mu\text{m}$) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23620878.svg)](https://doi.org/10.5281/zenodo.23620878) | [![CI](https://github.com/Lukecele/spatial-architecture-osimertinib/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-architecture-osimertinib/actions/workflows/ci.yml) |
+| **[Study 1: InSituGame](https://github.com/Lukecele/spatial-game-assay)** | **In situ evolutionary game assay:** Infers subclonal payoff matrices ($A$) and Nash equilibria from intact spatial transcriptomics to guide adaptive therapy. | Pan-cancer ($20,093$ clinical spots) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23585216.svg)](https://doi.org/10.5281/zenodo.23585216) | [![CI](https://github.com/Lukecele/spatial-game-assay/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-game-assay/actions/workflows/ci.yml) |
+
+> [!NOTE]
+> All 4 studies are distributed under the **GNU General Public License v3.0 (GPL-3.0)** with fully reproducible pipelines, automated GitHub Actions CI, and immutable archived DOI records.
+
+---
 
 ## About
 
@@ -123,11 +140,11 @@ Merged upstream contributions to open-source developer ecosystems and biomedical
 
 **Biomedical & scientific tech**
 
-`Bioinformatics (Nextflow / nf-core)` `Three.js (3D WebGL Anatomy)` `Physiological Telemetry & Audio Synthesis`
+`Bioinformatics (Nextflow / nf-core)` `Spatial Transcriptomics (10x Visium HD)` `Computational Pathology (Deep-MIL)` `Three.js (3D WebGL Anatomy)`
 
 **Languages**
 
-`TypeScript` `JavaScript` `Python`
+`Python` `TypeScript` `JavaScript` `R`
 
 **Web & mobile**
 
@@ -135,7 +152,7 @@ Merged upstream contributions to open-source developer ecosystems and biomedical
 
 **Systems & data**
 
-`Node.js` `Express` `AsyncIO` `REST` `WebSockets` `MCP`
+`PyTorch` `Scipy` `Lifelines` `OpenSlide` `Node.js` `Express` `AsyncIO` `REST` `WebSockets`
 
 **On-chain architecture**
 
@@ -143,13 +160,13 @@ Merged upstream contributions to open-source developer ecosystems and biomedical
 
 **DevOps & delivery**
 
-`Docker` `GitHub Actions` `Vercel` `Google Cloud Run`
+`Docker` `GitHub Actions` `Vercel` `Google Cloud Run` `Google Colab (T4 GPU)`
 
 ## Get in touch
 
-For conversations about bioinformatics, software architecture, or open-source collaboration:
+For conversations about computational oncology, bioinformatics, or open-source collaboration:
 
-**[luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)** · [GitHub](https://github.com/Lukecele) · [Arbitrage Inception](https://github.com/arbincept)
+**[l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)** · **[luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)** · [GitHub](https://github.com/Lukecele) · [Arbitrage Inception](https://github.com/arbincept)
 
 Naples, Italy
 
