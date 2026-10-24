@@ -27,6 +27,10 @@ A 4-part independent open-source research initiative on **non-genetic targeted t
 > [!NOTE]
 > All 4 studies are distributed under the **GNU General Public License v3.0 (GPL-3.0)** with fully reproducible pipelines, automated GitHub Actions CI, and immutable archived DOI records.
 
+> [!TIP]
+> **Support Open-Source Biomedical & AI Research**  
+> If you find this spatial oncology tetralogy or any of our open computational tools helpful in your research, clinical studies, or coursework, please consider leaving a ⭐ **Star** on the respective GitHub repositories to support independent open-source science!
+
 ---
 
 ## About
