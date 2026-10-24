@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Science. Code. Systems. — Medicine, bioinformatics and on-chain engineering" width="1200" />
+<img src="assets/profile-banner.svg" alt="Science. Code. Systems. — Medicine, bioinformatics and on-chain engineering" width="100%" style="max-width: 1200px; height: auto;" />
 
 # Luca Celebrano
 
@@ -23,6 +23,16 @@ A 4-part independent open-source research initiative on **non-genetic targeted t
 | **[Study 3: Massive Validation](https://github.com/Lukecele/spatial-massive-validation-study3)** | **Multi-cohort clinical survival validation:** Proves that microvascular decoupling truncates median PFS from **78.6 to 24.0 months** ($p < 10^{-15}$, $HR = 19.45$). | $N = 854$ patients (TCGA + GSE31210) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23620887.svg)](https://doi.org/10.5281/zenodo.23620887) | [![CI](https://github.com/Lukecele/spatial-massive-validation-study3/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-massive-validation-study3/actions/workflows/ci.yml) |
 | **[Study 2: Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)** | **Subcellular biophysical transport discovery:** Uncovers microvascular decoupling in dense homotypic tumor sheets exceeding the $\lambda \approx 624\,\mu\text{m}$ diffusion barrier. | 10x Visium HD ($211,104$ bins at $2\,\mu\text{m}$) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23620878.svg)](https://doi.org/10.5281/zenodo.23620878) | [![CI](https://github.com/Lukecele/spatial-architecture-osimertinib/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-architecture-osimertinib/actions/workflows/ci.yml) |
 | **[Study 1: InSituGame](https://github.com/Lukecele/spatial-game-assay)** | **In situ evolutionary game assay:** Infers subclonal payoff matrices ($A$) and Nash equilibria from intact spatial transcriptomics to guide adaptive therapy. | Pan-cancer ($20,093$ clinical spots) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23585216.svg)](https://doi.org/10.5281/zenodo.23585216) | [![CI](https://github.com/Lukecele/spatial-game-assay/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-game-assay/actions/workflows/ci.yml) |
+
+<details>
+<summary><strong>📱 Mobile-Optimized Quick View (Vertical Stack)</strong></summary>
+
+* 👁️ **[Study 4: InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4)** — Zero-cost (< 5 €) diagnostic AI predicting microvascular decoupling and osimertinib PFS directly from routine H&E whole-slide images ($N = 570$ TCGA-LUAD cases). • DOI: [`10.5281/zenodo.23621924`](https://doi.org/10.5281/zenodo.23621924)
+* 📊 **[Study 3: Massive Validation](https://github.com/Lukecele/spatial-massive-validation-study3)** — Multi-cohort clinical survival validation in $N = 854$ patients ($p < 10^{-15}$, $HR = 19.45$). • DOI: [`10.5281/zenodo.23620887`](https://doi.org/10.5281/zenodo.23620887)
+* 🔬 **[Study 2: Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)** — 10x Visium HD subcellular architecture (2 µm) and the $\lambda \approx 624\,\mu\text{m}$ biophysical diffusion barrier. • DOI: [`10.5281/zenodo.23620878`](https://doi.org/10.5281/zenodo.23620878)
+* 🧬 **[Study 1: InSituGame](https://github.com/Lukecele/spatial-game-assay)** — In situ spatial evolutionary game assay inferring tumor subclonal payoff matrices. • DOI: [`10.5281/zenodo.23585216`](https://doi.org/10.5281/zenodo.23585216)
+
+</details>
 
 > [!NOTE]
 > All 4 studies are distributed under the **GNU General Public License v3.0 (GPL-3.0)** with fully reproducible pipelines, automated GitHub Actions CI, and immutable archived DOI records.
