@@ -44,6 +44,9 @@ Independent research program investigating **non-genetic targeted therapy resist
 | **[Study 2: Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)** | **Subcellular biophysical transport:** Microvascular decoupling in dense homotypic tumor sheets exceeding the λ ≈ 624 µm diffusion limit. | 10x Visium HD (211,104 bins at 2 µm) | [![Live Demo](https://img.shields.io/badge/Portal-Live%20Demo-brightgreen.svg)](https://lukecele.github.io/spatial-architecture-osimertinib/) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23620878.svg)](https://doi.org/10.5281/zenodo.23620878) | `Peer-Review Ready`<br/>[![CI](https://github.com/Lukecele/spatial-architecture-osimertinib/actions/workflows/ci.yml/badge.svg)](https://github.com/Lukecele/spatial-architecture-osimertinib/actions/workflows/ci.yml) |
 | **[Study 1: InSituGame](https://github.com/Lukecele/spatial-game-assay)** | **In situ evolutionary game assay:** Infers subclonal payoff matrices (A) and Nash equilibria from intact spatial transcriptomics. | Pan-cancer (20,093 clinical spots) | [![Live Demo](https://img.shields.io/badge/Portal-Live%20Demo-brightgreen.svg)](https://lukecele.github.io/spatial-game-assay/) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23585216.svg)](https://doi.org/10.5281/zenodo.23585216) | `Submitted (AACR CRC)`<br/>`bioRxiv (761331)` |
 
+> [!TIP]
+> ⭐️ **Support Open Science:** If you find these computational oncology architectures, biophysical models, or clinical AI algorithms useful in your research, please consider giving the repositories a ⭐ **Star** on GitHub to support open scientific inquiry and track incoming updates!
+
 ---
 
 ## 🩺 Medical Platforms & Software Engineering
