@@ -74,9 +74,9 @@
   <rect width="1200" height="320" rx="20" class="grid"/>
   <path d="M56 58h48" class="accent-bar" stroke-width="4" stroke-linecap="round"/>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="56" y="106" class="text-muted" font-size="17" letter-spacing="4">CURIOSITY → PRACTICE</text>
+    <text x="56" y="106" class="text-muted" font-size="17" letter-spacing="4">TRANSLATIONAL ONCOLOGY → PRACTICE</text>
     <text x="52" y="179" class="text-primary" font-size="60" font-weight="700" letter-spacing="-2">Science. Code. Systems.</text>
-    <text x="56" y="230" class="text-accent" font-size="23">Medicine · Bioinformatics · On-chain engineering</text>
+    <text x="56" y="230" class="text-accent" font-size="23">Translational Medicine · Computational Oncology · Spatial Multi-Omics</text>
   </g>
   <g fill="none" stroke-width="1.5">
     <circle cx="990" cy="160" r="112" class="node-ring-1"/>

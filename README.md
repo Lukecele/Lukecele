@@ -34,10 +34,12 @@ Department of Clinical Medicine and Surgery, School of Medicine and Surgery · N
 Independent medical student translational research program investigating **non-genetic targeted therapy resistance, biophysical reaction-diffusion transport, and low-cost diagnostic AI** in *EGFR*-mutant lung adenocarcinoma (NSCLC). Affiliated with the Department of Clinical Medicine and Surgery, School of Medicine and Surgery, **Università degli Studi di Napoli Federico II**, Naples, Italy.
 
 > [!IMPORTANT]
+>
 > ### 👑 [Grand Unified Framework: The Spatial-Genomic Oncology Continuum](https://github.com/Lukecele/spatial-continuum-oncology)
+>
 > **A Biophysical Reaction-Diffusion Theory of Pharmacological Sanctuaries, the Post-ADAURA Cessation Dilemma, and the Bedside Composite Resistance Index (CRI)**  
 > *Target Journal: Nature Communications* | *Preprint DOI: [10.21203/rs.3.rs-11530312/v1](https://doi.org/10.21203/rs.3.rs-11530312/v1)* | *medRxiv MS ID: MEDRXIV/2026/366778* | *Zenodo: [10.5281/zenodo.23748047](https://doi.org/10.5281/zenodo.23748047)*  
-> 
+>
 > 1. **Biophysical Reaction-Diffusion Transport:** Cylindrical modified Bessel $K_0$ decay demonstrating that an outward microvascular cord develops a sub-therapeutic pharmacological sanctuary shell ($\Delta r = 34.11\,\mu\text{m}$, $31.3\%$ cord volume) between $r_{\text{crit}} = 165.89\,\mu\text{m}$ and the hypoxia/necrosis boundary $r_{\text{ox}} = 200.0\,\mu\text{m}$. Conversely, inward avascular nests maintain high drug penetrance (>90%), precluding small-molecule shelters.
 > 2. **Universal Regrowth-Kinetics Lead-Time Identity:** Exact mathematical proof that the ctDNA molecular recurrence lead time ($\Delta t = T_s \log_2(100) = 5.46\,\text{months}$ for doubling time $T_s = 25\,\text{days}$) is an invariant kinetic identity of exponential volume expansion from $10^7$ to $10^9$ cells, resolving the post-ADAURA recurrence surge without invoking de novo secondary mutations.
 > 3. **Translational Bedside CRI & SG-ADAURA Protocol:** Formulation of the Composite Resistance Index ($\text{CRI} = 0.40 \cdot \Delta r_{\text{norm}} + 0.35 \cdot \text{VDI}_{\text{norm}} + 0.25 \cdot \text{HR}_{\text{hist}}$) and the prospective Phase III SG-ADAURA trial allocation protocol (Arms A, B1/B2/B3, C).
@@ -93,14 +95,17 @@ flowchart LR
 ## 🩺 Medical Platforms & Software Engineering
 
 ### 🩺 [MedTerminal Cardio-Toracico](https://github.com/Lukecele/cardio-thoracic-medterminal)
+
 Interactive multimodal educational platform designed for medical students at Università degli Studi di Napoli Federico II: 3D WebGL cardiac and thoracic anatomy (Three.js), simulated real-time ECG telemetry, remastered cardiac and respiratory auscultation audio, active recall diagnostic cases, and bedside clinical calculators.  
 `React 19` · `TypeScript` · `Three.js` · `Tailwind CSS v4` · **[Explore live platform ↗](https://cardio-thoracic-medterminal.vercel.app)**
 
 ### 📱 [ARBVPN](https://github.com/Lukecele/ARBVPN) & Creative Web Systems
+
 - **[ARBVPN](https://github.com/Lukecele/ARBVPN):** Cross-platform 1-tap WireGuard VPN mobile application built with React Native, Expo, and TypeScript.
 - **Interactive Web Systems:** High-performance responsive web applications exploring Web Audio API, animation, and cultural archives ([Vegeta](https://github.com/Lukecele/vegeta-site), [Sanctuary Music](https://github.com/Lukecele/music-site), [Sylvester Stallone](https://github.com/Lukecele/stallone-site), [Silvio Berlusconi](https://github.com/Lukecele/berlusconi-site)).
 
 ### ⚡ Arbitrage Inception ([@arbincept](https://github.com/arbincept))
+
 Founder & maintainer of [**Arbitrage Inception**](https://github.com/arbincept), an independent open-source organization dedicated to on-chain telemetry, DEX aggregation, and quantitative algorithmic systems (including *Arb-Inc All-in-Dex*, *Inception Flap Scanner*, and *Virtue*).
 
 ---

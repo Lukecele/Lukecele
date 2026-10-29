@@ -32,7 +32,7 @@ Current bio, verified from the public GitHub user API:
 
 > MD Candidate @ Federico II · Bioinformatics & on-chain systems · Founder @arbincept · Open-source contributor
 
-This already connects the medical, research and founder identities. The README preserves the existing Federico II and TIGEM statements; it does not add institutional claims.
+This already connects the medical, research and founder identities. The README preserves the existing Federico II statements; it does not add institutional claims.
 
 Pins verified from the public profile on October 1, 2026:
 
