@@ -18,10 +18,11 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 [![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
 [![Substack Live](https://img.shields.io/badge/Substack-Scientific%20Monograph-FF6719?style=flat-square&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
 
+[![Live 60 FPS Digital Twin](https://img.shields.io/badge/%F0%9F%AB%B8%20Digital%20Twin-Vessel%20Cord%20Simulator%20(Live%2060%20FPS)-be123c?style=flat-square&logo=safari&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)
+[![Bedside CRI Portal](https://img.shields.io/badge/%F0%9F%A9%BA%20Bedside%20CRI-Clinical%20Decision%20Support-2ea44f?style=flat-square)](https://lukecele.github.io/spatial-continuum-oncology/)
 [![Awesome AI4DigitalPathology](https://img.shields.io/badge/Awesome-AI4DigitalPathology%20(Merged)-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/lingxitong/Awesome-AI4DigitalPathology#computational-pathology-with-multi-omics)
 [![Awesome Single-Cell](https://img.shields.io/badge/Awesome-Single--Cell%20(Merged)-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/seandavi/awesome-single-cell#spatial-transcriptomics)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Simulator%20Live-ffd21e?style=flat-square)](https://huggingface.co/spaces/Lucace/spatial-oncology-simulator)
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MSKCC%20Cohort%20(34%2B%20DLs)-blue?style=flat-square)](https://huggingface.co/datasets/Lucace/mskcc-lung-adenocarcinoma-spatial-cohort)
+[![Hugging Face Hub](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MSKCC%20Dataset%20%26%20Space-ffd21e?style=flat-square)](https://huggingface.co/Lucace)
 
 ---
 
@@ -46,10 +47,16 @@ Translational oncology and computational biophysics program investigating **non-
 >
 > <div align="center">
 >
+> [![Live 60 FPS Digital Twin](https://img.shields.io/badge/%F0%9F%AB%B8%2060%20FPS%20Simulator-Capillary%20Vessel%20Cord%20Digital%20Twin-be123c.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)
 > [![Bedside CRI Portal](https://img.shields.io/badge/%F0%9F%A9%BA%20Bedside%20CRI%20Portal-Live%20Clinical%20CDSS-2ea44f.svg?style=for-the-badge)](https://lukecele.github.io/spatial-continuum-oncology/)
-> [![Interactive 60 FPS Simulator](https://img.shields.io/badge/%F0%9F%8E%AE%2060%20FPS%20Simulator-Digital%20Twin%20Engine-6f42c1.svg?style=for-the-badge)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)
 > [![Springer Nature Preprint](https://img.shields.io/badge/Research%20Square-10.21203%2Frs.3.rs--11530312%2Fv1-007acc.svg?style=for-the-badge&logo=springer&logoColor=white)](https://doi.org/10.21203/rs.3.rs-11530312/v1)
 > [![Bioconda Official Package](https://img.shields.io/badge/Bioconda-spatial--continuum%20v1.0.2-3EB049.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://anaconda.org/bioconda/spatial-continuum)
+>
+> <br/>
+>
+> <a href="https://lukecele.github.io/spatial-continuum-oncology/simulator.html">
+>   <img src="assets/simulator-vessel-preview.png" alt="In Silico Tumor Sanctuary Digital Twin — Real-time 60 FPS Microvascular Vessel Simulation" width="100%" style="max-width: 960px; border-radius: 8px; border: 1px solid #1e293b;" />
+> </a>
 >
 > </div>
 
