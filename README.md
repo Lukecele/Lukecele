@@ -6,7 +6,7 @@
 
 **Medical Student / MD Candidate** at [Università degli Studi di Napoli Federico II](https://www.unina.it/)  
 Department of Clinical Medicine and Surgery · School of Medicine and Surgery · Naples, Italy  
-[ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)
+[ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)
 
 **Computational Oncology · Biophysical Transport Theory · Spatial Multi-Omics · Digital Pathology AI**
 
@@ -17,6 +17,7 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 [![Bioconda Suite](https://img.shields.io/badge/Bioconda-3%20Packages%20Live%20(Merged)-3EB049?style=flat-square&logo=anaconda&logoColor=white)](https://anaconda.org/bioconda/spatial-continuum)
 [![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
 [![Substack Live](https://img.shields.io/badge/Substack-Scientific%20Monograph-FF6719?style=flat-square&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luca--celebrano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-celebrano/)
 
 [![Unified Portal](https://img.shields.io/badge/%F0%9F%8C%90%20Grand%20Unified%20Portal-All--in--One%20Web%20Suite-0284c7?style=flat-square&logo=safari&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/)
 [![Live 60 FPS Digital Twin](https://img.shields.io/badge/%F0%9F%AB%B8%20Digital%20Twin-Vessel%20Cord%20Simulator-be123c?style=flat-square)](https://lukecele.github.io/spatial-continuum-oncology/#simulator)
@@ -167,4 +168,5 @@ A verified record of peer-reviewed and merged contributions across bioinformatic
 - **Academic Email:** [l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)
 - **Personal Contact:** [luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)
 - **ORCID:** [0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555)
+- **LinkedIn Profile:** [linkedin.com/in/luca-celebrano](https://www.linkedin.com/in/luca-celebrano/)
 - **GitHub Profile:** [@Lukecele](https://github.com/Lukecele)
