@@ -17,6 +17,7 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 [![Bioconda Suite](https://img.shields.io/badge/Bioconda-3%20Packages%20Live%20(Merged)-3EB049?style=flat-square&logo=anaconda&logoColor=white)](https://anaconda.org/bioconda/spatial-continuum)
 [![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
 [![Substack Live](https://img.shields.io/badge/Substack-Scientific%20Monograph-FF6719?style=flat-square&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
+[![Full Manuscript PDF](https://img.shields.io/badge/%F0%9F%93%84%20Full%20Manuscript-PDF%20Download-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luca--celebrano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-celebrano/)
 
 [![Unified Portal](https://img.shields.io/badge/%F0%9F%8C%90%20Grand%20Unified%20Portal-All--in--One%20Web%20Suite-0284c7?style=flat-square&logo=safari&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/)
@@ -38,7 +39,7 @@ Translational oncology and computational biophysics program investigating **non-
 > ### 👑 [Grand Unified Framework: The Spatial-Genomic Oncology Continuum](https://github.com/Lukecele/spatial-continuum-oncology)
 >
 > **A Biophysical Reaction-Diffusion Theory of Pharmacological Sanctuaries, the Post-ADAURA Cessation Dilemma, and the Bedside Composite Resistance Index (CRI)**  
-> *Target Journal: Nature Communications (Under Consideration)* | *Preprint DOI: [10.21203/rs.3.rs-11530312/v1](https://doi.org/10.21203/rs.3.rs-11530312/v1)* | *Zenodo Archive: [10.5281/zenodo.23748047](https://doi.org/10.5281/zenodo.23748047)*  
+> *Target Journal: Nature Communications (Under Consideration)* | *Preprint DOI: [10.21203/rs.3.rs-11530312/v1](https://doi.org/10.21203/rs.3.rs-11530312/v1)* | *Zenodo Archive: [10.5281/zenodo.23748047](https://doi.org/10.5281/zenodo.23748047)* | [![Manuscript PDF](https://img.shields.io/badge/%F0%9F%93%84%20Read%20PDF-Manuscript-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)  
 >
 > 1. **Biophysical Reaction-Diffusion Mechanics (Bessel $K_0$):** Demonstrates that outward cylindrical microvascular cords develop an inevitable sub-therapeutic pharmacological sanctuary shell ($\Delta r = 34.11\,\mu\text{m}$, representing $31.3\%$ of the viable cord volume) between the critical drug penetrance threshold $r_{\text{crit}} = 165.89\,\mu\text{m}$ and the oxygen diffusion/hypoxia boundary $r_{\text{ox}} = 200.0\,\mu\text{m}$. Inward avascular tumor nests maintain high drug penetrance (>90%), proving small-molecule shelters are architecture-specific.
 > 2. **Universal Regrowth Kinetics & Lead-Time Identity:** Mathematically proves that the observed ctDNA molecular recurrence lead time ($\Delta t = T_s \log_2(100) = 5.46\,\text{months}$ for an average tumor doubling time $T_s = 25\,\text{days}$) is an exact kinetic identity governing exponential volume expansion from $10^7$ residual dormant cells to the clinical detection limit of $10^9$ cells ($\approx 1\,\text{cm}^3$). This resolves the sudden post-ADAURA 3-year recurrence surge without requiring de novo genetic mutations.
@@ -48,6 +49,7 @@ Translational oncology and computational biophysics program investigating **non-
 >
 > <div align="center">
 >
+> [![Read Full Manuscript PDF](https://img.shields.io/badge/%F0%9F%93%84%20Read%20Full%20Manuscript-PDF%20(Nature%20Communications)-dc2626.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)
 > [![Live 60 FPS Digital Twin](https://img.shields.io/badge/%F0%9F%AB%B8%2060%20FPS%20Simulator-Capillary%20Vessel%20Cord%20Digital%20Twin-be123c.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/#simulator)
 > [![Bedside CRI Portal](https://img.shields.io/badge/%F0%9F%A9%BA%20Bedside%20CRI%20Portal-Live%20Clinical%20CDSS-2ea44f.svg?style=for-the-badge)](https://lukecele.github.io/spatial-continuum-oncology/#cri)
 > [![Springer Nature Preprint](https://img.shields.io/badge/Research%20Square-10.21203%2Frs.3.rs--11530312%2Fv1-007acc.svg?style=for-the-badge&logo=springer&logoColor=white)](https://doi.org/10.21203/rs.3.rs-11530312/v1)
