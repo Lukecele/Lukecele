@@ -55,7 +55,7 @@ Translational oncology and computational biophysics program investigating **non-
 > <br/>
 >
 > <a href="https://lukecele.github.io/spatial-continuum-oncology/#simulator">
->   <img src="assets/simulator-vessel-preview.png" alt="In Silico Tumor Sanctuary Digital Twin — Real-time 60 FPS Microvascular Vessel Simulation" width="100%" style="max-width: 960px; border-radius: 8px; border: 1px solid #1e293b;" />
+>   <img src="assets/simulator-vessel-live.gif" alt="In Silico Tumor Sanctuary Digital Twin — Real-time 60 FPS Microvascular Vessel Simulation" width="100%" style="max-width: 960px; border-radius: 8px; border: 1px solid #1e293b;" />
 > </a>
 >
 > </div>
