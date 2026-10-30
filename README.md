@@ -16,6 +16,7 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 [![Master Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.23748047-blue?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23754999)
 [![Bioconda Suite](https://img.shields.io/badge/Bioconda-3%20Packages%20Live%20(Merged)-3EB049?style=flat-square&logo=anaconda&logoColor=white)](https://anaconda.org/bioconda/spatial-continuum)
 [![PyPI Release](https://img.shields.io/pypi/v/spatial-continuum?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/spatial-continuum/)
+[![bio.tools Registry](https://img.shields.io/badge/bio.tools-spatial--continuum--oncology-003366?style=flat-square&logo=elixir&logoColor=white)](https://bio.tools/spatial-continuum-oncology)
 [![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
 [![Substack Live](https://img.shields.io/badge/Substack-Scientific%20Monograph-FF6719?style=flat-square&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
 [![Full Manuscript PDF](https://img.shields.io/badge/%F0%9F%93%84%20Full%20Manuscript-PDF%20Download-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)
