@@ -13,17 +13,15 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 <br/>
 
 [![Research Square DOI](https://img.shields.io/badge/Research%20Square-10.21203%2Frs.3.rs--11530312%2Fv1-007acc?style=flat-square&logo=springer&logoColor=white)](https://doi.org/10.21203/rs.3.rs-11530312/v1)
-[![Crossref Indexed](https://img.shields.io/badge/Crossref-Springer%20Nature%20Indexed-10b981?style=flat-square)](https://api.crossref.org/works/10.21203/rs.3.rs-11530312/v1)
 [![Master Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.23748047-blue?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23748047)
 [![Bioconda Suite](https://img.shields.io/badge/Bioconda-3%20Packages%20Live%20(Merged)-3EB049?style=flat-square&logo=anaconda&logoColor=white)](https://anaconda.org/bioconda/spatial-continuum)
 [![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
-[![AACR 2027](https://img.shields.io/badge/AACR%202027-Abstract%20Submission-c8102e?style=flat-square&logo=academia&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology)
+[![Substack Live](https://img.shields.io/badge/Substack-Scientific%20Monograph-FF6719?style=flat-square&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
 
 [![Awesome AI4DigitalPathology](https://img.shields.io/badge/Awesome-AI4DigitalPathology%20(Merged)-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/lingxitong/Awesome-AI4DigitalPathology#computational-pathology-with-multi-omics)
 [![Awesome Single-Cell](https://img.shields.io/badge/Awesome-Single--Cell%20(Merged)-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/seandavi/awesome-single-cell#spatial-transcriptomics)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Simulator%20Live-ffd21e?style=flat-square)](https://huggingface.co/spaces/Lucace/spatial-oncology-simulator)
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MSKCC%20Cohort%20(34%2B%20DLs)-blue?style=flat-square)](https://huggingface.co/datasets/Lucace/mskcc-lung-adenocarcinoma-spatial-cohort)
-[![Substack Live](https://img.shields.io/badge/Substack-Scientific%20Monograph-FF6719?style=flat-square&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
 
 ---
 
