@@ -15,6 +15,7 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 [![Research Square DOI](https://img.shields.io/badge/Research%20Square-10.21203%2Frs.3.rs--11530312%2Fv1-007acc?style=flat-square&logo=springer&logoColor=white)](https://doi.org/10.21203/rs.3.rs-11530312/v1)
 [![Master Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.23748047-blue?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23754999)
 [![Bioconda Suite](https://img.shields.io/badge/Bioconda-3%20Packages%20Live%20(Merged)-3EB049?style=flat-square&logo=anaconda&logoColor=white)](https://anaconda.org/bioconda/spatial-continuum)
+[![BioContainers](https://img.shields.io/badge/BioContainers-Docker%20%7C%20Singularity-brightgreen?style=flat-square&logo=docker&logoColor=white)](https://quay.io/repository/biocontainers/spatial-continuum)
 [![PyPI Release](https://img.shields.io/pypi/v/spatial-continuum?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/spatial-continuum/)
 [![bio.tools Registry](https://img.shields.io/badge/bio.tools-spatial--continuum--oncology-003366?style=flat-square&logo=elixir&logoColor=white)](https://bio.tools/spatial-continuum-oncology)
 [![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
@@ -88,10 +89,16 @@ Our computational engines and Nextflow pipelines are indexed into leading offici
 # 1. Install the Grand Unified Spatial Continuum Framework (Flagship)
 conda install -c bioconda spatial-continuum
 
-# 2. Install the In Situ Evolutionary Game Assay Engine
+# 2. Or run via BioContainers Docker (Cloud / Local)
+docker run --rm quay.io/biocontainers/spatial-continuum:1.0.2--pyhdfd78af_0 cri-calc --help
+
+# 3. Or run via BioContainers Singularity (HPC / Hospital Clusters without root)
+singularity exec https://depot.galaxyproject.org/singularity/spatial-continuum:1.0.2--pyhdfd78af_0 cri-calc --help
+
+# 4. Install the In Situ Evolutionary Game Assay Engine
 conda install -c bioconda insitugame
 
-# 3. Install the Reaction-Diffusion Biophysical Sanctuary Solver
+# 5. Install the Reaction-Diffusion Biophysical Sanctuary Solver
 conda install -c bioconda spatial-sanctuary
 ```
 
@@ -101,6 +108,7 @@ flowchart TD
     A --> C["nf-core / Nextflow DSL2 Modules"]
     A --> D["Curated Academic Hubs"]
     A --> E["Hugging Face Ecosystem"]
+    A --> F["Official BioContainers"]
     
     B --> B1["spatial-continuum v1.0.2 (Merged & Live)"]
     B --> B2["insitugame v1.0.7 (Merged & Live)"]
@@ -115,13 +123,15 @@ flowchart TD
     E --> E1["Interactive 60 FPS Digital Twin Simulator Space"]
     E --> E2["MSKCC Spatial Cohort Dataset Repository"]
 
+    F --> F1["Docker (Quay.io) & Singularity (.sif)"]
+
     classDef merged fill:#2ea44f,stroke:#22863a,color:#ffffff;
     classDef flagship fill:#0366d6,stroke:#005cc5,color:#ffffff;
     classDef platform fill:#6f42c1,stroke:#5a32a3,color:#ffffff;
 
     class A flagship;
-    class B1,B2,B3,D1,D2 merged;
-    class C1,C2,E1,E2 platform;
+    class B1,B2,B3,D1,D2,F1 merged;
+    class C1,C2,E1,E2,F platform;
 ```
 
 ---
@@ -147,6 +157,7 @@ A verified record of peer-reviewed and merged contributions across bioinformatic
 | Registry / Ecosystem | Pull Request & Contribution Scope | Verification Status |
 | :--- | :--- | :---: |
 | **Bioconda Recipes** | Official conda packaging: `spatial-continuum` v1.0.2 ([#70930](https://github.com/bioconda/bioconda-recipes/pull/70930)) | **Merged & Live** |
+| **BioContainers** | Pre-built Docker (`quay.io`) & Singularity (`.sif`) images for `spatial-continuum` | **Live & Verified** |
 | **Bioconda Recipes** | Official conda packaging: `insitugame` v1.0.7 ([#70893](https://github.com/bioconda/bioconda-recipes/pull/70893)) | **Merged & Live** |
 | **Bioconda Recipes** | Official conda packaging: `spatial-sanctuary` v2.2.2 ([#70840](https://github.com/bioconda/bioconda-recipes/pull/70840)) | **Merged & Live** |
 | **nf-core / modules** | Nextflow DSL2 module: `spatialcontinuum` with Seqera Wave container ([#13487](https://github.com/nf-core/modules/pull/13487)) | **100% CI Green** |
