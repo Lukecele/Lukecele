@@ -63,23 +63,15 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 
 Translational oncology and computational biophysics program investigating **non-genetic targeted therapy resistance, reaction-diffusion drug transport, and low-cost diagnostic AI** in *EGFR*-mutant non-small cell lung cancer (NSCLC). Affiliated with the Department of Clinical Medicine and Surgery, School of Medicine and Surgery, **Università degli Studi di Napoli Federico II**, Naples, Italy.
 
----
-
-### 👑 Flagship Investigation: The Spatial-Genomic Oncology Continuum
-
-> **A Biophysical Reaction-Diffusion Theory of Pharmacological Sanctuaries, the Post-ADAURA Cessation Dilemma, and the Bedside Composite Resistance Index (CRI)**  
+### 👑 Flagship Manuscript & Dissemination Dossiers
+> **Conditions for Pharmacological Sanctuaries in Perivascular Tumour Cords: A Reaction–Diffusion Analysis, a Regrowth-Kinetics Identity, and a Descriptive Survival Analysis of Histologic Subtype in Resected Lung Adenocarcinoma**  
 > *Target Journal: Nature Communications (Under Consideration, Tracking NCOMMS-26-091227)*  
 > *Preprint DOI: [10.21203/rs.3.rs-11530312/v1](https://doi.org/10.21203/rs.3.rs-11530312/v1)* | *Zenodo Master Archive: [10.5281/zenodo.23754999](https://doi.org/10.5281/zenodo.23754999)*
 
-#### 🚀 Primary Entry Points & Interactive Dissemination:
-
-| Resource | Scope & Target Audience | Direct Access |
-| :--- | :--- | :---: |
-| 📊 **Keynote Master Slide Deck** | 12 high-density interactive slides for medical directors, chief oncologists & scientific congresses. | [👉 Open Slide Deck](https://lukecele.github.io/spatial-continuum-oncology/slides.html) |
-| 🖼 **Official Congress Poster** | Full-scale architectural poster (120×90 cm, 300 DPI vector) with 4 key results and QR integration. | [👉 View Congress Poster](https://lukecele.github.io/spatial-continuum-oncology/poster.html) |
-| 🧠 **Plain-Language Research Digest** | Curated lay summary by Dr. Luc Hendriks, PhD (Gist.Science) with seamless IT/EN toggle. | [👉 Read Digest](https://lukecele.github.io/spatial-continuum-oncology/#gist) |
-| 🌐 **Grand Unified Research Portal** | Comprehensive 6-module interactive web portal (Bedside CRI, Visium HD, Digital Twin, Game Assay, MSKCC). | [👉 Explore Portal](https://lukecele.github.io/spatial-continuum-oncology/) |
-| 📄 **Full Manuscript PDF** | Complete 116 KB camera-ready preprint with mathematical proofs and clinical survival statistics. | [👉 Download PDF](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf) |
+* **Oral Keynote Master Slide Deck (12 Slides):** [👉 Open Presentation](https://lukecele.github.io/spatial-continuum-oncology/slides.html)
+* **Official Congress Poster (120×90 cm Vector):** [👉 View Poster](https://lukecele.github.io/spatial-continuum-oncology/poster.html)
+* **Author-Reviewed Lay Summary (Gist.Science):** [👉 Read Plain-Language Digest](https://lukecele.github.io/spatial-continuum-oncology/#gist)
+* **Full Camera-Ready Manuscript PDF:** [👉 Download PDF](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)
 
 ---
 
@@ -94,7 +86,8 @@ Official clinical AI and computational biology laboratory of Università degli S
 ├────────────────────────────────┬───────────────────────────────────────┤
 │ 🩺 Bedside CRI Decision Engine │ Official bedside clinical risk web app│
 │    (Interactive Space)         │ https://huggingface.co/spaces/        │
-│                                │ spatial-continuum-lab/clinical-app    │
+│                                │ spatial-continuum-lab/                │
+│                                │ spatial-continuum-clinical-app        │
 ├────────────────────────────────┼───────────────────────────────────────┤
 │ 🧬 Biophysical Digital Twin    │ 60 FPS perivascular reaction-diffusion│
 │    (Simulator Space)           │ https://huggingface.co/spaces/        │
@@ -102,11 +95,8 @@ Official clinical AI and computational biology laboratory of Università degli S
 ├────────────────────────────────┼───────────────────────────────────────┤
 │ 📊 MSKCC LUAD Spatial Cohort   │ Curated multicenter cohort (N=1,274)  │
 │    (Public Dataset)            │ https://huggingface.co/datasets/      │
-│                                │ spatial-continuum-lab/mskcc-cohort    │
-├────────────────────────────────┼───────────────────────────────────────┤
-│ ⭐ Curated Collection          │ Executive unified academic showcase   │
-│    (Research Suite)            │ https://huggingface.co/collections/   │
-│                                │ Lucace/spatial-continuum-oncology...  │
+│                                │ spatial-continuum-lab/                │
+│                                │ mskcc-lung-adenocarcinoma-spatial-... │
 └────────────────────────────────┴───────────────────────────────────────┘
 ```
 
