@@ -12,22 +12,30 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 
 <br/>
 
+<!-- Fast 1-Click Action Badges -->
+<p align="center">
+  <a href="https://colab.research.google.com/github/Lukecele/spatial-continuum-oncology/blob/main/demo_spatial_continuum.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" height="26" alt="Open Flagship in Colab">
+  </a>
+  <a href="https://lukecele.github.io/spatial-continuum-oncology/simulator.html">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%2060%20FPS%20Simulator-Live%20Digital%20Twin-0284c7?style=for-the-badge" height="26" alt="60 FPS Simulator">
+  </a>
+  <a href="https://cardio-thoracic-medterminal.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%A9%BA%20MedTerminal%203D-WebGL%20Hospital-10b981?style=for-the-badge" height="26" alt="MedTerminal 3D">
+  </a>
+  <a href="https://anaconda.org/bioconda/spatial-continuum">
+    <img src="https://img.shields.io/badge/Bioconda-spatial--continuum-brightgreen?style=for-the-badge&logo=anaconda" height="26" alt="Bioconda">
+  </a>
+  <a href="https://huggingface.co/spatial-continuum-lab">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spatial--continuum--lab-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" height="26" alt="Hugging Face">
+  </a>
+</p>
+
 <!-- Academic & Preprint Badges -->
+[![Target: Nature Communications](https://img.shields.io/badge/Target-Nature%20Communications-darkred?style=flat-square)](https://www.nature.com/ncomms/)
 [![Research Square DOI](https://img.shields.io/badge/Research%20Square-10.21203%2Frs.3.rs--11530312%2Fv1-007acc?style=flat-square&logo=springer&logoColor=white)](https://doi.org/10.21203/rs.3.rs-11530312/v1)
 [![Master Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.23754999-blue?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23754999)
-[![Full Manuscript PDF](https://img.shields.io/badge/%F0%9F%93%84%20Full%20Manuscript-PDF%20Download-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)
-[![Gist.Science Digest](https://img.shields.io/badge/Gist.Science-Plain--Language%20Digest-8b5cf6?style=flat-square)](https://lukecele.github.io/spatial-continuum-oncology/#gist)
-[![Substack Live](https://img.shields.io/badge/Substack-Scientific%20Monograph-FF6719?style=flat-square&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
-
-<!-- Interactive Suite Badges -->
-[![Grand Unified Portal](https://img.shields.io/badge/%F0%9F%8C%90%20Grand%20Unified%20Portal-Research%20Suite-0284c7?style=flat-square&logo=safari&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/)
-[![Master Slide Deck](https://img.shields.io/badge/%F0%9F%93%8A%20Master%20Slides-12%20Keynote%20Deck-2563eb?style=flat-square)](https://lukecele.github.io/spatial-continuum-oncology/slides.html)
-[![Congress Poster](https://img.shields.io/badge/%F0%9F%96%BC%20Congress%20Poster-120%C3%9790%20cm%20Vector-db2777?style=flat-square)](https://lukecele.github.io/spatial-continuum-oncology/poster.html)
-[![Hugging Face Lab](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spatial--continuum--lab-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spatial-continuum-lab)
-
-<!-- Bioinformatics Package Badges -->
-[![Bioconda Suite](https://img.shields.io/badge/Bioconda-3%20Packages%20Live%20(Merged)-3EB049?style=flat-square&logo=anaconda&logoColor=white)](https://anaconda.org/bioconda/spatial-continuum)
-[![BioContainers](https://img.shields.io/badge/BioContainers-Docker%20%7C%20Singularity-brightgreen?style=flat-square&logo=docker&logoColor=white)](https://quay.io/repository/biocontainers/spatial-continuum)
+[![Full Manuscript PDF](https://img.shields.io/badge/%F0%9F%93%84%20Manuscript-PDF%20Download-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)
 [![PyPI Release](https://img.shields.io/pypi/v/spatial-continuum?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/spatial-continuum/)
 [![bio.tools Registry](https://img.shields.io/badge/bio.tools-spatial--continuum--oncology-003366?style=flat-square&logo=elixir&logoColor=white)](https://bio.tools/spatial-continuum-oncology)
 [![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
@@ -35,6 +43,21 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 ---
 
 </div>
+
+## ⚡ Featured Flagship Systems (Try in 1-Click)
+
+<div align="center">
+
+| Project | What It Solves & Why It Matters | 1-Click Access & Code |
+| :--- | :--- | :---: |
+| 👑 **[Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)** | **Why do 68% of lung cancers relapse post-ADAURA?**<br/>Biophysical reaction-diffusion solver resolving why drug-sensitive persister cells survive in a 34.1 $\mu$m unperfused sanctuary cuff ($K_0$ Bessel decay). | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lukecele/spatial-continuum-oncology/blob/main/demo_spatial_continuum.ipynb)<br/>[🎮 60 FPS Simulator](https://lukecele.github.io/spatial-continuum-oncology/simulator.html) · [🏥 Web App](https://lukecele.github.io/spatial-continuum-oncology/)<br/>`conda install -c bioconda spatial-continuum` |
+| 🩺 **[MedTerminal 3D](https://github.com/Lukecele/cardio-thoracic-medterminal)** | **Interactive 3D WebGL Virtual Hospital**<br/>Real-time Three.js cardiac and thoracic anatomy, live simulated ECG telemetry monitors (STEMI, blocks), and remastered clinical auscultation audio. | [▶ Launch 3D Hospital ↗](https://cardio-thoracic-medterminal.vercel.app)<br/>`React 19` · `TypeScript` · `Three.js` |
+| 👁️ **[InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4)** | **Ultra-Low-Cost (< €5) Diagnostic AI**<br/>Deep learning Attention-MIL neural network predicting microvascular decoupling and relapse risk directly from routine H&E whole-slide images. | [🌐 Live Vision Portal](https://lukecele.github.io/spatial-he-vision-study4/)<br/>[![Awesome AI4Path](https://img.shields.io/badge/Awesome-AI4Path-10b981?style=flat-square)](https://github.com/lingxitong/Awesome-AI4DigitalPathology)<br/>`PyTorch Attention-MIL` |
+| 🎮 **[InSituGame](https://github.com/Lukecele/spatial-game-assay)** | **In Situ Evolutionary Game Theory in Cancer**<br/>Inferring subclonal payoff matrices ($A$) and stable Nash attractors across 20,000 spatial transcriptomic spots to guide adaptive therapy. | [📦 Bioconda: insitugame](https://anaconda.org/bioconda/insitugame)<br/>[nf-core Module #13471](https://github.com/nf-core/modules/pull/13471)<br/>`Replicator Dynamics ODE` |
+
+</div>
+
+---
 
 ## 🔬 Scientific Research: Computational Oncology Program
 
