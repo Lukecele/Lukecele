@@ -158,6 +158,8 @@ A verified record of peer-reviewed and merged contributions across bioinformatic
 | :--- | :--- | :---: |
 | **Bioconda Recipes** | Official conda packaging: `spatial-continuum` v1.0.2 ([#70930](https://github.com/bioconda/bioconda-recipes/pull/70930)) | **Merged & Live** |
 | **BioContainers** | Pre-built Docker (`quay.io`) & Singularity (`.sif`) images for `spatial-continuum` | **Live & Verified** |
+| **Galaxy Project / IUC** | Official Galaxy tool wrapper for `spatial-continuum` (`cri_calc`) ([#8838](https://github.com/galaxyproject/tools-iuc/pull/8838)) | **PR Open (Under Review)** |
+| **Snakemake Wrappers** | Official Snakemake pipeline wrapper for `spatial-continuum` (`cri-calc`) ([#6233](https://github.com/snakemake/snakemake-wrappers/pull/6233)) | **PR Open (Under Review)** |
 | **Bioconda Recipes** | Official conda packaging: `insitugame` v1.0.7 ([#70893](https://github.com/bioconda/bioconda-recipes/pull/70893)) | **Merged & Live** |
 | **Bioconda Recipes** | Official conda packaging: `spatial-sanctuary` v2.2.2 ([#70840](https://github.com/bioconda/bioconda-recipes/pull/70840)) | **Merged & Live** |
 | **nf-core / modules** | Nextflow DSL2 module: `spatialcontinuum` with Seqera Wave container ([#13487](https://github.com/nf-core/modules/pull/13487)) | **100% CI Green** |
