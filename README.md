@@ -17,13 +17,16 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
   <a href="https://colab.research.google.com/github/Lukecele/spatial-continuum-oncology/blob/main/demo_spatial_continuum.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" height="26" alt="Open Flagship in Colab">
   </a>
-  <a href="https://lukecele.github.io/spatial-continuum-oncology/simulator.html">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%2060%20FPS%20Simulator-Live%20Digital%20Twin-0284c7?style=for-the-badge" height="26" alt="60 FPS Simulator">
+  <a href="https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d">
+    <img src="https://img.shields.io/badge/%F0%9F%A7%AC%203D%20Digital%20Twin-Hugging%20Face%20Space-6366f1?style=for-the-badge" height="26" alt="3D Digital Twin">
+  </a>
+  <a href="https://lukecele.github.io/spatial-continuum-oncology/">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%A5%20Clinical%20Portal-Bedside%20CRI-0284c7?style=for-the-badge" height="26" alt="Clinical Decision Portal">
   </a>
   <a href="https://cardio-thoracic-medterminal.vercel.app">
     <img src="https://img.shields.io/badge/%F0%9F%A9%BA%20MedTerminal-Cardio--Toracico%20Prep-10b981?style=for-the-badge" height="26" alt="MedTerminal Cardio-Toracico">
   </a>
-  <a href="https://github.com/bioconda/bioconda-recipes/pull/70930">
+  <a href="https://anaconda.org/bioconda/spatial-continuum">
     <img src="https://img.shields.io/badge/Bioconda-spatial--continuum-brightgreen?style=for-the-badge&logo=anaconda" height="26" alt="Bioconda">
   </a>
   <a href="https://huggingface.co/spatial-continuum-lab">
@@ -84,14 +87,15 @@ Official clinical AI and computational biology laboratory of Università degli S
 ┌────────────────────────────────────────────────────────────────────────┐
 │               🤗 spatial-continuum-lab (Federico II)                   │
 ├────────────────────────────────┬───────────────────────────────────────┤
-│ 🩺 Bedside CRI Decision Engine │ Official bedside clinical risk web app│
-│    (Interactive Space)         │ https://huggingface.co/spaces/        │
+│ 🧊 3D Sanctuary Digital Twin   │ Real-time 3D WebGL perivascular model │
+│    (Interactive 3D Space)      │ https://huggingface.co/spaces/        │
 │                                │ spatial-continuum-lab/                │
-│                                │ spatial-continuum-clinical-app        │
+│                                │ tumor-cord-sanctuary-3d               │
 ├────────────────────────────────┼───────────────────────────────────────┤
-│ 🧬 Biophysical Digital Twin    │ 60 FPS perivascular reaction-diffusion│
+│ 🩺 Spatial Oncology Simulator  │ 60 FPS reaction-diffusion simulator   │
 │    (Simulator Space)           │ https://huggingface.co/spaces/        │
-│                                │ spatial-continuum-lab/simulator       │
+│                                │ spatial-continuum-lab/                │
+│                                │ spatial-oncology-simulator            │
 ├────────────────────────────────┼───────────────────────────────────────┤
 │ 📊 MSKCC LUAD Spatial Cohort   │ Curated multicenter cohort (N=1,274)  │
 │    (Public Dataset)            │ https://huggingface.co/datasets/      │
