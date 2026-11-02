@@ -6,7 +6,7 @@
 
 **Medical Student / MD Candidate** at [Università degli Studi di Napoli Federico II](https://www.unina.it/)  
 Department of Clinical Medicine and Surgery · School of Medicine and Surgery · Naples, Italy  
-[ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)
+[ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [X (@LukeCele)](https://x.com/LukeCele) · [l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)
 
 **Computational Oncology · Biophysical Reaction-Diffusion Modeling · Spatial Multi-Omics · Digital Pathology AI**
 
