@@ -21,13 +21,15 @@ I am a medical student and bioinformatics thesis student working at the intersec
 
 I build small, auditable tools that can be inspected, tested and reused: Python CLIs, spatial-omics assays, Nextflow modules, package recipes, interactive research portals and educational clinical software.
 
-## Current research
+**Current focus — November 2026:** bioinformatics thesis work at TIGEM, computational oncology research, reproducible spatial-omics software and open-source scientific infrastructure.
+
+## Research & publications
 
 ### Main manuscript — *Scientific Reports*
 
 **The Spatial-Genomic Oncology Continuum: A Biophysical Reaction-Diffusion Theory of Pharmacological Sanctuaries, the Post-ADAURA Cessation Dilemma, and the SG-ADAURA Clinical Trial Protocol**
 
-Current status: **under consideration · editor assigned · peer review in progress**.
+Current status: **under consideration · editor assigned**.
 
 - [Spatial Continuum Oncology repository](https://github.com/Lukecele/spatial-continuum-oncology)
 - [Research Square preprint DOI](https://doi.org/10.21203/rs.3.rs-11530312/v1)
@@ -44,6 +46,10 @@ This companion translational work is already **posted and citable** as a preprin
 - [Final translational repository](https://github.com/Lukecele/spatial-continuum-translational)
 - [Research Square DOI: 10.21203/rs.3.rs-11633521/v1](https://doi.org/10.21203/rs.3.rs-11633521/v1)
 - [Zenodo version DOI: 10.5281/zenodo.23963563](https://doi.org/10.5281/zenodo.23963563)
+
+## Methods & stack
+
+`Python` · `NumPy` · `SciPy` · `pandas` · `scikit-learn` · `PyTorch` · `Nextflow DSL2` · `nf-core` · `Conda/Bioconda` · `Docker/Singularity` · `TypeScript` · `React` · `Three.js`
 
 ## Selected research systems
 
@@ -71,6 +77,7 @@ conda install -c bioconda spatial-sanctuary
 - [bio.tools registry](https://bio.tools/spatial-continuum-oncology)
 - [Bioconda: spatial-continuum](https://anaconda.org/bioconda/spatial-continuum)
 - [Bioconda: insitugame](https://anaconda.org/bioconda/insitugame)
+- [Bioconda: spatial-sanctuary](https://anaconda.org/bioconda/spatial-sanctuary)
 - [Hugging Face research organization](https://huggingface.co/spatial-continuum-lab)
 
 ## Clinical education
