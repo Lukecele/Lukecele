@@ -43,7 +43,7 @@ Department of Clinical Medicine and Surgery · School of Medicine and Surgery ·
 [![Full Manuscript PDF](https://img.shields.io/badge/%F0%9F%93%84%20Manuscript-PDF%20Download-dc2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf)
 [![PyPI Release](https://img.shields.io/pypi/v/spatial-continuum?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/spatial-continuum/)
 [![bio.tools Registry](https://img.shields.io/badge/bio.tools-spatial--continuum--oncology-003366?style=flat-square&logo=elixir&logoColor=white)](https://bio.tools/spatial-continuum-oncology)
-[![nf-core Modules](https://img.shields.io/badge/nf--core-DSL2%20Modules%20(100%25%20CI%20Green)-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13487)
+[![nf-core Merged Modules](https://img.shields.io/badge/nf--core-Merged%20Modules-24B064?style=flat-square&logo=nextflow&logoColor=white)](https://github.com/nf-core/modules/pull/13080)
 
 ---
 
