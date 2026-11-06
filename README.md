@@ -12,6 +12,7 @@ Computational oncology · Spatial multi-omics · Biophysical reaction-diffusion 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Celebrano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-celebrano/)
 [![Research Square](https://img.shields.io/badge/Research%20Square-Preprints-007acc?style=flat-square&logo=springer&logoColor=white)](https://www.researchsquare.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-spatial--continuum--lab-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spatial-continuum-lab)
+[![Caverna di Luca](https://img.shields.io/badge/Caverna%20di%20Luca-portfolio-60d9c5?style=flat-square)](https://lukecele-research.vercel.app/)
 
 </div>
 
@@ -22,6 +23,8 @@ I am a medical student and bioinformatics thesis student working at the intersec
 I build small, auditable tools that can be inspected, tested and reused: Python CLIs, spatial-omics assays, Nextflow modules, package recipes, interactive research portals and educational clinical software.
 
 **Current focus — November 2026:** bioinformatics thesis work at TIGEM, computational oncology research, reproducible spatial-omics software and open-source scientific infrastructure.
+
+🏰 **Personal research hub:** [Caverna di Luca](https://lukecele-research.vercel.app/) — portfolio, live demos and selected frames.
 
 ## Research & publications
 
@@ -51,17 +54,25 @@ This companion translational work is already **posted and citable** as a preprin
 
 `Python` · `NumPy` · `SciPy` · `pandas` · `scikit-learn` · `PyTorch` · `Nextflow DSL2` · `nf-core` · `Conda/Bioconda` · `Docker/Singularity` · `TypeScript` · `React` · `Three.js`
 
-## Selected research systems
+## Featured repositories
+
+These are the three projects that best represent my current research and software work:
+
+1. 👑 [**Spatial Continuum Oncology**](https://github.com/Lukecele/spatial-continuum-oncology) — reaction-diffusion transport, perivascular pharmacological sanctuaries, bedside CRI and the 3D digital twin.  
+   [Live portal](https://lukecele.github.io/spatial-continuum-oncology/) · [60 FPS simulator](https://lukecele.github.io/spatial-continuum-oncology/simulator.html) · [Hugging Face 3D Space](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d)
+2. 🧬 [**Spatial Continuum Translational**](https://github.com/Lukecele/spatial-continuum-translational) — evidence-linked translational extensions, study protocol and research-only audit tools.  
+   [Research Square DOI](https://doi.org/10.21203/rs.3.rs-11633521/v1) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23963563)
+3. 🎲 [**InSituGame**](https://github.com/Lukecele/spatial-game-assay) — spatial evolutionary-game assay for subclonal payoff matrices and adaptive-therapy regimes.  
+   [Bioconda](https://github.com/bioconda/bioconda-recipes/pull/70893) · [Live assay portal](https://lukecele.github.io/spatial-game-assay/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23585216)
+
+## Further research systems
 
 | Project | Focus | Access |
 | :--- | :--- | :--- |
-| 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology) | Reaction-diffusion transport, modified Bessel $K_0$, persister sanctuaries and bedside CRI. | [Colab](https://colab.research.google.com/github/Lukecele/spatial-continuum-oncology/blob/main/demo_spatial_continuum.ipynb) · [Portal](https://lukecele.github.io/spatial-continuum-oncology/) · [Simulator](https://lukecele.github.io/spatial-continuum-oncology/simulator.html) |
-| 🧬 [Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational) | Evidence-linked translational extensions, study protocol, GIST phenotype score and research-only CRI audit package. | [Zenodo](https://doi.org/10.5281/zenodo.23963563) · [Research Square](https://doi.org/10.21203/rs.3.rs-11633521/v1) |
 | 📐 [Spatial Oncology Master](https://github.com/Lukecele/spatial-oncology-master) | Cylindrical Bessel $K_0$ solver, pharmacological sanctuary modeling and MSKCC validation ($N=604$). | [Portal](https://lukecele.github.io/spatial-oncology-master/) · [GHCR](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master) |
 | 👁️ [InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4) | Low-cost Attention-MIL pathology AI for spatial vascular decoupling and relapse-risk research. | [Live portal](https://lukecele.github.io/spatial-he-vision-study4/) |
 | 📊 [Massive Validation Study](https://github.com/Lukecele/spatial-massive-validation-study3) | Multi-cohort survival validation across 854 lung adenocarcinoma cases. | [Evidence module](https://lukecele.github.io/spatial-continuum-oncology/#evidence) |
 | 🧭 [Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib) | 10x Visium HD analysis of subcellular transport limits in EGFR-mutant NSCLC. | [Visium module](https://lukecele.github.io/spatial-continuum-oncology/#visium) |
-| 🎲 [InSituGame](https://github.com/Lukecele/spatial-game-assay) | Spatial evolutionary-game assay for subclonal payoff matrices and adaptive-therapy regimes. | [Bioconda](https://github.com/bioconda/bioconda-recipes/pull/70893) · [Assay portal](https://lukecele.github.io/spatial-continuum-oncology/#insitugame) |
 
 ## Reproducible software
 
