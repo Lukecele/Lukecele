@@ -157,20 +157,11 @@ A verified record of peer-reviewed and merged contributions across bioinformatic
 
 | Ecosystem / Registry | Pull Request & Contribution Scope | Verification Status |
 | :--- | :--- | :---: |
-| **Bioconda Recipes** | Official conda packaging: `spatial-continuum` v1.0.2 ([#70930](https://github.com/bioconda/bioconda-recipes/pull/70930)) | [**Merged & Live**](https://github.com/bioconda/bioconda-recipes/pull/70930) |
+| **Bioconda Recipes** | Official conda packaging for `spatial-continuum` v1.0.2 ([#70930](https://github.com/bioconda/bioconda-recipes/pull/70930)), `insitugame` v1.0.7 ([#70893](https://github.com/bioconda/bioconda-recipes/pull/70893)), and `spatial-sanctuary` v2.2.2 ([#70840](https://github.com/bioconda/bioconda-recipes/pull/70840)) | [**Merged & Live**](https://github.com/bioconda/bioconda-recipes/pull/70930) |
 | **BioContainers** | Pre-built Docker (`quay.io`) & Singularity (`.sif`) images for `spatial-continuum` | [**Live & Verified**](https://quay.io/repository/biocontainers/spatial-continuum?tab=tags) |
-| **Galaxy Project / IUC** | Official Galaxy tool wrapper for `spatial-continuum` (`cri_calc`) ([#8838](https://github.com/galaxyproject/tools-iuc/pull/8838)) | [**PR Open (Under Review)**](https://github.com/galaxyproject/tools-iuc/pull/8838) |
-| **Snakemake Wrappers** | Official Snakemake pipeline wrapper for `spatial-continuum` (`cri-calc`) ([#6233](https://github.com/snakemake/snakemake-wrappers/pull/6233)) | [**PR Open (Under Review)**](https://github.com/snakemake/snakemake-wrappers/pull/6233) |
-| **Bioconda Recipes** | Official conda packaging: `insitugame` v1.0.7 ([#70893](https://github.com/bioconda/bioconda-recipes/pull/70893)) | [**Merged & Live**](https://github.com/bioconda/bioconda-recipes/pull/70893) |
-| **Bioconda Recipes** | Official conda packaging: `spatial-sanctuary` v2.2.2 ([#70840](https://github.com/bioconda/bioconda-recipes/pull/70840)) | [**Merged & Live**](https://github.com/bioconda/bioconda-recipes/pull/70840) |
-| **nf-core / modules** | Nextflow DSL2 module: `spatialcontinuum` with Seqera Wave container ([#13487](https://github.com/nf-core/modules/pull/13487)) | [**100% CI Green**](https://github.com/nf-core/modules/pull/13487) |
-| **nf-core / modules** | Nextflow DSL2 module: `insitugame` with Seqera Wave container ([#13471](https://github.com/nf-core/modules/pull/13471)) | [**100% CI Green**](https://github.com/nf-core/modules/pull/13471) |
-| **nf-core / modules** | PostprocessGermlineCNVCalls output extension fix ([#13080](https://github.com/nf-core/modules/pull/13080)) | [**Merged**](https://github.com/nf-core/modules/pull/13080) |
-| **nf-core / modules** | ABRA2 BAM index BAI snapshot pattern correction ([#13039](https://github.com/nf-core/modules/pull/13039)) | [**Merged**](https://github.com/nf-core/modules/pull/13039) |
+| **nf-core / modules** | Merged Nextflow DSL2 fixes for PostprocessGermlineCNVCalls ([#13080](https://github.com/nf-core/modules/pull/13080)) and ABRA2 BAM index snapshots ([#13039](https://github.com/nf-core/modules/pull/13039)) | [**Merged**](https://github.com/nf-core/modules/pull/13080) |
 | **Awesome-AI4DigitalPathology** | Digital pathology and spatial multi-omics additions ([#28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28), [#29](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/29)) | [**Merged**](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28) |
 | **awesome-single-cell** | Spatial transcriptomics biophysics and continuum frameworks ([#399](https://github.com/seandavi/awesome-single-cell/pull/399), [#404](https://github.com/seandavi/awesome-single-cell/pull/404)) | [**Both Merged**](https://github.com/seandavi/awesome-single-cell/pull/404) |
-| **awesome-healthcare** | Open-source clinical decision support and computational oncology indexing ([#180](https://github.com/kakoni/awesome-healthcare/pull/180)) | [**Under Review**](https://github.com/kakoni/awesome-healthcare/pull/180) |
-| **Spatial Transcriptomics Tools** | Spatial pharmacokinetics and multi-scale biophysics catalog ([#21](https://github.com/p-gueguen/Spatial_transcriptomics_tools/pull/21)) | [**Under Review**](https://github.com/p-gueguen/Spatial_transcriptomics_tools/pull/21) |
 
 ### 💻 Section B: Core Systems & Developer Infrastructure
 
