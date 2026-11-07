@@ -26,6 +26,8 @@ I build small, auditable tools that can be inspected, tested and reused: Python 
 
 🏰 **Personal research hub:** [Caverna di Luca](https://lukecele-research.vercel.app/) — portfolio, live demos and selected frames.
 
+🧰 **bio.tools records:** [Spatial Continuum Oncology](https://bio.tools/spatial-continuum-oncology) · [Spatial Continuum Translational](https://bio.tools/spatial-continuum-translational) · [InSituGame](https://bio.tools/insitugame) · [Spatial Sanctuary](https://bio.tools/spatial-sanctuary)
+
 ## Research & publications
 
 ### Main manuscript — *Scientific Reports*
