@@ -4,7 +4,8 @@
 **Bioinformatics thesis student** · TIGEM  
 Computational oncology · Spatial multi-omics · Biophysical reaction-diffusion modeling · Digital pathology AI
 
-🔗 [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab) · [Research Square Preprint](https://doi.org/10.21203/rs.3.rs-11633521/v1)
+🔗 [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab)  
+📄 **Research Square Preprints:** [Sanctuary Theory (DOI: 10.21203/rs.3.rs-11530312/v1)](https://doi.org/10.21203/rs.3.rs-11530312/v1) · [Translational Framework (DOI: 10.21203/rs.3.rs-11633521/v1)](https://doi.org/10.21203/rs.3.rs-11633521/v1)
 
 ## About
 
