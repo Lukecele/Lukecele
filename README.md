@@ -122,16 +122,17 @@ Only merged contributions are listed here; open submissions remain tracked in th
 ### Computational biology and open science
 
 - **Bioconda** — [spatial-continuum #70930](https://github.com/bioconda/bioconda-recipes/pull/70930), [insitugame #70893](https://github.com/bioconda/bioconda-recipes/pull/70893), [spatial-sanctuary #70840](https://github.com/bioconda/bioconda-recipes/pull/70840).
-- **nf-core/modules** — [PostprocessGermlineCNVCalls #13080](https://github.com/nf-core/modules/pull/13080) and [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
+- **nf-core/modules** — [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [PostprocessGermlineCNVCalls #13080](https://github.com/nf-core/modules/pull/13080) and [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
 - **Awesome-AI4DigitalPathology** — [#28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28), [#29](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/29).
 - **awesome-single-cell** — [#399](https://github.com/seandavi/awesome-single-cell/pull/399), [#404](https://github.com/seandavi/awesome-single-cell/pull/404).
 
 ### Software and developer infrastructure
 
+- **Developer Portfolios** — [Luca Celebrano #4445](https://github.com/emmabostian/developer-portfolios/pull/4445).
 - **Angular** — [DevTools signal inspection fix #70986](https://github.com/angular/angular/pull/70986).
 - **viem** — [Plasma/Kortana network support #5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136).
 - **Ethereum Lists** — [Sonic RPC additions #8730](https://github.com/ethereum-lists/chains/pull/8730).
-- **DefiLlama** — [fee adapters and BSC telemetry #9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453).
+- **DefiLlama** — [fee adapters and BSC telemetry #9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#10332](https://github.com/DefiLlama/dimension-adapters/pull/10332).
 
 ## Contact and affiliations
 
