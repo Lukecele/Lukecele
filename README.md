@@ -11,9 +11,10 @@
 
 If you arrived here from the **3D Reaction-Diffusion Tumor Cord Reel**:
 
-- ⚡ **[Live 60 FPS Browser Simulator](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)** — real-time numerical solver for perivascular drug gradients.
-- 🤗 **[3D Tumor Sanctuary Space](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d)** — interactive WebGL digital twin on Hugging Face.
-- 🔬 **[Substack Deep Dive](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)** — intuitive mathematical & clinical breakdown of pharmacological sanctuaries.
+- ⭐ **[Spatial Continuum Oncology Repository](https://github.com/Lukecele/spatial-continuum-oncology)** — pure Python RUO biophysical solver, CLI & test suite (open-source code).
+- ⚡ **[Live Browser Simulator (Mobile 60 FPS)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)** — lightweight numerical solver (<100 KB, runs directly in browser).
+- 🤗 **[3D WebGL Digital Twin (Hugging Face)](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d)** — interactive 360° orbit visualization.
+- 🔬 **[Substack Deep Dive](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)** — intuitive mathematical & biophysical breakdown.
 
 ---
 
@@ -24,7 +25,7 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 > 🇬🇧 **[Read English Plain-Language Digest ↗](https://gist.science/paper/rs/rs-11530312)**
 
 **Also translated into 11 languages:**  
-[🇮🇹 Italiano](https://gist.science/it/paper/rs/rs-11530312) · [🇮🇳 हिन्दी (Hindi)](https://gist.science/hi/paper/rs/rs-11530312) · [🇪🇸 Español](https://gist.science/es/paper/rs/rs-11530312) · [🇫🇷 Français](https://gist.science/fr/paper/rs/rs-11530312) · [🇩🇪 Deutsch](https://gist.science/de/paper/rs/rs-11530312) · [🇵🇹 Português](https://gist.science/pt/paper/rs/rs-11530312) · [🇨🇳 中文](https://gist.science/zh/paper/rs/rs-11530312) · [🇯🇵 日本語](https://gist.science/ja/paper/rs/rs-11530312) · [🇰🇷 한국어](https://gist.science/ko/paper/rs/rs-11530312) · [🇸🇦 العربية](https://gist.science/ar/paper/rs/rs-11530312) · [🇳🇱 Nederlands](https://gist.science/nl/paper/rs/rs-11530312)
+[🇮🇳 हिन्दी (Hindi)](https://gist.science/hi/paper/rs/rs-11530312) · [🇮🇹 Italiano](https://gist.science/it/paper/rs/rs-11530312) · [🇪🇸 Español](https://gist.science/es/paper/rs/rs-11530312) · [🇫🇷 Français](https://gist.science/fr/paper/rs/rs-11530312) · [🇩🇪 Deutsch](https://gist.science/de/paper/rs/rs-11530312) · [🇵🇹 Português](https://gist.science/pt/paper/rs/rs-11530312) · [🇨🇳 中文](https://gist.science/zh/paper/rs/rs-11530312) · [🇯🇵 日本語](https://gist.science/ja/paper/rs/rs-11530312) · [🇰🇷 한국어](https://gist.science/ko/paper/rs/rs-11530312) · [🇸🇦 العربية](https://gist.science/ar/paper/rs/rs-11530312) · [🇳🇱 Nederlands](https://gist.science/nl/paper/rs/rs-11530312)
 
 ---
 
