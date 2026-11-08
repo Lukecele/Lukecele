@@ -4,8 +4,17 @@
 **Bioinformatics thesis student** · TIGEM  
 Computational oncology · Spatial multi-omics · Biophysical reaction-diffusion modeling · Digital pathology AI
 
-🔗 [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab)  
+🔗 [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [Substack](https://lucacelebrano.substack.com/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab)  
 📄 **Research Square Preprints:** [Sanctuary Theory (DOI: 10.21203/rs.3.rs-11530312/v1)](https://doi.org/10.21203/rs.3.rs-11530312/v1) · [Translational Framework (DOI: 10.21203/rs.3.rs-11633521/v1)](https://doi.org/10.21203/rs.3.rs-11633521/v1)
+
+## 🎬 3D Biophysical Simulation (From Reel)
+
+If you arrived here from the **3D Reaction-Diffusion Tumor Cord Reel**:
+
+- 🌐 [Interactive 60 FPS Browser Simulator](https://lukecele.github.io/spatial-continuum-oncology/simulator.html) — run the biophysical transport simulation in real-time.
+- 🤗 [Hugging Face 3D Space](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d) — cloud-hosted 3D model.
+- 📦 [Full Source Code (Spatial Continuum Oncology)](https://github.com/Lukecele/spatial-continuum-oncology) — pure Python & WebGL implementation.
+- 📝 [Substack Deep Dive: Why Resected Lung Cancers Relapse](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse) — intuitive mathematical & clinical breakdown.
 
 ## About
 
@@ -62,7 +71,7 @@ These are the three projects that best represent my current research and softwar
 
 | Project | Focus | Access |
 | :--- | :--- | :--- |
-| 📐 [Spatial Oncology Master](https://github.com/Lukecele/spatial-oncology-master) | Cylindrical Bessel $K_0$ solver, pharmacological sanctuary modeling and MSKCC validation ($N=604$). | [Portal](https://lukecele.github.io/spatial-oncology-master/) · [GHCR](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master) |
+| 📐 [Spatial Oncology Master](https://github.com/Lukecele/spatial-oncology-master) | Cylindrical Bessel K₀ solver, pharmacological sanctuary modeling and MSKCC validation (N = 604). | [Portal](https://lukecele.github.io/spatial-oncology-master/) · [GHCR](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master) |
 | 👁️ [InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4) | Low-cost Attention-MIL pathology AI for spatial vascular decoupling and relapse-risk research. | [Live portal](https://lukecele.github.io/spatial-he-vision-study4/) |
 | 📊 [Massive Validation Study](https://github.com/Lukecele/spatial-massive-validation-study3) | Multi-cohort survival validation across 854 lung adenocarcinoma cases. | [Evidence module](https://lukecele.github.io/spatial-continuum-oncology/#evidence) |
 | 🧭 [Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib) | 10x Visium HD analysis of subcellular transport limits in EGFR-mutant NSCLC. | [Visium module](https://lukecele.github.io/spatial-continuum-oncology/#visium) |
