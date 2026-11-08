@@ -1,20 +1,10 @@
-<div align="center">
-
-<img src="assets/profile-banner.svg" alt="Luca Celebrano — Medicine, Computational Oncology & Bioinformatics" width="100%" style="max-width: 1200px; height: auto;" />
-
 # Luca Celebrano
 
 **Medical Student / MD Candidate** · Università degli Studi di Napoli Federico II  
 **Bioinformatics thesis student** · TIGEM  
 Computational oncology · Spatial multi-omics · Biophysical reaction-diffusion modeling · Digital pathology AI
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--0931--3555-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0931-3555)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Celebrano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-celebrano/)
-[![Research Square](https://img.shields.io/badge/Research%20Square-Preprints-007acc?style=flat-square&logo=springer&logoColor=white)](https://www.researchsquare.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-spatial--continuum--lab-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spatial-continuum-lab)
-[![Caverna di Luca](https://img.shields.io/badge/Caverna%20di%20Luca-portfolio-60d9c5?style=flat-square)](https://lukecele-research.vercel.app/)
-
-</div>
+🔗 [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab) · [Research Square](https://www.researchsquare.com/)
 
 ## About
 
