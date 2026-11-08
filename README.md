@@ -8,16 +8,18 @@
 
 ---
 
-## 🎬 3D Simulation (From Instagram Reel)
+## 🎬 3D Simulation (From YouTube Shorts & Instagram Reel)
 
+[![🔴 Watch on YouTube Shorts](https://img.shields.io/badge/🔴_Watch_on_YouTube_Shorts-Simulating_3D_Tumor-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/1HPx9Wb2LxI)
 [![⭐ Drop a Star on the Repository](https://img.shields.io/badge/⭐_Drop_a_Star-Spatial_Continuum_Repo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology)
 [![⚡ Try Live Mobile 60 FPS Simulator](https://img.shields.io/badge/⚡_Try_Live_Simulator-Mobile_60_FPS-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)
 [![🔬 Read Scientific Deep Dive](https://img.shields.io/badge/🔬_Read_Deep_Dive-Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
 
-> 💡 **Visiting from Instagram?** Tap **`⋮` (top right)** ➔ **`Open in Chrome / Safari`** to star the repository with 1-tap using your logged-in GitHub account!
+> 💡 **Visiting from Mobile / In-App Browser?** Tap **`⋮` (top right)** ➔ **`Open in Chrome / Safari`** to star the repository with 1-tap using your logged-in GitHub account!
 
-If you arrived here from the **3D Reaction-Diffusion Tumor Cord Reel**:
+If you arrived here from the **3D Reaction-Diffusion Tumor Cord Simulation**:
 
+- 🎬 **[Watch Official 3D Simulation (YouTube Shorts)](https://www.youtube.com/shorts/1HPx9Wb2LxI)** — 60 FPS WebGL digital twin with soundtrack.
 - ⭐ **[Spatial Continuum Oncology Repository](https://github.com/Lukecele/spatial-continuum-oncology)** — pure Python RUO biophysical solver, CLI & test suite (open-source code).
 - ⚡ **[Live Browser Simulator (Mobile 60 FPS)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)** — lightweight numerical solver (<100 KB, runs directly in browser).
 - 🤗 **[3D WebGL Digital Twin (Hugging Face)](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d)** — interactive 360° orbit visualization.
