@@ -65,7 +65,7 @@ pip install spatial-continuum
 ```
 
 * **Package Registries:** [PyPI](https://pypi.org/project/spatial-continuum/) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum)
-* **Stack:** `Python` (`NumPy`, `SciPy`, `pandas`, `scikit-learn`, `PyTorch`) · `Nextflow DSL2` (`nf-core`) · `Bioconda` · `Docker/Singularity` · `TypeScript` · `Three.js`
+* **Stack:** `Python` (`NumPy`, `SciPy`, `pandas`, `scikit-learn`, `PyTorch`) · `Nextflow DSL2` (`nf-core`) · `Snakemake` · `Galaxy (IUC)` · `Bioconda` · `Docker/Singularity` · `TypeScript` · `Three.js`
 
 ---
 
