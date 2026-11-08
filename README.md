@@ -1,8 +1,8 @@
 # Luca Celebrano
 
 **Medical Student & Bioinformatics Researcher** · Università degli Studi di Napoli Federico II & TIGEM  
-*Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible software.*
-founder of web3 protocol @arbincept 
+*Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible software.*  
+*Founder of Web3 protocol [@arbincept](https://github.com/arbincept).*
 
 [🌐 The Cave (Research Portfolio)](https://lukecele-research.vercel.app/) · [📝 Substack](https://lucacelebrano.substack.com/) · [💼 LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab)
 
