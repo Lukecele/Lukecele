@@ -4,15 +4,8 @@
 **Bioinformatics Thesis Student** · TIGEM  
 Computational oncology · Spatial multi-omics · Biophysical reaction-diffusion modeling · Digital pathology AI
 
----
-
-### 🌐 Quick Navigation
-[🎬 3D Simulation](#3d-biophysical-simulation-from-reel) · [🔬 Research & Preprints](#research--publications) · [👑 Featured Repos](#featured-repositories) · [📦 Software](#reproducible-software) · [🤝 Merged Contributions](#verified-upstream-contributions) · [📬 Contact](#contact--affiliations)
-
----
-
-> 🔗 **Direct Hubs:** [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [Substack](https://lucacelebrano.substack.com/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab)  
-> 📄 **Research Square Preprints:** [Sanctuary Theory (DOI: 10.21203/rs.3.rs-11530312/v1)](https://doi.org/10.21203/rs.3.rs-11530312/v1) · [Translational Framework (DOI: 10.21203/rs.3.rs-11633521/v1)](https://doi.org/10.21203/rs.3.rs-11633521/v1)
+🔗 **Hubs & Profiles:** [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [Substack](https://lucacelebrano.substack.com/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab)  
+📄 **Research Square Preprints:** [Sanctuary Theory (DOI: 10.21203/rs.3.rs-11530312/v1)](https://doi.org/10.21203/rs.3.rs-11530312/v1) · [Translational Framework (DOI: 10.21203/rs.3.rs-11633521/v1)](https://doi.org/10.21203/rs.3.rs-11633521/v1)
 
 ---
 
