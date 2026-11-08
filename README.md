@@ -25,7 +25,7 @@ If you arrived here from the **3D Reaction-Diffusion Tumor Cord Reel**:
 Author-reviewed clinical and biophysical synthesis by **Dr. Luc Hendriks, PhD & Luca Celebrano** on [Gist.Science](https://gist.science):
 
 🌐 **Read the digest in your language:**  
-[🇬🇧 English](https://gist.science/paper/rs/rs-11530312) · [🇮🇹 Italiano](https://gist.science/it/paper/rs/rs-11530312) · [🇮🇳 हिन्दी (Hindi)](https://gist.science/hi/paper/rs/rs-11530312) · [🇪🇸 Español](https://gist.science/es/paper/rs/rs-11530312) · [🇫🇷 Français](https://gist.science/fr/paper/rs/rs-11530312) · [🇩🇪 Deutsch](https://gist.science/de/paper/rs/rs-11530312) · [🇵🇹 Português](https://gist.science/pt/paper/rs/rs-11530312) · [🇨🇳 中文](https://gist.science/zh/paper/rs/rs-11530312) · [🇯🇵 日本語](https://gist.science/ja/paper/rs/rs-11530312) · [🇸🇦 العربية](https://gist.science/ar/paper/rs/rs-11530312) · [🇷🇺 Русский](https://gist.science/ru/paper/rs/rs-11530312) · [🇳🇱 Nederlands](https://gist.science/nl/paper/rs/rs-11530312)
+[🇬🇧 English](https://gist.science/paper/rs/rs-11530312) · [🇮🇹 Italiano](https://gist.science/it/paper/rs/rs-11530312) · [🇮🇳 हिन्दी (Hindi)](https://gist.science/hi/paper/rs/rs-11530312) · [🇪🇸 Español](https://gist.science/es/paper/rs/rs-11530312) · [🇫🇷 Français](https://gist.science/fr/paper/rs/rs-11530312) · [🇩🇪 Deutsch](https://gist.science/de/paper/rs/rs-11530312) · [🇵🇹 Português](https://gist.science/pt/paper/rs/rs-11530312) · [🇨🇳 中文](https://gist.science/zh/paper/rs/rs-11530312) · [🇯🇵 日本語](https://gist.science/ja/paper/rs/rs-11530312) · [🇰🇷 한국어](https://gist.science/ko/paper/rs/rs-11530312) · [🇸🇦 العربية](https://gist.science/ar/paper/rs/rs-11530312) · [🇳🇱 Nederlands](https://gist.science/nl/paper/rs/rs-11530312)
 
 ---
 
