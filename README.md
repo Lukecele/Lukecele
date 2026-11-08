@@ -31,7 +31,7 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 ## 🔬 Research & Computational Systems
 
 ### 1. 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)
-*A biophysical reaction-diffusion theory of pharmacological sanctuaries, post-ADAURA discontinuation kinetics, and the SG-ADAURA trial protocol.*  
+*An in silico biophysical reaction-diffusion theory of pharmacological sanctuaries, post-ADAURA recurrence kinetics, and the prospective SG-ADAURA trial protocol hypothesis.*  
 * **Status:** Under review at *Scientific Reports* (Nature Portfolio, Editor Assigned).
 * **Access:** [Research Square Preprint (DOI: 10.21203/rs.3.rs-11530312/v1)](https://doi.org/10.21203/rs.3.rs-11530312/v1) · [Zenodo Master Archive](https://doi.org/10.5281/zenodo.23754999) · [Full Manuscript PDF](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf) · [Interactive Slides](https://lukecele.github.io/spatial-continuum-oncology/slides.html) · [Poster](https://lukecele.github.io/spatial-continuum-oncology/poster.html) · [bio.tools](https://bio.tools/spatial-continuum-oncology)
 
