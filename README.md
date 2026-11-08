@@ -7,7 +7,7 @@ Computational oncology · Spatial multi-omics · Biophysical reaction-diffusion 
 ---
 
 ### 🌐 Quick Navigation
-[🎬 3D Simulation](#-3d-biophysical-simulation-from-reel) · [🔬 Research & Preprints](#-research--publications) · [👑 Featured Repos](#-featured-repositories) · [📦 Software](#-reproducible-software) · [🤝 Merged Contributions](#-verified-upstream-contributions) · [📬 Contact](#-contact--affiliations)
+[🎬 3D Simulation](#3d-biophysical-simulation-from-reel) · [🔬 Research & Preprints](#research--publications) · [👑 Featured Repos](#featured-repositories) · [📦 Software](#reproducible-software) · [🤝 Merged Contributions](#verified-upstream-contributions) · [📬 Contact](#contact--affiliations)
 
 ---
 
