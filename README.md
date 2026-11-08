@@ -6,7 +6,7 @@ Computational oncology · Spatial multi-omics · Biophysical reaction-diffusion 
 
 ---
 
-🔗 **Hubs & Profiles:** [Caverna di Luca (Portfolio)](https://lukecele-research.vercel.app/) · [Substack](https://lucacelebrano.substack.com/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab)
+🔗 **Hubs & Profiles:** [Luca's Cave (Research Portfolio)](https://lukecele-research.vercel.app/) · [Substack](https://lucacelebrano.substack.com/) · [LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [ORCID: 0009-0007-0931-3555](https://orcid.org/0009-0007-0931-3555) · [Hugging Face](https://huggingface.co/spatial-continuum-lab)
 
 ---
 
@@ -20,13 +20,13 @@ If you arrived here from the **3D Reaction-Diffusion Tumor Cord Reel**:
 
 ---
 
-## 🧠 Plain-Language Digest (Gist.Science)
+## 🧠 Research Square Plain-Language Digest (Gist.Science)
 
-Author-reviewed clinical and biophysical synthesis by **Dr. Luc Hendriks, PhD & Luca Celebrano**:
+Author-reviewed lay synthesis of our Research Square preprint (*Conditions for Pharmacological Sanctuaries in Perivascular Tumour Cords*, rs-11530312) by **Dr. Luc Hendriks, PhD & Luca Celebrano**:
 
-> 🇬🇧 **Primary Digest (English):** **[Read on Gist.Science (rs-11530312) ↗](https://gist.science/paper/rs/rs-11530312)**
+> 🇬🇧 **Primary Digest (English):** **[Read Plain-Language Explanation on Gist.Science ↗](https://gist.science/paper/rs/rs-11530312)**
 
-🌐 **Translations:**  
+🌐 **Translations into 11 languages:**  
 [🇮🇹 Italiano](https://gist.science/it/paper/rs/rs-11530312) · [🇮🇳 हिन्दी (Hindi)](https://gist.science/hi/paper/rs/rs-11530312) · [🇪🇸 Español](https://gist.science/es/paper/rs/rs-11530312) · [🇫🇷 Français](https://gist.science/fr/paper/rs/rs-11530312) · [🇩🇪 Deutsch](https://gist.science/de/paper/rs/rs-11530312) · [🇵🇹 Português](https://gist.science/pt/paper/rs/rs-11530312) · [🇨🇳 中文](https://gist.science/zh/paper/rs/rs-11530312) · [🇯🇵 日本語](https://gist.science/ja/paper/rs/rs-11530312) · [🇰🇷 한국어](https://gist.science/ko/paper/rs/rs-11530312) · [🇸🇦 العربية](https://gist.science/ar/paper/rs/rs-11530312) · [🇳🇱 Nederlands](https://gist.science/nl/paper/rs/rs-11530312)
 
 ---
