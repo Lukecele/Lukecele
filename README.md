@@ -61,7 +61,16 @@ This companion translational work is already **posted and citable** as a preprin
 These are the three projects that best represent my current research and software work:
 
 1. 👑 [**Spatial Continuum Oncology**](https://github.com/Lukecele/spatial-continuum-oncology) — reaction-diffusion transport, perivascular pharmacological sanctuaries, bedside CRI and the 3D digital twin.  
-   [Live portal](https://lukecele.github.io/spatial-continuum-oncology/) · [60 FPS simulator](https://lukecele.github.io/spatial-continuum-oncology/simulator.html) · [Hugging Face 3D Space](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d)
+   [Live portal](https://lukecele.github.io/spatial-continuum-oncology/) · [🎮 60 FPS simulator](https://lukecele.github.io/spatial-continuum-oncology/simulator.html) · [🤗 Hugging Face 3D Space](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d) · [⭐️ Star on GitHub](https://github.com/Lukecele/spatial-continuum-oncology)
+
+<div align="center">
+  <a href="https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d">
+    <img src="assets/reel-3d-preview.jpg" alt="3D Biophysical Reaction-Diffusion Digital Twin (As seen in the Reel)" width="100%" style="max-width: 280px; border-radius: 10px; margin: 8px 0;" />
+  </a>
+  <br/>
+  <sub>🧬 <i>3D Perivascular Sanctuary Digital Twin (as seen in the reel) — Tap above to run live in WebGL</i></sub>
+</div>
+
 2. 🧬 [**Spatial Continuum Translational**](https://github.com/Lukecele/spatial-continuum-translational) — evidence-linked translational extensions, study protocol and research-only audit tools.  
    [Research Square DOI](https://doi.org/10.21203/rs.3.rs-11633521/v1) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23963563)
 3. 🎲 [**InSituGame**](https://github.com/Lukecele/spatial-game-assay) — spatial evolutionary-game assay for subclonal payoff matrices and adaptive-therapy regimes.  
@@ -122,16 +131,18 @@ Only merged contributions are listed here; open submissions remain tracked in th
 ### Computational biology and open science
 
 - **Bioconda** — [spatial-continuum #70930](https://github.com/bioconda/bioconda-recipes/pull/70930), [insitugame #70893](https://github.com/bioconda/bioconda-recipes/pull/70893), [spatial-sanctuary #70840](https://github.com/bioconda/bioconda-recipes/pull/70840).
-- **nf-core/modules** — [PostprocessGermlineCNVCalls #13080](https://github.com/nf-core/modules/pull/13080) and [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
+- **nf-core/modules** — [insitugame #13471](https://github.com/nf-core/modules/pull/13471) (merged), [PostprocessGermlineCNVCalls #13080](https://github.com/nf-core/modules/pull/13080), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
+- **nf-core/test-datasets** — [insitugame benchmark #2368](https://github.com/nf-core/test-datasets/pull/2368) (merged).
 - **Awesome-AI4DigitalPathology** — [#28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28), [#29](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/29).
-- **awesome-single-cell** — [#399](https://github.com/seandavi/awesome-single-cell/pull/399), [#404](https://github.com/seandavi/awesome-single-cell/pull/404).
+- **awesome-single-cell** — [#399](https://github.com/seandavi/awesome-single-cell/pull/399), [#404](https://github.com/seandavi/awesome-single-cell/pull/404), [#406](https://github.com/seandavi/awesome-single-cell/pull/406).
 
 ### Software and developer infrastructure
 
+- **Developer Portfolios** — [Luca Celebrano #4445](https://github.com/emmabostian/developer-portfolios/pull/4445) (merged).
 - **Angular** — [DevTools signal inspection fix #70986](https://github.com/angular/angular/pull/70986).
 - **viem** — [Plasma/Kortana network support #5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136).
 - **Ethereum Lists** — [Sonic RPC additions #8730](https://github.com/ethereum-lists/chains/pull/8730).
-- **DefiLlama** — [fee adapters and BSC telemetry #9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453).
+- **DefiLlama** — [fee adapters, BSC telemetry & revshare #9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#10332](https://github.com/DefiLlama/dimension-adapters/pull/10332).
 
 ## Contact and affiliations
 
