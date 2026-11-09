@@ -4,13 +4,13 @@
 *Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible software.*  
 *Founder of Web3 protocol [@arbincept](https://github.com/arbincept).*
 
-[🌐 The Cave (Research Portfolio)](https://lukecele-research.vercel.app/) · [📝 Substack](https://lucacelebrano.substack.com/) · [💼 LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab)
+[🌐 The Cave (Research Portfolio)](https://lucacelebrano.me/) · [📝 Substack](https://lucacelebrano.substack.com/) · [💼 LinkedIn](https://www.linkedin.com/in/luca-celebrano/) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab)
 
 ---
 
 ## 🎬 3D Simulation (From YouTube Shorts & Instagram Reel)
 
-[![🏰 Enter Luca's Cave](https://img.shields.io/badge/🏰_Enter_Luca's_Cave-Research_Hub-60d9c5?style=for-the-badge&logo=vercel&logoColor=white)](https://lukecele-research.vercel.app/)
+[![🏰 Enter Luca's Cave](https://img.shields.io/badge/🏰_Enter_Luca's_Cave-lucacelebrano.me-60d9c5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucacelebrano.me/)
 [![⭐ Drop a Star on the Repository](https://img.shields.io/badge/⭐_Drop_a_Star-Spatial_Continuum_Repo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology)
 [![🔴 Watch on YouTube Shorts](https://img.shields.io/badge/🔴_Watch_on_YouTube_Shorts-Simulating_3D_Tumor-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/6YAtcmN_-kU)
 [![⚡ Try Live Mobile 60 FPS Simulator](https://img.shields.io/badge/⚡_Try_Live_Simulator-Mobile_60_FPS-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)
@@ -20,7 +20,7 @@
 
 If you arrived here from the **3D Reaction-Diffusion Tumor Cord Simulation**:
 
-- 🏰 **[Enter Luca's Cave (Flagship Research Hub & Interactive 3D Lab)](https://lukecele-research.vercel.app/)** — full research ecosystem, 3D lab, Nature preprint & side quests.
+- 🏰 **[Enter Luca's Cave (Flagship Research Hub & Interactive 3D Lab)](https://lucacelebrano.me/)** — full research ecosystem, 3D lab, Nature preprint & side quests.
 - 🎬 **[Watch Official 3D Simulation (YouTube Shorts)](https://youtube.com/shorts/6YAtcmN_-kU)** — 60 FPS WebGL digital twin with soundtrack.
 - ⭐ **[Spatial Continuum Oncology Repository](https://github.com/Lukecele/spatial-continuum-oncology)** — pure Python RUO biophysical solver, CLI & test suite (open-source code).
 - ⚡ **[Live Browser Simulator (Mobile 60 FPS)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)** — lightweight numerical solver (<100 KB, runs directly in browser).
