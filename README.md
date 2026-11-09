@@ -105,7 +105,7 @@ This deterministic systems background directly informs my approach to scientific
 *Selected merged pull requests in upstream repositories:*
 
 * **[Bioconda](https://github.com/bioconda/bioconda-recipes)** — scientific recipes: [spatial-continuum #70930](https://github.com/bioconda/bioconda-recipes/pull/70930), [insitugame #70893](https://github.com/bioconda/bioconda-recipes/pull/70893), [spatial-sanctuary #70840](https://github.com/bioconda/bioconda-recipes/pull/70840).
-* **[nf-core/modules](https://github.com/nf-core/modules)** — Nextflow modules: [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
+* **[nf-core/modules](https://github.com/nf-core/modules)** — Nextflow modules: [spatialcontinuum/cricalc #13487](https://github.com/nf-core/modules/pull/13487), [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
 * **[awesome-single-cell](https://github.com/seandavi/awesome-single-cell)** — spatial transcriptomics curation [#399](https://github.com/seandavi/awesome-single-cell/pull/399).
 * **[Awesome-AI4DigitalPathology](https://github.com/lingxitong/Awesome-AI4DigitalPathology)** — computational pathology tools [#28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28).
 * **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)** — portfolio showcase [#4445](https://github.com/emmabostian/developer-portfolios/pull/4445).
