@@ -11,21 +11,20 @@
 ## 🎬 3D Simulation (From YouTube Shorts & Instagram Reel)
 
 [![🏰 Enter Luca's Cave](https://img.shields.io/badge/🏰_Enter_Luca's_Cave-lucacelebrano.me-60d9c5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucacelebrano.me/)
-[![⭐ Drop a Star on the Repository](https://img.shields.io/badge/⭐_Drop_a_Star-Spatial_Continuum_Repo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukecele/spatial-continuum-oncology)
-[![🔴 Watch on YouTube Shorts](https://img.shields.io/badge/🔴_Watch_on_YouTube_Shorts-Simulating_3D_Tumor-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/6YAtcmN_-kU)
-[![⚡ Try Live Mobile 60 FPS Simulator](https://img.shields.io/badge/⚡_Try_Live_Simulator-Mobile_60_FPS-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)
-[![🔬 Read Scientific Deep Dive](https://img.shields.io/badge/🔬_Read_Deep_Dive-Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)
+[![⭐ Star Flagship Repo](https://img.shields.io/badge/⭐_Star_Flagship_Repo-Inflammatory_Onco_Physics-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukecele/inflammatory-onco-physics)
+[![🔴 Watch on YouTube Shorts](https://img.shields.io/badge/🔴_Watch_on_YouTube_Shorts-Why_Cancers_Relapse-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/2IxHC94_Z18)
+[![⚡ 1-Click Colab Pro T4](https://img.shields.io/badge/⚡_1--Click_Colab-T4_GPU_Accelerated-orange?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)
+[![🔬 Read Scientific Monograph](https://img.shields.io/badge/🔬_Read_Monograph-Springer_Nature_Submission-darkred?style=for-the-badge&logo=springer&logoColor=white)](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf)
 
 > 💡 **Visiting from Mobile / In-App Browser?** Tap **`⋮` (top right)** ➔ **`Open in Chrome / Safari`** to star the repository with 1-tap using your logged-in GitHub account!
 
 If you arrived here from the **3D Reaction-Diffusion Tumor Cord Simulation**:
 
-- 🏰 **[Enter Luca's Cave (Flagship Research Hub & Interactive 3D Lab)](https://lucacelebrano.me/)** — full research ecosystem, 3D lab, Nature preprint & side quests.
-- 🎬 **[Watch Official 3D Simulation (YouTube Shorts)](https://youtube.com/shorts/6YAtcmN_-kU)** — 60 FPS WebGL digital twin with soundtrack.
-- ⭐ **[Spatial Continuum Oncology Repository](https://github.com/Lukecele/spatial-continuum-oncology)** — pure Python RUO biophysical solver, CLI & test suite (open-source code).
-- ⚡ **[Live Browser Simulator (Mobile 60 FPS)](https://lukecele.github.io/spatial-continuum-oncology/simulator.html)** — lightweight numerical solver (<100 KB, runs directly in browser).
-- 🤗 **[3D WebGL Digital Twin (Hugging Face)](https://huggingface.co/spaces/spatial-continuum-lab/tumor-cord-sanctuary-3d)** — interactive 360° orbit visualization.
-- 🔬 **[Substack Deep Dive](https://lucacelebrano.substack.com/p/why-resected-lung-cancers-relapse)** — intuitive mathematical & biophysical breakdown.
+- 🏰 **[Enter Luca's Cave (Flagship Research Hub & Interactive 3D Lab)](https://lucacelebrano.me/)** — full research ecosystem, 3D lab, multi-cohort validations & systems.
+- 🎬 **[Watch Official 3D Simulation (YouTube Shorts)](https://youtube.com/shorts/2IxHC94_Z18)** — 4K cinematic Veo visualization of perivascular drug decay, persister dormancy, cytokine awakening, and ctDNA shedding.
+- ⭐ **[Inflammatory Onco-Physics Flagship Repository](https://github.com/Lukecele/inflammatory-onco-physics)** — reaction-diffusion continuum solver, Volterra memory functional, bedside HTBI engine & 11 cohorts ($N=3,461$).
+- ⚡ **[1-Click Google Colab Notebook (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)** — run the full simulation and clinical survival regressions in your cloud browser.
+- 📄 **[4-Page Executive Technical Memorandum (IFOM Discussion)](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf)** — concise biophysical memorandum on DTP sanctuaries and ctDNA steric constraints.
 
 ---
 
@@ -42,28 +41,34 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 
 ## 🔬 Research & Computational Systems
 
-### 1. 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)
+### 1. 🏆 [Inflammatory Onco-Physics](https://github.com/Lukecele/inflammatory-onco-physics) *(Flagship)*
+*A Reaction-Diffusion Theory of Microvascular Pharmacological Sanctuaries and Inflammatory Pre-conditioning Explains Post-Adjuvant Relapse Dynamics Across 3,461 Patients.*  
+* **Setting & Scope:** Explains post-cessation recurrence and ctDNA shedding kinetics across 11 clinical cohorts ($N=3,461$) through continuous reaction-diffusion (Bessel $K_0$) and hereditary Volterra memory functional.  
+* **Status:** Springer Nature Master Monograph (26 pages) / Zenodo Permanent Archive.  
+* **Access:** [Zenodo Master Archive (DOI: 10.5281/zenodo.24118328)](https://doi.org/10.5281/zenodo.24118328) · [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Full Monograph PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/SUPPLEMENTARY_INFORMATION.pdf) · [Executive Memorandum PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf) · [YouTube Short Simulation](https://youtube.com/shorts/2IxHC94_Z18)
+
+### 2. 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)
 *An in silico biophysical reaction-diffusion theory of pharmacological sanctuaries, post-ADAURA recurrence kinetics, and the prospective SG-ADAURA trial protocol hypothesis.*  
-* **Status:** Under review at *Scientific Reports* (Nature Portfolio, Editor Assigned).
+* **Status:** Under review at *Scientific Reports* (Nature Portfolio, Editor Assigned).  
 * **Access:** [Research Square Preprint (DOI: 10.21203/rs.3.rs-11530312/v1)](https://doi.org/10.21203/rs.3.rs-11530312/v1) · [Zenodo Master Archive](https://doi.org/10.5281/zenodo.23754999) · [Full Manuscript PDF](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf) · [Interactive Slides](https://lukecele.github.io/spatial-continuum-oncology/slides.html) · [Poster](https://lukecele.github.io/spatial-continuum-oncology/poster.html) · [bio.tools](https://bio.tools/spatial-continuum-oncology)
 
-### 2. 🧬 [Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational)
+### 3. 🧬 [Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational)
 *Evidence-linked translational models, exploratory GIST phenotype scoring, candidate registry, and Composite Resistance Index (CRI) audit tools.*  
-* **Status:** Published on *Research Square*.
+* **Status:** Published on *Research Square*.  
 * **Access:** [Preprint (DOI: 10.21203/rs.3.rs-11633521/v1)](https://doi.org/10.21203/rs.3.rs-11633521/v1) · [Zenodo Archive](https://doi.org/10.5281/zenodo.23963563) · [bio.tools](https://bio.tools/spatial-continuum-translational)
 
-### 3. 🎲 [InSituGame](https://github.com/Lukecele/spatial-game-assay)
+### 4. 🎲 [InSituGame](https://github.com/Lukecele/spatial-game-assay)
 *Spatial evolutionary game-theoretic assay for inferring subclonal payoff matrices and adaptive therapy dynamics.*  
 * **Access:** [Live Assay Portal](https://lukecele.github.io/spatial-game-assay/) · [Zenodo Archive](https://doi.org/10.5281/zenodo.23585216) · [bio.tools](https://bio.tools/insitugame)
 
-### 4. 🧭 [Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)
+### 5. 🧭 [Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)
 *Subcellular transport boundaries in EGFR-mutant NSCLC via 10x Visium HD (officially curated in awesome-single-cell).*
 
-### 5. 👁️ [InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4)
+### 6. 👁️ [InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4)
 *Low-cost Attention-MIL pathology AI for spatial vascular decoupling on routine H&E whole-slide images.*  
 * **Access:** [Live Portal](https://lukecele.github.io/spatial-he-vision-study4/) · [bio.tools](https://bio.tools/spatial-sanctuary)
 
-### 6. 📐 [Spatial Oncology Master](https://github.com/Lukecele/spatial-oncology-master)
+### 7. 📐 [Spatial Oncology Master](https://github.com/Lukecele/spatial-oncology-master)
 *Cylindrical Bessel K₀ reaction-diffusion solver and MSKCC survival validation (N = 604).*  
 * **Access:** [Live Portal](https://lukecele.github.io/spatial-oncology-master/) · [GHCR Docker Image](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master)
 
@@ -77,7 +82,7 @@ pip install spatial-continuum
 ```
 
 * **Package Registries:** [PyPI](https://pypi.org/project/spatial-continuum/) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum)
-* **Stack:** `Python` (`NumPy`, `SciPy`, `pandas`, `scikit-learn`, `PyTorch`) · `Nextflow DSL2` (`nf-core`) · `Snakemake` · `Galaxy (IUC)` · `Bioconda` · `Docker/Singularity` · `TypeScript` · `Three.js`
+* **Stack:** `Python` (`NumPy`, `SciPy`, `pandas`, `scikit-learn`, `PyTorch`, `lifelines`) · `Nextflow DSL2` (`nf-core`) · `Snakemake` · `Galaxy (IUC)` · `Bioconda` · `Docker/Singularity` · `TypeScript` · `Three.js`
 
 ---
 
