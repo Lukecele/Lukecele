@@ -12,7 +12,8 @@
 
 [![🏰 Enter Luca's Cave](https://img.shields.io/badge/🏰_Enter_Luca's_Cave-lucacelebrano.me-60d9c5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucacelebrano.me/)
 [![⭐ Star Flagship Repo](https://img.shields.io/badge/⭐_Star_Flagship_Repo-Inflammatory_Onco_Physics-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukecele/inflammatory-onco-physics)
-[![🔴 Watch on YouTube Shorts](https://img.shields.io/badge/🔴_Watch_on_YouTube_Shorts-Why_Cancers_Relapse-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/2IxHC94_Z18)
+[![🔴 Part 1 Short](https://img.shields.io/badge/🔴_Part_1-Why_Cancers_Relapse-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/2IxHC94_Z18)
+[![🔴 Part 2 Short](https://img.shields.io/badge/🔴_Part_2-The_Matrix_Breach-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/m5TXgQOB2WA)
 [![⚡ 1-Click Colab Pro T4](https://img.shields.io/badge/⚡_1--Click_Colab-T4_GPU_Accelerated-orange?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)
 [![🔬 Read Scientific Monograph](https://img.shields.io/badge/🔬_Read_Monograph-Springer_Nature_Submission-darkred?style=for-the-badge&logo=springer&logoColor=white)](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf)
 
@@ -21,7 +22,8 @@
 If you arrived here from the **3D Reaction-Diffusion Tumor Cord Simulation**:
 
 - 🏰 **[Enter Luca's Cave (Flagship Research Hub & Interactive 3D Lab)](https://lucacelebrano.me/)** — full research ecosystem, 3D lab, multi-cohort validations & systems.
-- 🎬 **[Watch Official 3D Simulation (YouTube Shorts)](https://youtube.com/shorts/2IxHC94_Z18)** — 4K cinematic Veo visualization of perivascular drug decay, persister dormancy, cytokine awakening, and ctDNA shedding.
+- 🎬 **[Watch Part 1 Short (YouTube Shorts)](https://youtube.com/shorts/2IxHC94_Z18)** — perivascular drug decay, DTP dormancy, and cytokine awakening.
+- 🎬 **[Watch Part 2 Short (YouTube Shorts)](https://youtube.com/shorts/m5TXgQOB2WA)** — collagen pore steric entrapment (<11 nm) and ctDNA trans-endothelial entry.
 - ⭐ **[Inflammatory Onco-Physics Flagship Repository](https://github.com/Lukecele/inflammatory-onco-physics)** — reaction-diffusion continuum solver, Volterra memory functional, bedside HTBI engine & 11 cohorts ($N=3,461$).
 - ⚡ **[1-Click Google Colab Notebook (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)** — run the full simulation and clinical survival regressions in your cloud browser.
 - 📄 **[4-Page Executive Technical Memorandum (IFOM Discussion)](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf)** — concise biophysical memorandum on DTP sanctuaries and ctDNA steric constraints.
