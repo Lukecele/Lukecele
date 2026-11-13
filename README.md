@@ -1,6 +1,6 @@
 # Luca Celebrano
 
-**Medical Student & Bioinformatics Researcher** · Università degli Studi di Napoli Federico II & TIGEM  
+**MD Candidate & Computational Oncology Researcher** · Università degli Studi di Napoli Federico II  
 *Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible software.*  
 *Founder of Web3 protocol [@arbincept](https://github.com/arbincept).*
 
@@ -8,31 +8,12 @@
 
 ---
 
-## 🎬 3D Simulation (From YouTube Shorts & Instagram Reel)
+## 🎬 3D Biophysical Simulation Series & Digital Twin
 
-[![🏰 Enter Luca's Cave](https://img.shields.io/badge/🏰_Enter_Luca's_Cave-lucacelebrano.me-60d9c5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucacelebrano.me/)
-[![⭐ Star Flagship Repo](https://img.shields.io/badge/⭐_Star_Flagship_Repo-Inflammatory_Onco_Physics-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukecele/inflammatory-onco-physics)
-[![🔴 Part 1 Short](https://img.shields.io/badge/🔴_Part_1-Why_Cancers_Relapse-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/2IxHC94_Z18)
-[![🔴 Part 2 Short](https://img.shields.io/badge/🔴_Part_2-The_Matrix_Breach-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/m5TXgQOB2WA)
-[![🔴 Part 3 Short](https://img.shields.io/badge/🔴_Part_3-Desmoplastic_Shield-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/o4tKdbQV9cU)
-[![🔴 Part 4 Short](https://img.shields.io/badge/🔴_Part_4-Antibody_Strike-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/9EMsP73WSho)
-[![🔴 Part 5 Short](https://img.shields.io/badge/🔴_Part_5-5.5M_Lead_Time-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/0HPGny83MRU)
-[![⚡ 1-Click Colab Pro T4](https://img.shields.io/badge/⚡_1--Click_Colab-T4_GPU_Accelerated-orange?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)
-[![🔬 Read Scientific Monograph](https://img.shields.io/badge/🔬_Read_Monograph-Springer_Nature_Submission-darkred?style=for-the-badge&logo=springer&logoColor=white)](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf)
+> 🌐 **[Interactive 3D WebGL Twin & Lab](https://lucacelebrano.me/)** · ⭐ **[Inflammatory Onco-Physics Repo](https://github.com/Lukecele/inflammatory-onco-physics)** · ⚡ **[1-Click Colab Solver](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)** · 📄 **[Research Square Preprint (10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1)**
 
-> 💡 **Visiting from Mobile / In-App Browser?** Tap **`⋮` (top right)** ➔ **`Open in Chrome / Safari`** to star the repository with 1-tap using your logged-in GitHub account!
-
-If you arrived here from the **3D Reaction-Diffusion Tumor Cord Simulation**:
-
-- 🏰 **[Enter Luca's Cave (Flagship Research Hub & Interactive 3D Lab)](https://lucacelebrano.me/)** — full research ecosystem, 3D lab, multi-cohort validations & systems.
-- 🎬 **[Watch Part 1 Short (YouTube Shorts)](https://youtube.com/shorts/2IxHC94_Z18)** — perivascular drug decay, DTP dormancy, and cytokine awakening.
-- 🎬 **[Watch Part 2 Short (YouTube Shorts)](https://youtube.com/shorts/m5TXgQOB2WA)** — collagen pore steric entrapment (<11 nm) and ctDNA trans-endothelial entry.
-- 🎬 **[Watch Part 3 Short (YouTube Shorts)](https://youtube.com/shorts/o4tKdbQV9cU)** — CAF microvessel compression, arrested convection, and persister survival.
-- 🎬 **[Watch Part 4 Short (YouTube Shorts)](https://youtube.com/shorts/9EMsP73WSho)** — monoclonal antibodies penetrating microvascular niches to bind tumor cells.
-- 🎬 **[Watch Part 5 Short (YouTube Shorts)](https://youtube.com/shorts/0HPGny83MRU)** — 5.5-month analytical lead time: liquid biopsy (ctDNA MRD+) vs. CT imaging.
-- ⭐ **[Inflammatory Onco-Physics Flagship Repository](https://github.com/Lukecele/inflammatory-onco-physics)** — reaction-diffusion continuum solver, Volterra memory functional, bedside HTBI engine & 11 cohorts ($N=3,461$).
-- ⚡ **[1-Click Google Colab Notebook (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)** — run the full simulation and clinical survival regressions in your cloud browser.
-- 📄 **[4-Page Executive Technical Memorandum (IFOM Discussion)](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf)** — concise biophysical memorandum on DTP sanctuaries and ctDNA steric constraints.
+**YouTube Shorts Quintilogy (4K / 60 FPS):**  
+[Part 1: Perivascular Sanctuaries](https://youtube.com/shorts/2IxHC94_Z18) · [Part 2: Matrix Breach & ctDNA](https://youtube.com/shorts/m5TXgQOB2WA) · [Part 3: Desmoplastic Shield](https://youtube.com/shorts/o4tKdbQV9cU) · [Part 4: Targeted Antibody Influx](https://youtube.com/shorts/9EMsP73WSho) · [Part 5: 5.5-Month ctDNA Lead Time](https://youtube.com/shorts/0HPGny83MRU)
 
 ---
 
@@ -132,7 +113,6 @@ This deterministic systems background directly informs my approach to scientific
 
 ## 📬 Contact & Academic Affiliations
 
-* 🏛️ **Medical School:** Department of Clinical Medicine and Surgery, Università degli Studi di Napoli Federico II.
-* 🧬 **Bioinformatics Thesis:** [TIGEM](https://www.tigem.it/) (Telethon Institute of Genetics and Medicine).
+* 🏛️ **Academic Affiliation:** Department of Clinical Medicine and Surgery, School of Medicine, Università degli Studi di Napoli Federico II, Naples, Italy.
 * 🎓 **Academic Email:** [l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)
 * ✉️ **Personal Email:** [luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)
