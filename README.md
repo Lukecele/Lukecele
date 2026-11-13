@@ -12,7 +12,7 @@
 
 > 🌐 **[Interactive 3D WebGL Twin & Lab](https://lucacelebrano.me/)** · ⭐ **[Inflammatory Onco-Physics Repo](https://github.com/Lukecele/inflammatory-onco-physics)** · ⚡ **[1-Click Colab Solver](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)** · 📄 **[Research Square Preprint (10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1)**
 
-**YouTube Shorts Quintilogy (4K / 60 FPS):**  
+**5-Part 4K Simulation Series (YouTube Shorts):**  
 [Part 1: Perivascular Sanctuaries](https://youtube.com/shorts/2IxHC94_Z18) · [Part 2: Matrix Breach & ctDNA](https://youtube.com/shorts/m5TXgQOB2WA) · [Part 3: Desmoplastic Shield](https://youtube.com/shorts/o4tKdbQV9cU) · [Part 4: Targeted Antibody Influx](https://youtube.com/shorts/9EMsP73WSho) · [Part 5: 5.5-Month ctDNA Lead Time](https://youtube.com/shorts/0HPGny83MRU)
 
 ---
@@ -32,9 +32,9 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 
 ### 1. 🏆 [Inflammatory Onco-Physics](https://github.com/Lukecele/inflammatory-onco-physics) *(Flagship)*
 *A Reaction-Diffusion Theory of Microvascular Pharmacological Sanctuaries and Inflammatory Pre-conditioning Explains Post-Adjuvant Relapse Dynamics Across 3,461 Patients.*  
-* **Setting & Scope:** Explains post-cessation recurrence and ctDNA shedding kinetics across 11 clinical cohorts ($N=3,461$) through continuous reaction-diffusion (Bessel $K_0$) and hereditary Volterra memory functional.  
+* **Setting & Scope:** Explains post-cessation recurrence and ctDNA shedding kinetics across 11 clinical cohorts ($N=3,461$) through continuous reaction-diffusion (Bessel K₀) and hereditary Volterra memory functional.  
 * **Status:** Springer Nature Master Monograph (26 pages) / Zenodo Permanent Archive.  
-* **Access:** [Zenodo Master Archive (DOI: 10.5281/zenodo.24118328)](https://doi.org/10.5281/zenodo.24118328) · [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Full Monograph PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/SUPPLEMENTARY_INFORMATION.pdf) · [Executive Memorandum PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf) · [Shorts Quintilogy (Part 1-5)](https://youtube.com/shorts/0HPGny83MRU)
+* **Access:** [Research Square Preprint (DOI: 10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1) · [Zenodo Master Archive (DOI: 10.5281/zenodo.24118328)](https://doi.org/10.5281/zenodo.24118328) · [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Full Monograph PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/SUPPLEMENTARY_INFORMATION.pdf) · [Executive Memorandum PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf) · [5-Part 4K Simulation Series](https://youtube.com/shorts/0HPGny83MRU)
 
 ### 2. 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)
 *An in silico biophysical reaction-diffusion theory of pharmacological sanctuaries, post-ADAURA recurrence kinetics, and the prospective SG-ADAURA trial protocol hypothesis.*  
