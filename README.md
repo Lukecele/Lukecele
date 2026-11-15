@@ -61,6 +61,12 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 *Cylindrical Bessel K₀ reaction-diffusion solver and MSKCC survival validation (N = 604).*  
 * **Access:** [Live Portal](https://lukecele.github.io/spatial-oncology-master/) · [GHCR Docker Image](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master)
 
+### 8. 🧮 [HTBI Research Explorer: Bedside Biophysical Calculator](https://github.com/Lukecele/htbi-bedside-calculator)
+*Interactive translational biophysical risk modeler and bedside recurrence dynamics calculator.*  
+* **Setting & Scope:** Translates continuous reaction-diffusion physics ($K_0$ Bessel decay and subclinical sanctuary kinetics) into an instantaneous bedside prognostic score ($HTBI \in [0, 100]$), estimating cumulative recurrence hazard, expected relapse velocity, and subclinical ctDNA shedding lead times.  
+* **License & Standards:** CC-BY-4.0 International · ELIXIR EDAM Oncology (`topic_2640`) & Biophysics (`topic_3306`) ontologies.  
+* **Access:** [Live Interactive App (Streamlit)](https://htbi-bedside-calculator-yu8jwzkifktp2bvvs4ped4.streamlit.app/) · [Zenodo Software DOI (10.5281/zenodo.24241000)](https://doi.org/10.5281/zenodo.24241000) · [ELIXIR bio.tools (htbi-bedside-calculator)](https://bio.tools/htbi-bedside-calculator) · [Research Square Preprint (DOI: 10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1)
+
 ---
 
 ## 📦 Software Packages & Stack
@@ -98,6 +104,7 @@ This deterministic systems background directly informs my approach to scientific
 
 *Selected merged pull requests in upstream repositories:*
 
+* **[samtools/htslib](https://github.com/samtools/htslib)** — core C genomics engine: [fix-annot-tsv-overflow #2138](https://github.com/samtools/htslib/pull/2138).
 * **[Snakemake](https://github.com/snakemake/snakemake-wrappers)** — official wrappers: [bio/spatialcontinuum #6233](https://github.com/snakemake/snakemake-wrappers/pull/6233).
 * **[Bioconda](https://github.com/bioconda/bioconda-recipes)** — scientific recipes: [spatial-continuum #70930](https://github.com/bioconda/bioconda-recipes/pull/70930), [insitugame #70893](https://github.com/bioconda/bioconda-recipes/pull/70893), [spatial-sanctuary #70840](https://github.com/bioconda/bioconda-recipes/pull/70840).
 * **[nf-core/modules](https://github.com/nf-core/modules)** — Nextflow modules: [spatialcontinuum/cricalc #13487](https://github.com/nf-core/modules/pull/13487), [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
