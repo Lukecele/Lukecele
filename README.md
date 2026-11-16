@@ -67,6 +67,12 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 * **License & Standards:** CC-BY-4.0 International · ELIXIR EDAM Oncology (`topic_2640`) & Biophysics (`topic_3306`) ontologies.  
 * **Access:** [Live Interactive App (Streamlit)](https://htbi-bedside-calculator-yu8jwzkifktp2bvvs4ped4.streamlit.app/) · [Zenodo Software DOI (10.5281/zenodo.24241000)](https://doi.org/10.5281/zenodo.24241000) · [ELIXIR bio.tools (htbi-bedside-calculator)](https://bio.tools/htbi-bedside-calculator) · [Research Square Preprint (DOI: 10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1)
 
+### 9. 🧠 [Neuro-Glymphatic Tau Dynamics (NGTD)](https://github.com/Lukecele/tau-glymphatic-continuum)
+*An In Silico Multiscale Reaction-Diffusion and Perivascular Transport Model of Pathological Tau Spreading in Alzheimer's Disease.*  
+* **Setting & Scope:** Couples Stokes-Brinkman perivascular hydrodynamics, boundary wave pinning, and sleep-wake circadian clearance to predict early-stage Alzheimer's tau propagation and tipping points across multi-cohort clinical populations ($N=2,758$).  
+* **Status:** bioRxiv Preprint (Category: Biophysics, MS ID: BIORXIV/2026/766809) / CERN Zenodo Permanent Archive.  
+* **Access:** [bioRxiv Preprint (MS ID: BIORXIV/2026/766809)](https://www.biorxiv.org/) · [CERN Zenodo Archive (DOI: 10.5281/zenodo.24261518)](https://doi.org/10.5281/zenodo.24261518) · [1-Click Interactive Google Colab](https://colab.research.google.com/github/Lukecele/tau-glymphatic-continuum/blob/main/demo_interactive_ngtd.ipynb) · [Full Manuscript PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/01_MANUSCRIPT_TAU_GLYMPHATIC_FULL.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/02_SUPPLEMENTARY_INFORMATION.pdf)
+
 ---
 
 ## 📦 Software Packages & Stack
@@ -106,15 +112,17 @@ This deterministic systems background directly informs my approach to scientific
 
 * **[samtools/htslib](https://github.com/samtools/htslib)** — core C genomics engine: [fix-annot-tsv-overflow #2138](https://github.com/samtools/htslib/pull/2138).
 * **[Snakemake](https://github.com/snakemake/snakemake-wrappers)** — official wrappers: [bio/spatialcontinuum #6233](https://github.com/snakemake/snakemake-wrappers/pull/6233).
+* **[nf-core/modules](https://github.com/nf-core/modules)** — Nextflow modules: [spatialcontinuum/cricalc #13487](https://github.com/nf-core/modules/pull/13487), [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039), and [nf-core/test-datasets #2368](https://github.com/nf-core/test-datasets/pull/2368).
 * **[Bioconda](https://github.com/bioconda/bioconda-recipes)** — scientific recipes: [spatial-continuum #70930](https://github.com/bioconda/bioconda-recipes/pull/70930), [insitugame #70893](https://github.com/bioconda/bioconda-recipes/pull/70893), [spatial-sanctuary #70840](https://github.com/bioconda/bioconda-recipes/pull/70840).
-* **[nf-core/modules](https://github.com/nf-core/modules)** — Nextflow modules: [spatialcontinuum/cricalc #13487](https://github.com/nf-core/modules/pull/13487), [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039).
-* **[awesome-single-cell](https://github.com/seandavi/awesome-single-cell)** — spatial transcriptomics curation [#399](https://github.com/seandavi/awesome-single-cell/pull/399).
-* **[Awesome-AI4DigitalPathology](https://github.com/lingxitong/Awesome-AI4DigitalPathology)** — computational pathology tools [#28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28).
-* **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)** — portfolio showcase [#4452](https://github.com/emmabostian/developer-portfolios/pull/4452).
-* **[Angular](https://github.com/angular/angular)** — DevTools signal inspection fix [#70986](https://github.com/angular/angular/pull/70986).
-* **[viem](https://github.com/wevm/viem)** — chain configurations [#5108](https://github.com/wevm/viem/pull/5108).
-* **[Ethereum Lists](https://github.com/ethereum-lists/chains)** — RPC additions [#8730](https://github.com/ethereum-lists/chains/pull/8730).
-* **[DefiLlama](https://github.com/DefiLlama/dimension-adapters)** — fee telemetry adapters [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838).
+* **[Spatial_transcriptomics_tools](https://github.com/p-gueguen/Spatial_transcriptomics_tools)** — curated spatial transcriptomics catalog: [spatial-continuum-oncology #21](https://github.com/p-gueguen/Spatial_transcriptomics_tools/pull/21).
+* **[Awesome-Bioinformatics-Tools](https://github.com/ZhihaoXie/awesome-bioinformatics-tools)** — translational oncology tools: [spatial-continuum-translational #9](https://github.com/ZhihaoXie/awesome-bioinformatics-tools/pull/9).
+* **[awesome-single-cell](https://github.com/seandavi/awesome-single-cell)** — spatial transcriptomics curation: [#399](https://github.com/seandavi/awesome-single-cell/pull/399), [#404](https://github.com/seandavi/awesome-single-cell/pull/404), [#406](https://github.com/seandavi/awesome-single-cell/pull/406).
+* **[Awesome-AI4DigitalPathology](https://github.com/lingxitong/Awesome-AI4DigitalPathology)** — computational pathology tools: [#28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28), [#29](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/29).
+* **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)** — portfolio showcase: [#4452](https://github.com/emmabostian/developer-portfolios/pull/4452), [#4445](https://github.com/emmabostian/developer-portfolios/pull/4445).
+* **[DefiLlama](https://github.com/DefiLlama/dimension-adapters)** — protocol adapters & fee telemetry: [#10834](https://github.com/DefiLlama/dimension-adapters/pull/10834), [#10332](https://github.com/DefiLlama/dimension-adapters/pull/10332), [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838).
+* **[Angular](https://github.com/angular/angular)** — DevTools signal inspection fix: [#70986](https://github.com/angular/angular/pull/70986).
+* **[viem](https://github.com/wevm/viem)** — chain configurations: [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136).
+* **[Ethereum Lists](https://github.com/ethereum-lists/chains)** — RPC additions: [#8730](https://github.com/ethereum-lists/chains/pull/8730).
 
 ---
 
