@@ -70,8 +70,8 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 ### 9. 🧠 [Neuro-Glymphatic Tau Dynamics (NGTD)](https://github.com/Lukecele/tau-glymphatic-continuum)
 *An In Silico Multiscale Reaction-Diffusion and Perivascular Transport Model of Pathological Tau Spreading in Alzheimer's Disease.*  
 * **Setting & Scope:** Couples Stokes-Brinkman perivascular hydrodynamics, boundary wave pinning, and sleep-wake circadian clearance to predict early-stage Alzheimer's tau propagation and tipping points across multi-cohort clinical populations ($N=2,758$).  
-* **Status:** bioRxiv Preprint (Category: Biophysics, MS ID: BIORXIV/2026/766809) / CERN Zenodo Permanent Archive.  
-* **Access:** [bioRxiv Preprint (MS ID: BIORXIV/2026/766809)](https://www.biorxiv.org/) · [CERN Zenodo Archive (DOI: 10.5281/zenodo.24261518)](https://doi.org/10.5281/zenodo.24261518) · [1-Click Interactive Google Colab](https://colab.research.google.com/github/Lukecele/tau-glymphatic-continuum/blob/main/demo_interactive_ngtd.ipynb) · [Full Manuscript PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/01_MANUSCRIPT_TAU_GLYMPHATIC_FULL.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/02_SUPPLEMENTARY_INFORMATION.pdf)
+* **Status:** CERN Zenodo Permanent Archive (DOI: 10.5281/zenodo.24261518) / In Submission at Research Square (Springer Nature Portfolio).  
+* **Access:** [CERN Zenodo Archive (DOI: 10.5281/zenodo.24261518)](https://doi.org/10.5281/zenodo.24261518) · [1-Click Interactive Google Colab](https://colab.research.google.com/github/Lukecele/tau-glymphatic-continuum/blob/main/demo_interactive_ngtd.ipynb) · [Full Manuscript PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/01_MANUSCRIPT_TAU_GLYMPHATIC_FULL.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/02_SUPPLEMENTARY_INFORMATION.pdf)
 
 ---
 
