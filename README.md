@@ -78,7 +78,7 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 ## 📦 Software Packages & Stack
 
 ```bash
-conda install -c bioconda spatial-continuum insitugame spatial-sanctuary
+conda install -c bioconda spatial-continuum insitugame spatial-sanctuary inflammatory-onco-physics spatial-continuum-translational
 pip install spatial-continuum
 ```
 
@@ -110,10 +110,11 @@ This deterministic systems background directly informs my approach to scientific
 
 *Selected merged pull requests in upstream repositories:*
 
+* **[nf-core/modules](https://github.com/nf-core/modules)** — Nextflow modules: [spatialcontinuumtranslational/gist #13794](https://github.com/nf-core/modules/pull/13794), [spatialsanctuary/simulate #13797](https://github.com/nf-core/modules/pull/13797), [inflammatoryoncophysics/calc #13789](https://github.com/nf-core/modules/pull/13789), [spatialcontinuum/cricalc #13487](https://github.com/nf-core/modules/pull/13487), [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [gatk4/postprocessgermlinecnvcalls #13080](https://github.com/nf-core/modules/pull/13080), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039), and [nf-core/test-datasets #2368](https://github.com/nf-core/test-datasets/pull/2368).
+* **[Bioconda](https://github.com/bioconda/bioconda-recipes)** — scientific recipes: [spatial-continuum-translational #71345](https://github.com/bioconda/bioconda-recipes/pull/71345), [inflammatory-onco-physics #71624](https://github.com/bioconda/bioconda-recipes/pull/71624), [spatial-continuum #70930](https://github.com/bioconda/bioconda-recipes/pull/70930), [insitugame #70893](https://github.com/bioconda/bioconda-recipes/pull/70893), [#70794](https://github.com/bioconda/bioconda-recipes/pull/70794), [spatial-sanctuary #70840](https://github.com/bioconda/bioconda-recipes/pull/70840), [#70821](https://github.com/bioconda/bioconda-recipes/pull/70821).
+* **[scverse](https://github.com/scverse/ecosystem-packages)** — single-cell & spatial omics ecosystem registry: [SpatialContinuum #446](https://github.com/scverse/ecosystem-packages/pull/446) *(Approved)*.
 * **[samtools/htslib](https://github.com/samtools/htslib)** — core C genomics engine: [fix-annot-tsv-overflow #2138](https://github.com/samtools/htslib/pull/2138).
 * **[Snakemake](https://github.com/snakemake/snakemake-wrappers)** — official wrappers: [bio/spatialcontinuum #6233](https://github.com/snakemake/snakemake-wrappers/pull/6233).
-* **[nf-core/modules](https://github.com/nf-core/modules)** — Nextflow modules: [spatialcontinuum/cricalc #13487](https://github.com/nf-core/modules/pull/13487), [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [gatk4/postprocessgermlinecnvcalls #13080](https://github.com/nf-core/modules/pull/13080), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039), and [nf-core/test-datasets #2368](https://github.com/nf-core/test-datasets/pull/2368).
-* **[Bioconda](https://github.com/bioconda/bioconda-recipes)** — scientific recipes: [inflammatory-onco-physics #71624](https://github.com/bioconda/bioconda-recipes/pull/71624), [spatial-continuum #70930](https://github.com/bioconda/bioconda-recipes/pull/70930), [insitugame #70893](https://github.com/bioconda/bioconda-recipes/pull/70893), [#70794](https://github.com/bioconda/bioconda-recipes/pull/70794), [spatial-sanctuary #70840](https://github.com/bioconda/bioconda-recipes/pull/70840), [#70821](https://github.com/bioconda/bioconda-recipes/pull/70821).
 * **[Spatial_transcriptomics_tools](https://github.com/p-gueguen/Spatial_transcriptomics_tools)** — curated spatial transcriptomics catalog: [spatial-continuum-oncology #21](https://github.com/p-gueguen/Spatial_transcriptomics_tools/pull/21).
 * **[Awesome-Bioinformatics-Tools](https://github.com/ZhihaoXie/awesome-bioinformatics-tools)** — translational oncology tools: [spatial-continuum-translational #9](https://github.com/ZhihaoXie/awesome-bioinformatics-tools/pull/9).
 * **[awesome-single-cell](https://github.com/seandavi/awesome-single-cell)** — spatial transcriptomics curation: [#399](https://github.com/seandavi/awesome-single-cell/pull/399), [#404](https://github.com/seandavi/awesome-single-cell/pull/404), [#406](https://github.com/seandavi/awesome-single-cell/pull/406).
