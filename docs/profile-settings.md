@@ -30,7 +30,7 @@ The card adapts the existing `assets/profile-banner.svg` palette and node artwor
 
 Current bio, verified from the public GitHub user API:
 
-> MD Candidate @ Federico II · Bioinformatics & on-chain systems · Founder @arbincept · Open-source contributor
+> Independent Researcher · Bioinformatics & on-chain systems · Founder @arbincept · Open-source contributor
 
 This already connects the medical, research and founder identities. The README preserves the existing Federico II statements; it does not add institutional claims.
 

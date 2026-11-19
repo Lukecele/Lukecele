@@ -1,6 +1,6 @@
 # Luca Celebrano
 
-**MD Candidate & Computational Oncology Researcher** · Università degli Studi di Napoli Federico II  
+**Independent Computational Oncology Researcher**  
 *Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible software.*  
 *Founder of Web3 protocol [@arbincept](https://github.com/arbincept).*
 
@@ -10,7 +10,7 @@
 
 ## 🎬 3D Biophysical Simulation Series & Digital Twin
 
-> 🌐 **[Interactive 3D WebGL Twin & Lab](https://lucacelebrano.me/)** · ⭐ **[Inflammatory Onco-Physics Repo](https://github.com/Lukecele/inflammatory-onco-physics)** · ⚡ **[1-Click Colab Solver](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)** · 📄 **[Research Square Preprint (10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1)**
+> 🌐 **[Interactive 3D WebGL Twin & Lab](https://lucacelebrano.me/)** · ⭐ **[Inflammatory Onco-Physics Repo](https://github.com/Lukecele/inflammatory-onco-physics)** · ⚡ **[1-Click Colab Solver](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb)**
 
 **5-Part 4K Simulation Series (YouTube Shorts):**  
 [Part 1: Perivascular Sanctuaries](https://youtube.com/shorts/2IxHC94_Z18) · [Part 2: Matrix Breach & ctDNA](https://youtube.com/shorts/m5TXgQOB2WA) · [Part 3: Desmoplastic Shield](https://youtube.com/shorts/o4tKdbQV9cU) · [Part 4: Targeted Antibody Influx](https://youtube.com/shorts/9EMsP73WSho) · [Part 5: 5.5-Month ctDNA Lead Time](https://youtube.com/shorts/0HPGny83MRU)
@@ -19,12 +19,12 @@
 
 ## 🧠 Plain-Language Digest (Gist.Science)
 
-Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacological Sanctuaries in Perivascular Tumour Cords*, rs-11530312) by **Dr. Luc Hendriks, PhD & Luca Celebrano**:
+Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacological Sanctuaries in Perivascular Tumour Cords*) by **Dr. Luc Hendriks, PhD & Luca Celebrano**:
 
-> 🇬🇧 **[Read English Plain-Language Digest ↗](https://gist.science/paper/rs/rs-11530312)**
+> 🇬🇧 **[Read English Plain-Language Digest ↗](https://gist.science)**
 
 **Also translated into 11 languages:**  
-[🇮🇳 हिन्दी (Hindi)](https://gist.science/hi/paper/rs/rs-11530312) · [🇮🇹 Italiano](https://gist.science/it/paper/rs/rs-11530312) · [🇪🇸 Español](https://gist.science/es/paper/rs/rs-11530312) · [🇫🇷 Français](https://gist.science/fr/paper/rs/rs-11530312) · [🇩🇪 Deutsch](https://gist.science/de/paper/rs/rs-11530312) · [🇵🇹 Português](https://gist.science/pt/paper/rs/rs-11530312) · [🇨🇳 中文](https://gist.science/zh/paper/rs/rs-11530312) · [🇯🇵 日本語](https://gist.science/ja/paper/rs/rs-11530312) · [🇰🇷 한국어](https://gist.science/ko/paper/rs/rs-11530312) · [🇸🇦 العربية](https://gist.science/ar/paper/rs/rs-11530312) · [🇳🇱 Nederlands](https://gist.science/nl/paper/rs/rs-11530312)
+[🇮🇳 हिन्दी (Hindi)](https://gist.science) · [🇮🇹 Italiano](https://gist.science) · [🇪🇸 Español](https://gist.science) · [🇫🇷 Français](https://gist.science) · [🇩🇪 Deutsch](https://gist.science) · [🇵🇹 Português](https://gist.science) · [🇨🇳 中文](https://gist.science) · [🇯🇵 日本語](https://gist.science) · [🇰🇷 한국어](https://gist.science) · [🇸🇦 العربية](https://gist.science) · [🇳🇱 Nederlands](https://gist.science)
 
 ---
 
@@ -34,17 +34,16 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 *A Reaction-Diffusion Theory of Microvascular Pharmacological Sanctuaries and Inflammatory Pre-conditioning Explains Post-Adjuvant Relapse Dynamics Across 3,461 Patients.*  
 * **Setting & Scope:** Explains post-cessation recurrence and ctDNA shedding kinetics across 11 clinical cohorts ($N=3,461$) through continuous reaction-diffusion (Bessel K₀) and hereditary Volterra memory functional.  
 * **Status:** Springer Nature Master Monograph (26 pages) / Zenodo Permanent Archive.  
-* **Access:** [Research Square Preprint (DOI: 10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1) · [Zenodo Master Archive (DOI: 10.5281/zenodo.24118328)](https://doi.org/10.5281/zenodo.24118328) · [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Full Monograph PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/SUPPLEMENTARY_INFORMATION.pdf) · [Executive Memorandum PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf) · [5-Part 4K Simulation Series](https://youtube.com/shorts/0HPGny83MRU)
+* **Access:** [Zenodo Master Archive (DOI: 10.5281/zenodo.24118328)](https://doi.org/10.5281/zenodo.24118328) · [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Full Monograph PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/SUPPLEMENTARY_INFORMATION.pdf) · [Executive Memorandum PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf) · [5-Part 4K Simulation Series](https://youtube.com/shorts/0HPGny83MRU)
 
 ### 2. 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)
 *An in silico biophysical reaction-diffusion theory of pharmacological sanctuaries, post-ADAURA recurrence kinetics, and the prospective SG-ADAURA trial protocol hypothesis.*  
 * **Status:** Under review at *Scientific Reports* (Nature Portfolio, Editor Assigned).  
-* **Access:** [Research Square Preprint (DOI: 10.21203/rs.3.rs-11530312/v1)](https://doi.org/10.21203/rs.3.rs-11530312/v1) · [Zenodo Master Archive](https://doi.org/10.5281/zenodo.23754999) · [Full Manuscript PDF](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf) · [Interactive Slides](https://lukecele.github.io/spatial-continuum-oncology/slides.html) · [Poster](https://lukecele.github.io/spatial-continuum-oncology/poster.html) · [bio.tools](https://bio.tools/spatial-continuum-oncology)
+* **Access:** [Zenodo Master Archive](https://doi.org/10.5281/zenodo.23754999) · [Full Manuscript PDF](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf) · [Interactive Slides](https://lukecele.github.io/spatial-continuum-oncology/slides.html) · [Poster](https://lukecele.github.io/spatial-continuum-oncology/poster.html) · [bio.tools](https://bio.tools/spatial-continuum-oncology)
 
 ### 3. 🧬 [Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational)
 *Evidence-linked translational models, exploratory GIST phenotype scoring, candidate registry, and Composite Resistance Index (CRI) audit tools.*  
-* **Status:** Published on *Research Square*.  
-* **Access:** [Preprint (DOI: 10.21203/rs.3.rs-11633521/v1)](https://doi.org/10.21203/rs.3.rs-11633521/v1) · [Zenodo Archive](https://doi.org/10.5281/zenodo.23963563) · [bio.tools](https://bio.tools/spatial-continuum-translational)
+* **Access:** [Zenodo Archive](https://doi.org/10.5281/zenodo.23963563) · [bio.tools](https://bio.tools/spatial-continuum-translational)
 
 ### 4. 🎲 [InSituGame](https://github.com/Lukecele/spatial-game-assay)
 *Spatial evolutionary game-theoretic assay for inferring subclonal payoff matrices and adaptive therapy dynamics.*  
@@ -65,12 +64,12 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 *Interactive translational biophysical risk modeler and bedside recurrence dynamics calculator.*  
 * **Setting & Scope:** Translates continuous reaction-diffusion physics ($K_0$ Bessel decay and subclinical sanctuary kinetics) into an instantaneous bedside prognostic score ($HTBI \in [0, 100]$), estimating cumulative recurrence hazard, expected relapse velocity, and subclinical ctDNA shedding lead times.  
 * **License & Standards:** CC-BY-4.0 International · ELIXIR EDAM Oncology (`topic_2640`) & Biophysics (`topic_3306`) ontologies.  
-* **Access:** [Live Interactive App (Streamlit)](https://htbi-bedside-calculator-yu8jwzkifktp2bvvs4ped4.streamlit.app/) · [Zenodo Software DOI (10.5281/zenodo.24241000)](https://doi.org/10.5281/zenodo.24241000) · [ELIXIR bio.tools (htbi-bedside-calculator)](https://bio.tools/htbi-bedside-calculator) · [Research Square Preprint (DOI: 10.21203/rs.3.rs-11695210/v1)](https://doi.org/10.21203/rs.3.rs-11695210/v1)
+* **Access:** [Live Interactive App (Streamlit)](https://htbi-bedside-calculator-yu8jwzkifktp2bvvs4ped4.streamlit.app/) · [Zenodo Software DOI (10.5281/zenodo.24241000)](https://doi.org/10.5281/zenodo.24241000) · [ELIXIR bio.tools (htbi-bedside-calculator)](https://bio.tools/htbi-bedside-calculator)
 
 ### 9. 🧠 [Neuro-Glymphatic Tau Dynamics (NGTD)](https://github.com/Lukecele/tau-glymphatic-continuum)
 *An In Silico Multiscale Reaction-Diffusion and Perivascular Transport Model of Pathological Tau Spreading in Alzheimer's Disease.*  
 * **Setting & Scope:** Couples Stokes-Brinkman perivascular hydrodynamics, boundary wave pinning, and sleep-wake circadian clearance to predict early-stage Alzheimer's tau propagation and tipping points across multi-cohort clinical populations ($N=2,758$).  
-* **Status:** CERN Zenodo Permanent Archive (DOI: 10.5281/zenodo.24261518) / In Submission at Research Square (Springer Nature Portfolio).  
+* **Status:** CERN Zenodo Permanent Archive (DOI: 10.5281/zenodo.24261518).  
 * **Access:** [CERN Zenodo Archive (DOI: 10.5281/zenodo.24261518)](https://doi.org/10.5281/zenodo.24261518) · [ELIXIR bio.tools (tau-glymphatic-continuum)](https://bio.tools/tau-glymphatic-continuum) · [1-Click Interactive Google Colab](https://colab.research.google.com/github/Lukecele/tau-glymphatic-continuum/blob/main/demo_interactive_ngtd.ipynb) · [Full Manuscript PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/01_MANUSCRIPT_TAU_GLYMPHATIC_FULL.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/02_SUPPLEMENTARY_INFORMATION.pdf)
 
 ---
@@ -129,8 +128,7 @@ This deterministic systems background directly informs my approach to scientific
 
 ---
 
-## 📬 Contact & Academic Affiliations
+## 📬 Contact
 
-* 🏛️ **Academic Affiliation:** Department of Clinical Medicine and Surgery, School of Medicine, Università degli Studi di Napoli Federico II, Naples, Italy.
-* 🎓 **Academic Email:** [l.celebrano@studenti.unina.it](mailto:l.celebrano@studenti.unina.it)
-* ✉️ **Personal Email:** [luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)
+* 🔬 **Affiliation:** Independent Researcher, Naples, Italy.
+* ✉️ **Contact Email:** [luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)
