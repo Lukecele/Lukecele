@@ -31,46 +31,57 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 ## 🔬 Research & Computational Systems
 
 ### 1. 🏆 [Inflammatory Onco-Physics](https://github.com/Lukecele/inflammatory-onco-physics) *(Flagship)*
-*A Reaction-Diffusion Theory of Microvascular Pharmacological Sanctuaries and Inflammatory Pre-conditioning Explains Post-Adjuvant Relapse Dynamics Across 3,461 Patients.*  
-* **Setting & Scope:** Explains post-cessation recurrence and ctDNA shedding kinetics across 11 clinical cohorts ($N=3,461$) through continuous reaction-diffusion (Bessel K₀) and hereditary Volterra memory functional.  
-* **Status:** Springer Nature Master Monograph (26 pages).  
-* **Access:** [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Full Monograph PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MANOSCRITTO_SPRINGER_NATURE_26_PAGINE.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/SUPPLEMENTARY_INFORMATION.pdf) · [Executive Memorandum PDF](https://github.com/Lukecele/inflammatory-onco-physics/raw/main/MEMORANDUM_ESPLORATIVO_IFOM.pdf) · [5-Part 4K Simulation Series](https://youtube.com/shorts/0HPGny83MRU)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24212810.svg)](https://doi.org/10.5281/zenodo.24212810)  
+*A Reaction-Diffusion Theory of Microvascular Pharmacological Sanctuaries and Inflammatory Pre-conditioning Explains Post-Adjuvant Relapse Dynamics Across 3,443 Patients.*  
+* **Setting & Scope:** Explains post-cessation recurrence and ctDNA shedding kinetics across 10 clinical cohorts ($N=3,443$) through continuous reaction-diffusion (Bessel K₀) and hereditary Volterra memory functional.  
+* **Status:** Open-Source Biophysical Simulation Suite & Reaction-Diffusion Solver.  
+* **Access:** [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Zenodo DOI](https://doi.org/10.5281/zenodo.24212810) · [Supplementary Documentation](https://github.com/Lukecele/inflammatory-onco-physics/blob/main/SUPPLEMENTARY_INFORMATION.md) · [5-Part 4K Simulation Series](https://youtube.com/shorts/0HPGny83MRU)
 
 ### 2. 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23854902.svg)](https://doi.org/10.5281/zenodo.23854902)  
 *An in silico biophysical reaction-diffusion theory of pharmacological sanctuaries, post-ADAURA recurrence kinetics, and the prospective SG-ADAURA trial protocol hypothesis.*  
-* **Status:** Under review at *Scientific Reports* (Nature Portfolio, Editor Assigned).  
-* **Access:** [Full Manuscript PDF](https://github.com/Lukecele/spatial-continuum-oncology/raw/main/01_MANOSCRITTO_FINALE_CON_FIGURE.pdf) · [Interactive Slides](https://lukecele.github.io/spatial-continuum-oncology/slides.html) · [Poster](https://lukecele.github.io/spatial-continuum-oncology/poster.html)
+* **Status:** Open-Source Reaction-Diffusion Transport Solver & Digital Twin.  
+* **Access:** [Interactive Slides](https://lucacelebrano.me/spatial-continuum-oncology/slides.html) · [Poster](https://lucacelebrano.me/spatial-continuum-oncology/poster.html) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23854902)
 
 ### 3. 🧬 [Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24035523.svg)](https://doi.org/10.5281/zenodo.24035523)  
 *Evidence-linked translational models, exploratory GIST phenotype scoring, candidate registry, and Composite Resistance Index (CRI) audit tools.*  
-* **Access:** 
+* **Status:** Open-Source Translational Multi-Cohort Package.  
+* **Access:** [Zenodo DOI](https://doi.org/10.5281/zenodo.24035523) · [Bioconda Recipe](https://anaconda.org/bioconda/spatial-continuum-translational) · [nf-core Module](https://github.com/nf-core/modules/pull/13794)
 
 ### 4. 🎲 [InSituGame](https://github.com/Lukecele/spatial-game-assay)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23735199.svg)](https://doi.org/10.5281/zenodo.23735199)  
 *Spatial evolutionary game-theoretic assay for inferring subclonal payoff matrices and adaptive therapy dynamics.*  
-* **Access:** [Live Assay Portal](https://lukecele.github.io/spatial-game-assay/)
+* **Access:** [Live Assay Portal](https://lucacelebrano.me/spatial-game-assay/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23735199) · [Bioconda Recipe](https://anaconda.org/bioconda/insitugame)
 
 ### 5. 🧭 [Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)
-*Subcellular transport boundaries in EGFR-mutant NSCLC via 10x Visium HD (officially curated in awesome-single-cell).*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23620878.svg)](https://doi.org/10.5281/zenodo.23620878)  
+*Subcellular transport boundaries in EGFR-mutant NSCLC via 10x Visium HD (officially curated in awesome-single-cell).*  
+* **Access:** [Zenodo DOI](https://doi.org/10.5281/zenodo.23620878) · [Curated in awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 
 ### 6. 👁️ [InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23621924.svg)](https://doi.org/10.5281/zenodo.23621924)  
 *Low-cost Attention-MIL pathology AI for spatial vascular decoupling on routine H&E whole-slide images.*  
-* **Access:** [Live Portal](https://lukecele.github.io/spatial-he-vision-study4/)
+* **Access:** [Live Portal](https://lucacelebrano.me/spatial-he-vision-study4/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23621924)
 
 ### 7. 📐 [Spatial Oncology Master](https://github.com/Lukecele/spatial-oncology-master)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23838235.svg)](https://doi.org/10.5281/zenodo.23838235)  
 *Cylindrical Bessel K₀ reaction-diffusion solver and MSKCC survival validation (N = 604).*  
-* **Access:** [Live Portal](https://lukecele.github.io/spatial-oncology-master/) · [GHCR Docker Image](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master)
+* **Access:** [Live Portal](https://lucacelebrano.me/spatial-oncology-master/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23838235) · [GHCR Docker Image](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master)
 
 ### 8. 🧮 [HTBI Research Explorer: Bedside Biophysical Calculator](https://github.com/Lukecele/htbi-bedside-calculator)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24241000.svg)](https://doi.org/10.5281/zenodo.24241000)  
 *Interactive translational biophysical risk modeler and bedside recurrence dynamics calculator.*  
 * **Setting & Scope:** Translates continuous reaction-diffusion physics ($K_0$ Bessel decay and subclinical sanctuary kinetics) into an instantaneous bedside prognostic score ($HTBI \in [0, 100]$), estimating cumulative recurrence hazard, expected relapse velocity, and subclinical ctDNA shedding lead times.  
 * **License & Standards:** CC-BY-4.0 International · ELIXIR EDAM Oncology (`topic_2640`) & Biophysics (`topic_3306`) ontologies.  
-* **Access:** [Live Interactive App (Streamlit)](https://htbi-bedside-calculator-yu8jwzkifktp2bvvs4ped4.streamlit.app/)
+* **Access:** [Live Interactive App (Streamlit)](https://htbi-bedside-calculator-yu8jwzkifktp2bvvs4ped4.streamlit.app/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.24241000)
 
 ### 9. 🧠 [Neuro-Glymphatic Tau Dynamics (NGTD)](https://github.com/Lukecele/tau-glymphatic-continuum)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24297489.svg)](https://doi.org/10.5281/zenodo.24297489)  
 *An In Silico Multiscale Reaction-Diffusion and Perivascular Transport Model of Pathological Tau Spreading in Alzheimer's Disease.*  
 * **Setting & Scope:** Couples Stokes-Brinkman perivascular hydrodynamics, boundary wave pinning, and sleep-wake circadian clearance to predict early-stage Alzheimer's tau propagation and tipping points across multi-cohort clinical populations ($N=2,758$).  
-* **Status:** In Silico Multiscale Computational Monograph.  
-* **Access:** [1-Click Interactive Google Colab](https://colab.research.google.com/github/Lukecele/tau-glymphatic-continuum/blob/main/demo_interactive_ngtd.ipynb) · [Full Manuscript PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/01_MANUSCRIPT_TAU_GLYMPHATIC_FULL.pdf) · [Supplementary Information PDF](https://github.com/Lukecele/tau-glymphatic-continuum/raw/main/02_SUPPLEMENTARY_INFORMATION.pdf)
+* **Status:** Open-Source Multiscale Reaction-Diffusion & Glymphatic Solver.  
+* **Access:** [1-Click Interactive Google Colab](https://colab.research.google.com/github/Lukecele/tau-glymphatic-continuum/blob/main/demo_interactive_ngtd.ipynb) · [Zenodo DOI](https://doi.org/10.5281/zenodo.24297489)
 
 ---
 
