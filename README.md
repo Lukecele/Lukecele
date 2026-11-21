@@ -1,7 +1,8 @@
 # Luca Celebrano
 
 **Independent Researcher · MD Candidate · Naples, Italy**  
-*Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible scientific software (Research Use Only).*
+*Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible scientific software (Research Use Only).*  
+*Software engineering & distributed systems founder at [@arbincept](https://github.com/arbincept).*
 
 [🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [📝 Substack](https://lucacelebrano.substack.com/) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab)
 
