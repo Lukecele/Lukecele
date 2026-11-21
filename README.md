@@ -2,7 +2,7 @@
 
 **Independent Researcher · MD Candidate · Naples, Italy**  
 *Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible scientific software (Research Use Only).*  
-*Software engineering & distributed systems founder at [@arbincept](https://github.com/arbincept).*
+*Open-source software & distributed systems founder at [@arbincept](https://github.com/arbincept).*
 
 [🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [📝 Substack](https://lucacelebrano.substack.com/) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab)
 
@@ -104,7 +104,7 @@ Interactive 3D cardiology & pulmonology learning platform built with React, Type
 👉 **[Launch MedTerminal ↗](https://cardio-thoracic-medterminal.vercel.app)**
 
 <details>
-<summary>💼 <strong>Engineering Roots: Web3 & DeFi (Click to expand)</strong></summary>
+<summary>💼 <strong>Software Development Background: Distributed Systems & Web3 (Click to expand)</strong></summary>
 <br>
 
 Before entering medical research, I built open-source blockchain and protocol software through the **[Arbitrage Inception](https://github.com/arbincept)** organization:
