@@ -1,10 +1,9 @@
 # Luca Celebrano
 
-**Independent Computational Oncology Researcher**  
-*Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible software.*  
-*Founder of Web3 protocol [@arbincept](https://github.com/arbincept).*
+**Independent Researcher · MD Candidate · Naples, Italy**  
+*Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible scientific software (Research Use Only).*
 
-[🌐 The Cave (Research Portfolio)](https://lucacelebrano.me/) · [📝 Substack](https://lucacelebrano.substack.com/) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab)
+[🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [📝 Substack](https://lucacelebrano.substack.com/) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab)
 
 ---
 
@@ -31,11 +30,11 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 ## 🔬 Research & Computational Systems
 
 ### 1. 🏆 [Inflammatory Onco-Physics](https://github.com/Lukecele/inflammatory-onco-physics) *(Flagship)*
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24212810.svg)](https://doi.org/10.5281/zenodo.24212810)  
-*A Reaction-Diffusion Theory of Microvascular Pharmacological Sanctuaries and Inflammatory Pre-conditioning Explains Post-Adjuvant Relapse Dynamics Across 3,443 Patients.*  
-* **Setting & Scope:** Explains post-cessation recurrence and ctDNA shedding kinetics across 10 clinical cohorts ($N=3,443$) through continuous reaction-diffusion (Bessel K₀) and hereditary Volterra memory functional.  
+[![Preprint v2](https://img.shields.io/badge/Preprint_v2-10.21203%2Frs.3.rs--11695210%2Fv2-0284c7)](https://doi.org/10.21203/rs.3.rs-11695210/v2) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24212810.svg)](https://doi.org/10.5281/zenodo.24212810)  
+*A Multiscale Biophysical Reaction-Diffusion Framework Coupling Histological Architecture, Interstitial Transport, and Inflammatory Tension in Solid Tumors: An Exploratory In Silico and Retrospective Multi-Cohort Analysis.*  
+* **Setting & Scope:** Exploratory *in silico* reaction-diffusion framework (Bessel $K_0$, $r_{\text{crit}} \approx 165.9\,\mu\text{m}$, ~31.3% outer sanctuary shell, ~5.4-month ctDNA-to-CT lead-time identity) coupled with retrospective multi-cohort survival analyses (Research Use Only).  
 * **Status:** Open-Source Biophysical Simulation Suite & Reaction-Diffusion Solver.  
-* **Access:** [1-Click Google Colab (Pro T4 GPU)](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Zenodo DOI](https://doi.org/10.5281/zenodo.24212810) · [Supplementary Documentation](https://github.com/Lukecele/inflammatory-onco-physics/blob/main/SUPPLEMENTARY_INFORMATION.md) · [5-Part 4K Simulation Series](https://youtube.com/shorts/0HPGny83MRU)
+* **Access:** [Research Square Preprint v2](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [1-Click Google Colab](https://colab.research.google.com/github/Lukecele/inflammatory-onco-physics/blob/main/demo_inflammatory_onco_physics.ipynb) · [Zenodo DOI](https://doi.org/10.5281/zenodo.24212810) · [Supplementary Documentation](https://github.com/Lukecele/inflammatory-onco-physics/blob/main/SUPPLEMENTARY_INFORMATION.md)
 
 ### 2. 👑 [Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23854902.svg)](https://doi.org/10.5281/zenodo.23854902)  
@@ -69,10 +68,10 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 *Cylindrical Bessel K₀ reaction-diffusion solver and MSKCC survival validation (N = 604).*  
 * **Access:** [Live Portal](https://lucacelebrano.me/spatial-oncology-master/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23838235) · [GHCR Docker Image](https://github.com/Lukecele/spatial-oncology-master/pkgs/container/spatial-oncology-master)
 
-### 8. 🧮 [HTBI Research Explorer: Bedside Biophysical Calculator](https://github.com/Lukecele/htbi-bedside-calculator)
+### 8. 🧮 [HTBI Research Explorer (RUO)](https://github.com/Lukecele/htbi-bedside-calculator)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24241000.svg)](https://doi.org/10.5281/zenodo.24241000)  
-*Interactive translational biophysical risk modeler and bedside recurrence dynamics calculator.*  
-* **Setting & Scope:** Translates continuous reaction-diffusion physics ($K_0$ Bessel decay and subclinical sanctuary kinetics) into an instantaneous bedside prognostic score ($HTBI \in [0, 100]$), estimating cumulative recurrence hazard, expected relapse velocity, and subclinical ctDNA shedding lead times.  
+*Exploratory in silico biophysical risk modeler and recurrence dynamics research calculator (Research Use Only).*  
+* **Setting & Scope:** Translates continuous reaction-diffusion physics ($K_0$ Bessel decay and subclinical sanctuary kinetics) into an exploratory *in silico* research score ($HTBI \in [0, 100]$) for hypothesis-generating simulations of recurrence hazard and ctDNA lead-time windows.  
 * **License & Standards:** CC-BY-4.0 International · ELIXIR EDAM Oncology (`topic_2640`) & Biophysics (`topic_3306`) ontologies.  
 * **Access:** [Live Interactive App (Streamlit)](https://htbi-bedside-calculator-yu8jwzkifktp2bvvs4ped4.streamlit.app/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.24241000)
 
