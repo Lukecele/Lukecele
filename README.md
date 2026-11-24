@@ -21,10 +21,9 @@
 
 Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacological Sanctuaries in Perivascular Tumour Cords*) by **Dr. Luc Hendriks, PhD & Luca Celebrano**:
 
-> 🇬🇧 **[Read English Plain-Language Digest ↗](https://gist.science)**
+> 🇬🇧 **[Read Plain-Language Digest on Gist.Science ↗](https://gist.science)**
 
-**Also translated into 11 languages:**  
-[🇮🇳 हिन्दी (Hindi)](https://gist.science) · [🇮🇹 Italiano](https://gist.science) · [🇪🇸 Español](https://gist.science) · [🇫🇷 Français](https://gist.science) · [🇩🇪 Deutsch](https://gist.science) · [🇵🇹 Português](https://gist.science) · [🇨🇳 中文](https://gist.science) · [🇯🇵 日本語](https://gist.science) · [🇰🇷 한국어](https://gist.science) · [🇸🇦 العربية](https://gist.science) · [🇳🇱 Nederlands](https://gist.science)
+**Available in 12 languages:** English · 🇮🇳 हिन्दी (Hindi) · 🇮🇹 Italiano · 🇪🇸 Español · 🇫🇷 Français · 🇩🇪 Deutsch · 🇵🇹 Português · 🇨🇳 中文 · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇸🇦 العربية · 🇳🇱 Nederlands
 
 ---
 
