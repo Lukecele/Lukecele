@@ -4,7 +4,16 @@
 *Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible scientific software (Research Use Only).*  
 *Open-source software & distributed systems founder at [@arbincept](https://github.com/arbincept).*
 
-[🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab) · [📦 Bioconda (6 pkgs)](https://anaconda.org/bioconda/spatial-continuum)
+[🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab) · [📦 Bioconda (6 pkgs)](https://anaconda.org/bioconda/spatial-continuum) · [🧬 nf-core/modules (9 PRs)](https://github.com/nf-core/modules/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele)
+
+> [!TIP]
+> ⭐ **All 6 biophysical & spatial oncology packages are published on Bioconda and integrated into official `nf-core/modules` — if you use them in your research, please consider starring the repositories below!**
+
+```bash
+conda install -c bioconda \
+  inflammatory-onco-physics spatial-continuum spatial-continuum-translational \
+  tau-glymphatic-continuum insitugame spatial-sanctuary
+```
 
 ---
 
@@ -39,7 +48,7 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 
 | # | Project | Biophysical Focus | Access | Zenodo DOI |
 |:-:|:---|:---|:---|:---|
-| 2 | **[Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)** | Reaction-diffusion pharmacological sanctuaries, post-ADAURA recurrence kinetics & SG-ADAURA protocol hypothesis | [Slides](https://lucacelebrano.me/spatial-continuum-oncology/slides.html) · [Poster](https://lucacelebrano.me/spatial-continuum-oncology/poster.html) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum) | [`10.5281/zenodo.24393478`](https://doi.org/10.5281/zenodo.24393478) |
+| 2 | **[Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)** | Reaction-diffusion pharmacological sanctuaries, post-ADAURA recurrence kinetics & SG-ADAURA protocol hypothesis | [Slides](https://lucacelebrano.me/spatial-continuum-oncology/slides.html) · [Poster](https://lucacelebrano.me/spatial-continuum-oncology/poster.html) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum) · [nf-core](https://github.com/nf-core/modules/pull/13487) | [`10.5281/zenodo.24393478`](https://doi.org/10.5281/zenodo.24393478) |
 | 3 | **[Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational)** | Evidence-linked translational models, exploratory GIST phenotype scoring & Composite Resistance Index (CRI) | [Bioconda](https://anaconda.org/bioconda/spatial-continuum-translational) · [nf-core](https://github.com/nf-core/modules/pull/13794) | [`10.5281/zenodo.24393479`](https://doi.org/10.5281/zenodo.24393479) |
 | 4 | **[InSituGame](https://github.com/Lukecele/spatial-game-assay)** | Spatial evolutionary game-theoretic assay inferring subclonal payoff matrices & adaptive therapy dynamics | [Portal](https://lucacelebrano.me/spatial-game-assay/) · [Bioconda](https://anaconda.org/bioconda/insitugame) · [nf-core](https://github.com/nf-core/modules/pull/13471) | [`10.5281/zenodo.24393480`](https://doi.org/10.5281/zenodo.24393480) |
 | 5 | **[Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)** | Subcellular transport boundaries in EGFR-mutant NSCLC via 10x Visium HD | [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) | [`10.5281/zenodo.24393476`](https://doi.org/10.5281/zenodo.24393476) |
