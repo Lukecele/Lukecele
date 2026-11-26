@@ -101,6 +101,7 @@ Interactive 3D cardiology & pulmonology learning platform built with React, Type
 * **[Angular](https://github.com/angular/angular)** — DevTools signal inspection fix: [#70986](https://github.com/angular/angular/pull/70986).
 * **[Hono](https://github.com/honojs/hono)** — JSDoc types & middleware annotations: [#5409](https://github.com/honojs/hono/pull/5409).
 * **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)** — [#4452](https://github.com/emmabostian/developer-portfolios/pull/4452), [#4445](https://github.com/emmabostian/developer-portfolios/pull/4445).
+* **[Awesome MCP Servers](https://github.com/Sagargupta16/awesome-mcp-servers)** — [CiteGuard MCP #543](https://github.com/Sagargupta16/awesome-mcp-servers/pull/543).
 
 ### ⛓️ Distributed Systems & Web3
 * **[DefiLlama](https://github.com/DefiLlama/dimension-adapters)** (10 PRs) — `dimension-adapters`: [#11038](https://github.com/DefiLlama/dimension-adapters/pull/11038), [#10834](https://github.com/DefiLlama/dimension-adapters/pull/10834), [#10332](https://github.com/DefiLlama/dimension-adapters/pull/10332), [#10305](https://github.com/DefiLlama/dimension-adapters/pull/10305), [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275); `chainlist`: [#3182](https://github.com/DefiLlama/chainlist/pull/3182), [#3159](https://github.com/DefiLlama/chainlist/pull/3159).
