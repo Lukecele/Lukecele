@@ -87,7 +87,7 @@ Interactive 3D cardiology & pulmonology learning platform built with React, Type
 
 ## 🤝 Verified Upstream Contributions
 
-*56 verified merged pull requests authored by `@Lukecele` across 20 external open-source repositories:*
+*57 verified merged pull requests authored by `@Lukecele` across 20 external open-source repositories:*
 
 ### 🧬 Bioinformatics, Spatial Omics & Workflows
 * **[nf-core/modules](https://github.com/nf-core/modules)** (9 PRs) — [tauglymphatic/calc #13861](https://github.com/nf-core/modules/pull/13861), [vcfanno #13860](https://github.com/nf-core/modules/pull/13860), [spatialcontinuumtranslational/gist #13794](https://github.com/nf-core/modules/pull/13794), [spatialsanctuary/simulate #13797](https://github.com/nf-core/modules/pull/13797), [inflammatoryoncophysics/calc #13789](https://github.com/nf-core/modules/pull/13789), [spatialcontinuum/cricalc #13487](https://github.com/nf-core/modules/pull/13487), [insitugame #13471](https://github.com/nf-core/modules/pull/13471), [gatk4/postprocessgermlinecnvcalls #13080](https://github.com/nf-core/modules/pull/13080), [ABRA2 #13039](https://github.com/nf-core/modules/pull/13039); plus **[nf-core/test-datasets](https://github.com/nf-core/test-datasets/pull/2368)** ([#2368](https://github.com/nf-core/test-datasets/pull/2368)).
@@ -101,7 +101,7 @@ Interactive 3D cardiology & pulmonology learning platform built with React, Type
 * **[Angular](https://github.com/angular/angular)** — DevTools signal inspection fix: [#70986](https://github.com/angular/angular/pull/70986).
 * **[Hono](https://github.com/honojs/hono)** — JSDoc types & middleware annotations: [#5409](https://github.com/honojs/hono/pull/5409).
 * **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)** — [#4452](https://github.com/emmabostian/developer-portfolios/pull/4452), [#4445](https://github.com/emmabostian/developer-portfolios/pull/4445).
-* **[Awesome MCP Servers](https://github.com/Sagargupta16/awesome-mcp-servers)** — [CiteGuard MCP #543](https://github.com/Sagargupta16/awesome-mcp-servers/pull/543).
+* **[Awesome MCP Servers](https://github.com/TensorBlock/awesome-mcp-servers)** — [TensorBlock #6956](https://github.com/TensorBlock/awesome-mcp-servers/pull/6956), [Sagargupta16 #543](https://github.com/Sagargupta16/awesome-mcp-servers/pull/543).
 
 ### ⛓️ Distributed Systems & Web3
 * **[DefiLlama](https://github.com/DefiLlama/dimension-adapters)** (10 PRs) — `dimension-adapters`: [#11038](https://github.com/DefiLlama/dimension-adapters/pull/11038), [#10834](https://github.com/DefiLlama/dimension-adapters/pull/10834), [#10332](https://github.com/DefiLlama/dimension-adapters/pull/10332), [#10305](https://github.com/DefiLlama/dimension-adapters/pull/10305), [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275); `chainlist`: [#3182](https://github.com/DefiLlama/chainlist/pull/3182), [#3159](https://github.com/DefiLlama/chainlist/pull/3159).
