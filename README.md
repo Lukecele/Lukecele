@@ -50,9 +50,9 @@ Author-reviewed clinical & biophysical lay summary (*Conditions for Pharmacologi
 
 | # | Project | Biophysical / AI Focus | Access | Zenodo DOI / Registry |
 |:-:|:---|:---|:---|:---|
-| 2 | **[CiteGuard MCP (`citeguard-mcp`)](https://github.com/Lukecele/citeguard-mcp)** | Zero-dependency Model Context Protocol (MCP) server & CLI to detect LLM hallucinated citations, chimera DOIs & retracted papers | [GitHub Release v0.1.0](https://github.com/Lukecele/citeguard-mcp/releases/tag/v0.1.0) · `uvx citeguard-mcp` | Crossref · DataCite · PubMed · OpenAlex · arXiv |
-| 3 | **[Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)** | Reaction-diffusion pharmacological sanctuaries, post-ADAURA recurrence kinetics & SG-ADAURA protocol hypothesis | [Slides](https://lucacelebrano.me/spatial-continuum-oncology/slides.html) · [Poster](https://lucacelebrano.me/spatial-continuum-oncology/poster.html) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum) · [nf-core](https://github.com/nf-core/modules/pull/13487) | [`10.5281/zenodo.24393478`](https://doi.org/10.5281/zenodo.24393478) |
-| 4 | **[Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational)** | Evidence-linked translational models, exploratory GIST phenotype scoring & Composite Resistance Index (CRI) | [Bioconda](https://anaconda.org/bioconda/spatial-continuum-translational) · [nf-core](https://github.com/nf-core/modules/pull/13794) | [`10.5281/zenodo.24393479`](https://doi.org/10.5281/zenodo.24393479) |
+| 2 | **[CiteGuard MCP (`citeguard-mcp`)](https://github.com/Lukecele/citeguard-mcp)** | Zero-dependency Model Context Protocol (MCP) server & CLI to detect LLM hallucinated citations, chimera DOIs & retracted papers | [PyPI v0.1.2](https://pypi.org/project/citeguard-mcp/) · [Glama (A)](https://glama.ai/mcp/servers/Lukecele/citeguard-mcp) · `uvx citeguard-mcp` | Official MCP Registry · Crossref · PubMed · OpenAlex · arXiv |
+| 3 | **[Spatial Continuum Oncology](https://github.com/Lukecele/spatial-continuum-oncology)** | Reaction-diffusion pharmacological sanctuaries, post-ADAURA recurrence kinetics & SG-ADAURA protocol hypothesis | [Preprint v2](https://doi.org/10.21203/rs.3.rs-11530312/v2) · [PyPI](https://pypi.org/project/spatial-continuum/) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum) · [nf-core](https://github.com/nf-core/modules/pull/13487) | [`10.5281/zenodo.24393478`](https://doi.org/10.5281/zenodo.24393478) |
+| 4 | **[Spatial Continuum Translational](https://github.com/Lukecele/spatial-continuum-translational)** | Evidence-linked translational models, exploratory GIST phenotype scoring & Composite Resistance Index (CRI) | [Preprint v2](https://doi.org/10.21203/rs.3.rs-11633521/v2) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum-translational) · [nf-core](https://github.com/nf-core/modules/pull/13794) | [`10.5281/zenodo.24393479`](https://doi.org/10.5281/zenodo.24393479) |
 | 5 | **[InSituGame](https://github.com/Lukecele/spatial-game-assay)** | Spatial evolutionary game-theoretic assay inferring subclonal payoff matrices & adaptive therapy dynamics | [Portal](https://lucacelebrano.me/spatial-game-assay/) · [Bioconda](https://anaconda.org/bioconda/insitugame) · [nf-core](https://github.com/nf-core/modules/pull/13471) | [`10.5281/zenodo.24393480`](https://doi.org/10.5281/zenodo.24393480) |
 | 6 | **[Spatial Architecture](https://github.com/Lukecele/spatial-architecture-osimertinib)** | Subcellular transport boundaries in EGFR-mutant NSCLC via 10x Visium HD | [Bioconda](https://anaconda.org/bioconda/spatial-sanctuary) · [nf-core](https://github.com/nf-core/modules/pull/13797) · [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) | [`10.5281/zenodo.24393476`](https://doi.org/10.5281/zenodo.24393476) |
 | 7 | **[InSituVision-AI](https://github.com/Lukecele/spatial-he-vision-study4)** | Low-cost Attention-MIL pathology AI for spatial vascular decoupling on routine H&E WSI | [Portal](https://lucacelebrano.me/spatial-he-vision-study4/) | [`10.5281/zenodo.24393481`](https://doi.org/10.5281/zenodo.24393481) |
@@ -69,10 +69,10 @@ conda install -c bioconda \
   spatial-continuum insitugame spatial-sanctuary \
   inflammatory-onco-physics spatial-continuum-translational tau-glymphatic-continuum
 
-pip install spatial-continuum
+pip install spatial-continuum citeguard-mcp
 ```
 
-* **Package Registries:** [PyPI](https://pypi.org/project/spatial-continuum/) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum)
+* **Package Registries:** [PyPI (`spatial-continuum`)](https://pypi.org/project/spatial-continuum/) · [PyPI (`citeguard-mcp`)](https://pypi.org/project/citeguard-mcp/) · [Bioconda](https://anaconda.org/bioconda/spatial-continuum)
 * **Stack:** `Python` (`NumPy`, `SciPy`, `pandas`, `scikit-learn`, `PyTorch`, `lifelines`) · `Nextflow DSL2` (`nf-core`) · `Snakemake` · `Galaxy (IUC)` · `Bioconda` · `Docker/Singularity` · `TypeScript` · `Three.js`
 
 ---
