@@ -1,14 +1,14 @@
 # Luca Celebrano
 
-**Independent Researcher · Web3 & DeFi Protocol Engineer (Since 2021) · MD Candidate · Naples, Italy**  
-*Dual-track engineer and researcher combining **Computational Oncology, Spatial Multi-Omics & Biophysical PDE Modeling** with **DeFi Protocol Architecture, On-Chain Indexing & Quantitative Arbitrage Systems** (Founder at [@arbincept](https://github.com/arbincept) · Active [DefiLlama](https://github.com/DefiLlama), [Bioconda](https://anaconda.org/bioconda) & [nf-core](https://github.com/nf-core/modules) contributor).*
+**Independent Researcher · Web3 & DeFi Protocol Developer (Since 2021) · MD Candidate · Naples, Italy**  
+*Independent researcher and open-source developer combining **Computational Oncology, Spatial Multi-Omics & Biophysical PDE Modeling** with **DeFi Protocol Architecture, On-Chain Indexing & Quantitative Arbitrage Systems** (Founder at [@arbincept](https://github.com/arbincept) · Active [DefiLlama](https://github.com/DefiLlama), [Bioconda](https://anaconda.org/bioconda) & [nf-core](https://github.com/nf-core/modules) contributor).*
 
 **🔬 Scientific & Bioinformatics:** [🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab) · [📦 Bioconda (6 pkgs · 14 PRs)](https://github.com/bioconda/bioconda-recipes/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele) · [🧬 nf-core/modules (9 PRs)](https://github.com/nf-core/modules/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele)  
 **⛓️ Web3 & DeFi Infrastructure:** [🦙 DefiLlama (11 Merged + 3 Open PRs)](https://github.com/pulls?q=org%3ADefiLlama+author%3ALukecele) · [📊 Arbitrage Inc. on DefiLlama](https://defillama.com/protocol/arbitrage-inc) · [🏛️ @arbincept Organization](https://github.com/arbincept) · [📈 RWA Stock Arbitrage](https://rwa-stock-arbitrage.vercel.app) · [🔷 viem (2 Merged PRs)](https://github.com/wevm/viem/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele)
 
 ---
 
-## ⛓️ Web3, DeFi Protocol & On-Chain Data Engineering (2021 – Present)
+## ⛓️ Web3, DeFi Protocol & On-Chain Data Development (2021 – Present)
 
 Since 2021, I have architected and maintained open-source DeFi protocol infrastructure, DEX aggregators, cross-chain routing systems, and on-chain data adapters through **[Arbitrage Inception (@arbincept)](https://github.com/arbincept)** ([listed on DefiLlama](https://defillama.com/protocol/arbitrage-inc)) and upstream contributions to **[DefiLlama](https://github.com/DefiLlama)**, **[wevm/viem](https://github.com/wevm/viem)**, and **[ethereum-lists/chains](https://github.com/ethereum-lists/chains)**.
 
@@ -90,5 +90,5 @@ pip install spatial-continuum citeguard-mcp
 
 ## 📬 Contact
 
-* 🔬 **Role:** Independent Researcher & Web3/DeFi Protocol Engineer, Naples, Italy.
+* 🔬 **Role:** Independent Researcher & Web3/DeFi Protocol Developer, Naples, Italy.
 * ✉️ **Contact Email:** [luca.celebrano1@gmail.com](mailto:luca.celebrano1@gmail.com)
