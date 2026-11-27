@@ -2,9 +2,9 @@
 
 **Independent Researcher · MD Candidate · Naples, Italy**  
 *Computational oncology, spatial multi-omics, reaction-diffusion biophysics & reproducible scientific software (Research Use Only).*  
-*Open-source software & distributed systems founder at [@arbincept](https://github.com/arbincept).*
+*Open-source software, DeFi protocol & distributed systems founder at [@arbincept](https://github.com/arbincept) (since 2021) · Active [DefiLlama](https://github.com/DefiLlama) contributor.*
 
-[🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab) · [📦 Bioconda (6 pkgs · 14 PRs)](https://github.com/bioconda/bioconda-recipes/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele) · [🧬 nf-core/modules (9 PRs)](https://github.com/nf-core/modules/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele)
+[🌐 Research Portfolio](https://lucacelebrano.me/) · [📄 Preprint v2 (Research Square)](https://doi.org/10.21203/rs.3.rs-11695210/v2) · [🆔 ORCID](https://orcid.org/0009-0007-0931-3555) · [🤗 Hugging Face](https://huggingface.co/spatial-continuum-lab) · [📦 Bioconda (6 pkgs · 14 PRs)](https://github.com/bioconda/bioconda-recipes/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele) · [🧬 nf-core/modules (9 PRs)](https://github.com/nf-core/modules/pulls?q=is%3Apr+is%3Amerged+author%3ALukecele) · [🦙 DefiLlama (14 PRs)](https://github.com/pulls?q=org%3ADefiLlama+author%3ALukecele)
 
 > [!TIP]
 > ⭐ **All 6 biophysical & spatial oncology packages are published on Bioconda and integrated into official `nf-core/modules` — if you use them in your research, please consider starring the repositories below!**
@@ -98,26 +98,28 @@ Interactive 3D cardiology & pulmonology learning platform built with React, Type
 * **Curated Spatial & Oncology Registries** — [awesome-spatial-omics #14](https://github.com/drighelli/awesome-spatial-omics/pull/14), [Spatial_transcriptomics_tools #21](https://github.com/p-gueguen/Spatial_transcriptomics_tools/pull/21), [awesome-single-cell #399](https://github.com/seandavi/awesome-single-cell/pull/399) / [#404](https://github.com/seandavi/awesome-single-cell/pull/404) / [#406](https://github.com/seandavi/awesome-single-cell/pull/406), [Awesome-AI4DigitalPathology #28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28) / [#29](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/29), [Awesome-Bioinformatics-Tools #9](https://github.com/ZhihaoXie/awesome-bioinformatics-tools/pull/9).
 
 ### ⚡ Core Web Frameworks & Developer Ecosystem
+* **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** — gitignore `core.excludesFile` resolution fix: [#20524](https://github.com/tailwindlabs/tailwindcss/pull/20524).
 * **[Angular](https://github.com/angular/angular)** — DevTools signal inspection fix: [#70986](https://github.com/angular/angular/pull/70986).
 * **[Hono](https://github.com/honojs/hono)** — JSDoc types & middleware annotations: [#5409](https://github.com/honojs/hono/pull/5409).
 * **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)** — [#4452](https://github.com/emmabostian/developer-portfolios/pull/4452), [#4445](https://github.com/emmabostian/developer-portfolios/pull/4445).
 * **[Awesome MCP Servers](https://github.com/TensorBlock/awesome-mcp-servers)** — [TensorBlock #6956](https://github.com/TensorBlock/awesome-mcp-servers/pull/6956), [Sagargupta16 #543](https://github.com/Sagargupta16/awesome-mcp-servers/pull/543).
 
 ### ⛓️ Distributed Systems & Web3
-* **[DefiLlama](https://github.com/DefiLlama/dimension-adapters)** (10 PRs) — `dimension-adapters`: [#11038](https://github.com/DefiLlama/dimension-adapters/pull/11038), [#10834](https://github.com/DefiLlama/dimension-adapters/pull/10834), [#10332](https://github.com/DefiLlama/dimension-adapters/pull/10332), [#10305](https://github.com/DefiLlama/dimension-adapters/pull/10305), [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275); `chainlist`: [#3182](https://github.com/DefiLlama/chainlist/pull/3182), [#3159](https://github.com/DefiLlama/chainlist/pull/3159).
+* **[DefiLlama](https://github.com/DefiLlama)** (14 PRs across 4 core repos) — `dimension-adapters`: [#11400](https://github.com/DefiLlama/dimension-adapters/pull/11400), [#11038](https://github.com/DefiLlama/dimension-adapters/pull/11038), [#10834](https://github.com/DefiLlama/dimension-adapters/pull/10834), [#10332](https://github.com/DefiLlama/dimension-adapters/pull/10332), [#10305](https://github.com/DefiLlama/dimension-adapters/pull/10305), [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275); `peggedassets-server`: [#1034](https://github.com/DefiLlama/peggedassets-server/pull/1034); `yield-server`: [#3276](https://github.com/DefiLlama/yield-server/pull/3276); `chainlist`: [#3362](https://github.com/DefiLlama/chainlist/pull/3362), [#3182](https://github.com/DefiLlama/chainlist/pull/3182), [#3159](https://github.com/DefiLlama/chainlist/pull/3159).
 * **[viem](https://github.com/wevm/viem)** — chain configurations: [#5136](https://github.com/wevm/viem/pull/5136), [#5108](https://github.com/wevm/viem/pull/5108).
 * **[Ethereum Lists](https://github.com/ethereum-lists/chains)** — chain RPC validation & fixes: [#9089](https://github.com/ethereum-lists/chains/pull/9089), [#8730](https://github.com/ethereum-lists/chains/pull/8730).
 * **Ecosystem Directories** — [awesome-web3 #796](https://github.com/ahmet/awesome-web3/pull/796) / [#795](https://github.com/ahmet/awesome-web3/pull/795), [awesome-ethereum #96](https://github.com/bekatom/awesome-ethereum/pull/96).
 
 <details>
-<summary>💼 <strong>Software Development Background: Distributed Systems & Web3 (Click to expand)</strong></summary>
+<summary>💼 <strong>DeFi Protocol & Distributed Systems Engineering (2021 – Present · Click to expand)</strong></summary>
 <br>
 
-Before entering medical research, I built open-source blockchain and protocol software through the **[Arbitrage Inception](https://github.com/arbincept)** organization:
-* [Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex) — DEX aggregation and cross-chain routing.
-* [Arbitrage Inception Earn](https://github.com/arbincept/arbitrage-inc-earn) — yield and lending vault integrations.
-
-This deterministic systems background directly informs my approach to scientific software reliability.
+Since 2021, I have architected and maintained open-source DeFi protocol infrastructure, DEX aggregators, and on-chain data engines through the **[Arbitrage Inception](https://github.com/arbincept)** organization ([listed on DefiLlama](https://defillama.com/protocol/arbitrage-inc)):
+* **[Arb-Inc All-in-Dex](https://github.com/arbincept/Arb-Inc-All-in-Dex)** ([arbitrage-inc.exchange](https://arbitrage-inc.exchange)) — DEX aggregation, cross-chain routing (EVM & Solana), limit orders, and 50/50 automated holder RevShare distribution.
+* **[Arbitrage Inception Earn](https://github.com/arbincept/arbitrage-inc-earn)** — BNB Chain yield and lending vault aggregator connecting Venus Protocol, Lista DAO (`slisBNB`), Stader, and pSTAKE.
+* **[RWA Stock Arbitrage Suite](https://github.com/arbincept/rwa-stock-arbitrage)** ([live app](https://rwa-stock-arbitrage.vercel.app)) — Real-time tokenized equity & cross-protocol spread scanner on BNB Chain.
+* **[BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)** & **[Inception Flap Scanner](https://github.com/arbincept/inception-flap-scanner)** — Asynchronous route simulation modeling gas/slippage/taxes and real-time bonding-curve security auditing.
+* **[Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain)** — Quantitative Solana DEX liquidity, wallet clustering, and tokenomics backtesting baseline.
 </details>
 
 ---
