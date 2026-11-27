@@ -98,7 +98,6 @@ Interactive 3D cardiology & pulmonology learning platform built with React, Type
 * **Curated Spatial & Oncology Registries** — [awesome-spatial-omics #14](https://github.com/drighelli/awesome-spatial-omics/pull/14), [Spatial_transcriptomics_tools #21](https://github.com/p-gueguen/Spatial_transcriptomics_tools/pull/21), [awesome-single-cell #399](https://github.com/seandavi/awesome-single-cell/pull/399) / [#404](https://github.com/seandavi/awesome-single-cell/pull/404) / [#406](https://github.com/seandavi/awesome-single-cell/pull/406), [Awesome-AI4DigitalPathology #28](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/28) / [#29](https://github.com/lingxitong/Awesome-AI4DigitalPathology/pull/29), [Awesome-Bioinformatics-Tools #9](https://github.com/ZhihaoXie/awesome-bioinformatics-tools/pull/9).
 
 ### ⚡ Core Web Frameworks & Developer Ecosystem
-* **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** — gitignore `core.excludesFile` resolution fix: [#20524](https://github.com/tailwindlabs/tailwindcss/pull/20524).
 * **[Angular](https://github.com/angular/angular)** — DevTools signal inspection fix: [#70986](https://github.com/angular/angular/pull/70986).
 * **[Hono](https://github.com/honojs/hono)** — JSDoc types & middleware annotations: [#5409](https://github.com/honojs/hono/pull/5409).
 * **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)** — [#4452](https://github.com/emmabostian/developer-portfolios/pull/4452), [#4445](https://github.com/emmabostian/developer-portfolios/pull/4445).
